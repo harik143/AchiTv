@@ -3547,8 +3547,12 @@ http://mag.trexlive.me:80/Michael88/Michael88/155847
 http://mag.trexlive.me:80/Michael88/Michael88/155848
 #EXTINF: -1 tvg-logo="https://tatalogo.pages.dev/789.png" group-title="1 Telugu [ Watcindia ]", TataSky Cinema HD
 http://mag.trexlive.me:80/Michael88/Michael88/155846
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qrrjyEpdHFyOUcpFGxDayg","kid":"9Qa35++xUE6ity38vJyBDg"}],"type":"temporary"}
 #EXTINF: -1 tvg-name="National Geographic HD Tata Sky Testing" tvg-logo="https://bolt-logoz.toxictvhost.workers.dev/605.png" group-title="1 Telugu [ Watcindia ]", 1 National Geographic HD Testing Tata sky
 https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/manifest.mpd
+
 #EXTINF: -1 tvg-logo="https://bolt-logoz.toxictvhost.workers.dev/605.png" group-title="1 Telugu [ Watcindia ]", 01 Testing tv
 https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/manifest.mpd
 #EXTINF: -1 tvg-id="andflixhd.in" tvg-name="& Flix HD" tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png" group-title="English Movies", & Flix HD
