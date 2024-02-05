@@ -251,23 +251,16 @@ https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_871/output/manifes
 
 #EXTINF: -1 tvg-id="zeecinemaluhd.in" tvg-name="Zee Cinemalu HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21307-je859sm0-v1/imageContent-21307-je859sm0-m2.png" group-title="1 Telugu [ Watcindia ]", Zee Cinemalu HD 2 ( W I )
 http://watchindia.net:8880/live/12171/04170628/941.ts
-#EXTINF: -1 tvg-id="ZeeTelugu.in" tvg-logo="http://logo.protv.cc/picons/logos/zeetelugu.jpg" group-title="1 Telugu [ Watcindia ]", ZEE TELUGU ( Airtel )
-http://mag.trexlive.me:80/Michael88/Michael88/281963
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"R5FSah6jpvvywOgnkGw/bw","kid":"LN3rUVpjU0W6Ifq5lmU62g"}],"type":"temporary"}
-#EXTINF: -1 tvg-id="250" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8845-j7ppmm28-v3/imageContent-8845-j7ppmm28-m7.png" group-title="1 Telugu [ Watcindia ]", Zee Telugu ( Tata Sky )
-https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_415/output/manifest.mpd
 
 
-#EXTINF: -1 tvg-id="zee.telugu.in" tvg-name="Zee Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Zee.png" group-title="1 Telugu [ Watcindia ]", Zee Telugu ( W I )
+#EXTINF: -1 tvg-id="zee.telugu.in" tvg-name="Zee Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Zee.png" group-title="1 Telugu [ Watcindia ]", Zee Telugu HD 2 ( W I )
 http://watchindia.net:8880/live/12171/04170628/940.ts
-#EXTINF: -1 tvg-id="ZeeTelugu.in" tvg-logo="http://logo.protv.cc/picons/logos/zeetelugu.jpg" group-title="1 Telugu [ Watcindia ]", ZEE TELUGU HD ( Airtel )
+#EXTINF: -1 tvg-id="ZeeTelugu.in" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21304-je859a3c-v1/imageContent-21304-je859a3c-m1.png" group-title="1 Telugu [ Watcindia ]", ZEE TELUGU HD 3 ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/155866
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gsjX8X6SVHDloyiE3vgXBw","kid":"Z+ObnuoYX/2Q4V6DB/tTKg"}],"type":"temporary"}
-#EXTINF: -1 tvg-id="635" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21304-je859a3c-v1/imageContent-21304-je859a3c-m1.png" group-title="1 Telugu [ Watcindia ]", Zee Telugu HD ( Tata Sky )
+#EXTINF: -1 tvg-id="635" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21304-je859a3c-v1/imageContent-21304-je859a3c-m1.png" group-title="1 Telugu [ Watcindia ]", Zee Telugu HD 1 ( Tata Sky )
 https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_873/output/manifest.mpd
 
 
