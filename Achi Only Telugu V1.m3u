@@ -2,7 +2,6 @@
 #EXTM3U  x-tvg-url="https://www.tsepg.cf/epg.xml.gz" x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 
 
-#EXTM3U 
 #EXTINF: -1 tvg-id="10tv.in" tvg-name="10 TV" tvg-logo="https://watchindia.net/images/channels/telugu/10_TV.png" group-title="1 Telugu [ Watcindia ]", 10 TV
 http://watchindia.net:8880/live/12171/04170628/981.ts
 #EXTINF: -1 tvg-id="1sports.in" tvg-name="ABN News" tvg-logo="https://watchindia.net/images/channels/telugu/ABN_News.png" group-title="1 Telugu [ Watcindia ]", ABN News
