@@ -76,16 +76,16 @@ http://mag.trexlive.me:80/Michael88/Michael88/155844
 #EXTINF: -1 tvg-id="geminicomedy.in" tvg-name="Gemini Comedy" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Comedy.png" group-title="1 Telugu [ Watcindia ]", Gemini Comedy 1 ( W I )
 http://watchindia.net:8880/live/12171/04170628/971.ts
 
-#EXTINF: -1 tvg-id="GeminiLife.in" tvg-logo="http://logo.protv.cc/picons/logos/GEMINI-LIFE.png" group-title="1 Telugu [ Watcindia ]", GEMINI LIFE ( Airtel )
+#EXTINF: -1 tvg-id="GeminiLife.in" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11437-j9jqv7ao-v2/imageContent-11437-j9jqv7ao-m2.png" group-title="1 Telugu [ Watcindia ]", Gemini Life 3 ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/155858
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JcFuWxVJM4AP97SGLo0jnw","kid":"zbOpJOD4XlC2qZSuVGkN/Q"}],"type":"temporary"}
-#EXTINF: -1 tvg-id="361" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11437-j9jqv7ao-v2/imageContent-11437-j9jqv7ao-m2.png" group-title="1 Telugu [ Watcindia ]", Gemini Life ( Tata Sky )
+#EXTINF: -1 tvg-id="361" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11437-j9jqv7ao-v2/imageContent-11437-j9jqv7ao-m2.png" group-title="1 Telugu [ Watcindia ]", Gemini Life 1 ( Tata Sky )
 https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_549/output/manifest.mpd
 
 
-#EXTINF: -1 tvg-id="geminilife.in" tvg-name="Gemini Life" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Life_HD.png" group-title="1 Telugu [ Watcindia ]", Gemini Life ( W I )
+#EXTINF: -1 tvg-id="geminilife.in" tvg-name="Gemini Life" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11437-j9jqv7ao-v2/imageContent-11437-j9jqv7ao-m2.png" group-title="1 Telugu [ Watcindia ]", Gemini Life 2 ( W I )
 http://watchindia.net:8880/live/12171/04170628/931.ts
 #EXTINF: -1 tvg-id="GeminiMovies.in" tvg-logo="http://logo.protv.cc/picons/logos/GEMINI-MOVIES-HD.png" group-title="1 Telugu [ Watcindia ]", GEMINI MOVIES HD ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/155851
