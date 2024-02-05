@@ -220,8 +220,14 @@ http://watchindia.net:8880/live/12171/04170628/933.ts
 http://watchindia.net:8880/live/12171/04170628/2168.ts
 #EXTINF: -1 tvg-id="StarMaaMovies.in" tvg-logo="http://logo.protv.cc/picons/logos/MAA-MOVIES.jpeg" group-title="1 Telugu [ Watcindia ]", STAR MAA MOVIES HD ( Airtel)
 http://mag.trexlive.me:80/Michael88/Michael88/155842
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6XFREJ7ACfaf35BTwBUU0A","kid":"nzps+7J0Ud2fKBZmyOYtgQ"}],"type":"temporary"}
 #EXTINF: -1 tvg-id="387" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18348-jcqpx9ns-v1/imageContent-18348-jcqpx9ns-m1.PNG" group-title="1 Telugu [ Watcindia ]", Star Maa Movies HD ( Tata Sky )
 https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_611/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=null
 #EXTINF: -1 tvg-id="957" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66770-kuwalqkg-v1/imageContent-66770-kuwalqkg-m1.png" group-title="1 Telugu [ Watcindia ]", Star Maa Movies HD ( Tata Sky )
 https://delta44tatasky.akamaized.net/out/i/1568869.mpd
 #EXTINF: -1 tvg-id="starmaamovieshd.in" tvg-name="Star Maa Movies HD" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Movies_HD.png" group-title="1 Telugu [ Watcindia ]", Star Maa Movies HD ( W I )
@@ -232,12 +238,23 @@ http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=281969&extensi
 http://tgaadi-web.tech/Aadi.php?id=232264
 #EXTINF: -1 tvg-id="tnews.in" tvg-name="T News" tvg-logo="https://watchindia.net/images/channels/telugu/T_News.png" group-title="1 Telugu [ Watcindia ]", T News
 http://watchindia.net:8880/live/12171/04170628/949.ts
-#EXTINF: -1 tvg-id="645" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23721-jg0fhacg-v2/imageContent-23721-jg0fhacg-m2.PNG" group-title="1 Telugu [ Watcindia ]", Tata Play English in Telugu [ Tata Sky ]
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iuyFEUwPhz1CPgRwyo7XNg","kid":"tNjr5huaU8KC9HUU4aIruw"}],"type":"temporary"}
+#EXTINF: -1 tvg-id="645" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23721-jg0fhacg-v2/imageContent-23721-jg0fhacg-m2.PNG" group-title="1 Telugu [ Watcindia ]", Tata Play English in Telugu ( Tata Sky )
 https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_880/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4e6a01oIN3SujCs9OkEkLg","kid":"9irPsjjnRqWO2O6a0z5odA"}],"type":"temporary"}
 #EXTINF: -1 tvg-id="ts1168" tvg-logo="https://tatalogo.pages.dev/1168.png" group-title="1 Telugu [ Watcindia ]", Tata Play Hollywood Local Telugu  ( Tata Sky )
 https://delta13tatasky.akamaized.net/out/i/6282183.mpd?begin=20240128T060000&end=20240205T060000
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+wPDMLYqdBMRGaGQVpYzdQ","kid":"cqO9b9LUVjOHUvd7EP195w"}],"type":"temporary"}
 #EXTINF: -1 tvg-id="ts1073" tvg-logo="https://tatalogo.pages.dev/1073.png" group-title="1 Telugu [ Watcindia ]", Tata Play Telugu Classics ( Tata Sky )
 https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1887/output/manifest.mpd?begin=20240128T060000&end=20240205T060000
+
+
 #EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/TATA-SKY.png" group-title="1 Telugu [ Watcindia ]", TATA SKY TELUGU CINEMA HD
 http://mag.trexlive.me:80/Michael88/Michael88/155846
 #EXTINF: -1 tvg-logo="https://tatalogo.pages.dev/789.png" group-title="1 Telugu [ Watcindia ]", TataSky Cinema HD
@@ -256,22 +273,40 @@ http://watchindia.net:8880/live/12171/04170628/943.ts
 http://watchindia.net:8880/live/12171/04170628/942.ts
 #EXTINF: -1 tvg-id="ZeeCinemalu.in" tvg-logo="http://logo.protv.cc/picons/logos/zeecinemalu.jpg" group-title="1 Telugu [ Watcindia ]", ZEE CINEMALU ( Airtel)
 http://mag.trexlive.me:80/Michael88/Michael88/155872
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5Tq91LaTvOByf7Wf6WPijw","kid":"FqYCeMyxW5OdbluB89b2hA"}],"type":"temporary"}
 #EXTINF: -1 tvg-id="252" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8849-j7pqmypc-v2/imageContent-8849-j7pqmypc-m3.png" group-title="1 Telugu [ Watcindia ]", Zee Cinemalu ( Tata Sky )
 https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_416/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Di3urPsjh+u0ga2EwGJzhA","kid":"EyWa1EHRVcatdZ5JJpnAzw"}],"type":"temporary"}
 #EXTINF: -1 tvg-id="636" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21307-je859sm0-v1/imageContent-21307-je859sm0-m2.png" group-title="1 Telugu [ Watcindia ]", Zee Cinemalu HD ( Tata Sky )
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_871/output/manifest.mpd
+
+
 #EXTINF: -1 tvg-id="zeecinemaluhd.in" tvg-name="Zee Cinemalu HD" tvg-logo="https://watchindia.net/images/channels/telugu/Zee_Cinemalu.png" group-title="1 Telugu [ Watcindia ]", Zee Cinemalu HD ( W I )
 http://watchindia.net:8880/live/12171/04170628/941.ts
 #EXTINF: -1 tvg-id="ZeeTelugu.in" tvg-logo="http://logo.protv.cc/picons/logos/zeetelugu.jpg" group-title="1 Telugu [ Watcindia ]", ZEE TELUGU ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/281963
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"R5FSah6jpvvywOgnkGw/bw","kid":"LN3rUVpjU0W6Ifq5lmU62g"}],"type":"temporary"}
 #EXTINF: -1 tvg-id="250" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8845-j7ppmm28-v3/imageContent-8845-j7ppmm28-m7.png" group-title="1 Telugu [ Watcindia ]", Zee Telugu ( Tata Sky )
 https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_415/output/manifest.mpd
+
+
 #EXTINF: -1 tvg-id="zee.telugu.in" tvg-name="Zee Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Zee.png" group-title="1 Telugu [ Watcindia ]", Zee Telugu ( W I )
 http://watchindia.net:8880/live/12171/04170628/940.ts
 #EXTINF: -1 tvg-id="ZeeTelugu.in" tvg-logo="http://logo.protv.cc/picons/logos/zeetelugu.jpg" group-title="1 Telugu [ Watcindia ]", ZEE TELUGU HD ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/155866
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gsjX8X6SVHDloyiE3vgXBw","kid":"Z+ObnuoYX/2Q4V6DB/tTKg"}],"type":"temporary"}
 #EXTINF: -1 tvg-id="635" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21304-je859a3c-v1/imageContent-21304-je859a3c-m1.png" group-title="1 Telugu [ Watcindia ]", Zee Telugu HD ( Tata Sky )
 https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_873/output/manifest.mpd
+
+
 #EXTINF: -1 tvg-id="486" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43899-jyofyk1s-v4/imageContent-43899-jyofyk1s-m4.png" group-title="Movies ( Tata Sky )", Tata Play Bollywood Premiere
 https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_792/output/manifest.mpd
 #EXTINF: -1 tvg-id="245" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="Movies ( Tata Sky )", STAR GOLD HD
