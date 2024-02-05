@@ -1,0 +1,639 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="starmaahd.in" tvg-name="Star Maa HD 1" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="1 Velugu ( Watch India ) Testing", Star Maa HD 1 ( W I )
+http://watchindia.net:8880/live/12171/04170628/933.ts
+#EXTINF: -1 tvg-id="starmaahd.in" tvg-name="Star Maa HD 2" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="1 Velugu ( Watch India ) Testing", Star Maa HD 2 ( W I )
+http://watchindia.net:8880/live/12171/04170628/2168.ts
+#EXTINF: -1 tvg-id="starmaamovieshd.in" tvg-name="Star Maa Movies HD" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Movies_HD.png" group-title="1 Velugu ( Watch India ) Testing", Star Maa Movies HD ( W I )
+http://watchindia.net:8880/live/12171/04170628/934.ts
+#EXTINF: -1 tvg-id="maagold.in" tvg-name="Star Maa Gold" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Gold_HD.png" group-title="1 Velugu ( Watch India ) Testing", Star Maa Gold ( W I )
+http://watchindia.net:8880/live/12171/04170628/935.ts
+#EXTINF: -1 tvg-id="geminitvhd.in" tvg-name="Gemini TV HD" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_TV_HD.png" group-title="1 Velugu ( Watch India ) Testing", Gemini TV HD ( W I )
+http://watchindia.net:8880/live/12171/04170628/928.ts
+#EXTINF: -1 tvg-id="geminicomedy.in" tvg-name="Gemini Comedy" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Comedy.png" group-title="1 Velugu ( Watch India ) Testing", Gemini Comedy ( W I )
+http://watchindia.net:8880/live/12171/04170628/971.ts
+#EXTINF: -1 tvg-id="geminimovieshd.in" tvg-name="Gemini Movies HD" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Movies_HD.png" group-title="1 Velugu ( Watch India ) Testing", Gemini Movies HD ( W I )
+http://watchindia.net:8880/live/12171/04170628/930.ts
+#EXTINF: -1 tvg-id="geminimusic.in" tvg-name="Gemini Music HD" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Music_HD.png" group-title="1 Velugu ( Watch India ) Testing", Gemini Music HD ( W I )
+http://watchindia.net:8880/live/12171/04170628/929.ts
+#EXTINF: -1 tvg-id="geminilife.in" tvg-name="Gemini Life" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Life_HD.png" group-title="1 Velugu ( Watch India ) Testing", Gemini Life ( W I )
+http://watchindia.net:8880/live/12171/04170628/931.ts
+#EXTINF: -1 tvg-id="10tv.in" tvg-name="10 TV" tvg-logo="https://watchindia.net/images/channels/telugu/10_TV.png" group-title="1 Velugu ( Watch India ) Testing", 10 TV
+http://watchindia.net:8880/live/12171/04170628/981.ts
+#EXTINF: -1 tvg-id="1sports.in" tvg-name="ABN News" tvg-logo="https://watchindia.net/images/channels/telugu/ABN_News.png" group-title="1 Velugu ( Watch India ) Testing", ABN News
+http://watchindia.net:8880/live/12171/04170628/980.ts
+#EXTINF: -1 tvg-id="bhaktitv.in" tvg-name="Bhakti TV" tvg-logo="https://watchindia.net/images/channels/telugu/Bhakti_TV.png" group-title="1 Velugu ( Watch India ) Testing", Bhakti TV
+http://watchindia.net:8880/live/12171/04170628/977.ts
+#EXTINF: -1 tvg-id="1sports.in" tvg-name="CVR News" tvg-logo="https://watchindia.net/images/channels/telugu/CVR_News.png" group-title="1 Velugu ( Watch India ) Testing", CVR News
+http://watchindia.net:8880/live/12171/04170628/975.ts
+#EXTINF: -1 tvg-id="ddsaptagiri.in" tvg-name="DD Saptagiri" tvg-logo="https://watchindia.net/images/channels/telugu/DD_Saptagiri.png" group-title="1 Velugu ( Watch India ) Testing", DD Saptagiri
+http://watchindia.net:8880/live/12171/04170628/974.ts
+#EXTINF: -1 tvg-id="etvhd.in" tvg-name="ETV HD" tvg-logo="https://watchindia.net/images/channels/telugu/ETV.png" group-title="1 Velugu ( Watch India ) Testing", ETV HD ( W I )
+http://watchindia.net:8880/live/12171/04170628/936.ts
+#EXTINF: -1 tvg-id="etvlife.in" tvg-name="ETV Life" tvg-logo="https://watchindia.net/images/channels/telugu/ETV_Life.png" group-title="1 Velugu ( Watch India ) Testing", ETV Life ( W I )
+http://watchindia.net:8880/live/12171/04170628/938.ts
+#EXTINF: -1 tvg-id="etvplus.in" tvg-name="ETV Plus" tvg-logo="https://watchindia.net/images/channels/telugu/ETV_Plus.png" group-title="1 Velugu ( Watch India ) Testing", ETV Plus ( W I )
+http://watchindia.net:8880/live/12171/04170628/937.ts
+#EXTINF: -1 tvg-id="ntvnews.in" tvg-name="NTV News" tvg-logo="https://watchindia.net/images/channels/telugu/NTV_News.png" group-title="1 Velugu ( Watch India ) Testing", NTV News
+http://watchindia.net:8880/live/12171/04170628/2193.ts
+#EXTINF: -1 tvg-id="rajmusixtelugu.in" tvg-name="Raj Musix Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Raj_Musix.png" group-title="1 Velugu ( Watch India ) Testing", Raj Musix Telugu
+http://watchindia.net:8880/live/12171/04170628/957.ts
+#EXTINF: -1 tvg-id="rajnewstelugu.in" tvg-name="Raj News Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Raj_News.png" group-title="1 Velugu ( Watch India ) Testing", Raj News Telugu
+http://watchindia.net:8880/live/12171/04170628/956.ts
+#EXTINF: -1 tvg-id="sakshitv.in" tvg-name="Sakshi TV" tvg-logo="https://watchindia.net/images/channels/telugu/Sakshi_TV.png" group-title="1 Velugu ( Watch India ) Testing", Sakshi TV
+http://watchindia.net:8880/live/12171/04170628/955.ts
+#EXTINF: -1 tvg-id="sony.yay.in" tvg-name="Sony Yay Telugu" tvg-logo="https://watchindia.net/images/channels/kids/Sony_Yay.png" group-title="1 Velugu ( Watch India ) Testing", Sony Yay Telugu ( W I )
+http://watchindia.net:8880/live/12171/04170628/2126.ts
+#EXTINF: -1 tvg-id="tnews.in" tvg-name="T News" tvg-logo="https://watchindia.net/images/channels/telugu/T_News.png" group-title="1 Velugu ( Watch India ) Testing", T News
+http://watchindia.net:8880/live/12171/04170628/949.ts
+#EXTINF: -1 tvg-id="thanthitv.in" tvg-name="Thanthi TV" tvg-logo="https://watchindia.net/images/channels/telugu/Thanthi_TV.png" group-title="1 Velugu ( Watch India ) Testing", Thanthi TV
+http://watchindia.net:8880/live/12171/04170628/947.ts
+#EXTINF: -1 tvg-id="tv9.in" tvg-name="TV9" tvg-logo="https://watchindia.net/images/channels/telugu/TV9.png" group-title="1 Velugu ( Watch India ) Testing", TV9
+http://watchindia.net:8880/live/12171/04170628/945.ts
+#EXTINF: -1 tvg-id="v6telugu.in" tvg-name="V6 News" tvg-logo="https://watchindia.net/images/channels/telugu/V6_News.png" group-title="1 Velugu ( Watch India ) Testing", V6 News
+http://watchindia.net:8880/live/12171/04170628/943.ts
+#EXTINF: -1 tvg-id="vissatv.in" tvg-name="Vissa TV" tvg-logo="https://watchindia.net/images/channels/telugu/Vissa_TV.png" group-title="1 Velugu ( Watch India ) Testing", Vissa TV
+http://watchindia.net:8880/live/12171/04170628/942.ts
+#EXTINF: -1 tvg-id="zeecinemaluhd.in" tvg-name="Zee Cinemalu HD" tvg-logo="https://watchindia.net/images/channels/telugu/Zee_Cinemalu.png" group-title="1 Velugu ( Watch India ) Testing", Zee Cinemalu HD ( W I )
+http://watchindia.net:8880/live/12171/04170628/941.ts
+#EXTINF: -1 tvg-id="zee.telugu.in" tvg-name="Zee Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Zee.png" group-title="1 Velugu ( Watch India ) Testing", Zee Telugu ( W I )
+http://watchindia.net:8880/live/12171/04170628/940.ts
+#EXTINF: -1 tvg-id="andflixhd.in" tvg-name="& Flix HD" tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png" group-title="English Movies ( Watch India )", & Flix HD
+http://watchindia.net:8880/live/12171/04170628/2088.ts
+#EXTINF: -1 tvg-id="andprivehd.in" tvg-name="& Prive HD" tvg-logo="https://watchindia.net/images/channels/english/And_Prive_HD.png" group-title="English Movies ( Watch India )", & Prive HD
+http://watchindia.net:8880/live/12171/04170628/2103.ts
+#EXTINF: -1 tvg-id="moviesnowhd.in" tvg-name="Movies Now HD" tvg-logo="https://watchindia.net/images/channels/english/Movies_Now_HD.png" group-title="English Movies ( Watch India )", Movies Now HD
+http://watchindia.net:8880/live/12171/04170628/2102.ts
+#EXTINF: -1 tvg-id="romedynow.in" tvg-name="Romedy Now" tvg-logo="https://watchindia.net/images/channels/english/Romedy_Now.png" group-title="English Movies ( Watch India )", Romedy Now
+http://watchindia.net:8880/live/12171/04170628/2188.ts
+#EXTINF: -1 tvg-id="skyaction.uk" tvg-name="Sky Cinema Action" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Action.png" group-title="English Movies ( Watch India )", Sky Cinema Action
+http://watchindia.net:8880/live/12171/04170628/2176.ts
+#EXTINF: -1 tvg-id="skycinemacomedy.uk" tvg-name="Sky Cinema Comedy" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Comedy.png" group-title="English Movies ( Watch India )", Sky Cinema Comedy
+http://watchindia.net:8880/live/12171/04170628/2177.ts
+#EXTINF: -1 tvg-id="skydrama.uk" tvg-name="Sky Cinema Drama" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Drama.png" group-title="English Movies ( Watch India )", Sky Cinema Drama
+http://watchindia.net:8880/live/12171/04170628/2179.ts
+#EXTINF: -1 tvg-id="skyfamily.uk" tvg-name="Sky Cinema Family" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Family.png" group-title="English Movies ( Watch India )", Sky Cinema Family
+http://watchindia.net:8880/live/12171/04170628/2173.ts
+#EXTINF: -1 tvg-id="skygreats.uk" tvg-name="Sky Cinema Greats" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Greats.png" group-title="English Movies ( Watch India )", Sky Cinema Greats
+http://watchindia.net:8880/live/12171/04170628/2172.ts
+#EXTINF: -1 tvg-id="skyhits.uk" tvg-name="Sky Cinema Hits" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Hits.png" group-title="English Movies ( Watch India )", Sky Cinema Hits
+http://watchindia.net:8880/live/12171/04170628/2171.ts
+#EXTINF: -1 tvg-id="skypremiere.uk" tvg-name="Sky Cinema Premiere" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Premiere.png" group-title="English Movies ( Watch India )", Sky Cinema Premiere
+http://watchindia.net:8880/live/12171/04170628/2169.ts
+#EXTINF: -1 tvg-id="skyscifihorror.uk" tvg-name="Sky Cinema Sci-Fi/Horror" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Sci-Fi_Horror.png" group-title="English Movies ( Watch India )", Sky Cinema Sci-Fi/Horror
+http://watchindia.net:8880/live/12171/04170628/2180.ts
+#EXTINF: -1 tvg-id="skyselect.uk" tvg-name="Sky Cinema Select" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Select.png" group-title="English Movies ( Watch India )", Sky Cinema Select
+http://watchindia.net:8880/live/12171/04170628/2170.ts
+#EXTINF: -1 tvg-id="skythriller.uk" tvg-name="Sky Cinema Thriller" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Thriller.png" group-title="English Movies ( Watch India )", Sky Cinema Thriller
+http://watchindia.net:8880/live/12171/04170628/2178.ts
+#EXTINF: -1 tvg-id="sonypixhd.in" tvg-name="Sony Pix HD" tvg-logo="https://watchindia.net/images/channels/english/Sony_Pix.png" group-title="English Movies ( Watch India )", Sony Pix HD
+http://watchindia.net:8880/live/12171/04170628/2101.ts
+#EXTINF: -1 tvg-id="aande.us" tvg-name="A&E Network" tvg-logo="http://watchindia.net/images/channels/usa/A&E.png" group-title="USA Network ( Watch India )", A&E Network
+http://watchindia.net:8880/live/12171/04170628/2044.ts
+#EXTINF: -1 tvg-id="abcnewslive.us" tvg-name="ABC News" tvg-logo="https://watchindia.net/images/channels/usa/ABC.png" group-title="USA Network ( Watch India )", ABC News
+http://watchindia.net:8880/live/12171/04170628/2120.ts
+#EXTINF: -1 tvg-id="amc.us" tvg-name="AMC" tvg-logo="https://watchindia.net/images/channels/usa/AMC.png" group-title="USA Network ( Watch India )", AMC
+http://watchindia.net:8880/live/12171/04170628/2043.ts
+#EXTINF: -1 tvg-id="animalplanet.us" tvg-name="Animal Planet" tvg-logo="https://watchindia.net/images/channels/usa/Animal_Planet_HD.png" group-title="USA Network ( Watch India )", Animal Planet
+http://watchindia.net:8880/live/12171/04170628/2039.ts
+#EXTINF: -1 tvg-id="bbcamerica.us" tvg-name="BBC America" tvg-logo="http://watchindia.net/images/channels/usa/BBC_America.png" group-title="USA Network ( Watch India )", BBC America
+http://watchindia.net:8880/live/12171/04170628/2055.ts
+#EXTINF: -1 tvg-id="bbcworldnewsnorthamerica.us" tvg-name="BBC World News" tvg-logo="http://watchindia.net/images/channels/usa/BBC_World_News.png" group-title="USA Network ( Watch India )", BBC World News
+http://watchindia.net:8880/live/12171/04170628/2579.ts
+#EXTINF: -1 tvg-id="bet.us" tvg-name="BET" tvg-logo="https://watchindia.net/images/channels/usa/BET.png" group-title="USA Network ( Watch India )", BET
+http://watchindia.net:8880/live/12171/04170628/2063.ts
+#EXTINF: -1 tvg-id="bloombergtv.us" tvg-name="Bloomberg" tvg-logo="https://watchindia.net/images/channels/usa/Bloomberg.png" group-title="USA Network ( Watch India )", Bloomberg
+http://watchindia.net:8880/live/12171/04170628/2301.ts
+#EXTINF: -1 tvg-id="boomerang.us" tvg-name="Boomerang" tvg-logo="https://watchindia.net/images/channels/kids/Boomerang_HD.png" group-title="USA Network ( Watch India )", Boomerang
+http://watchindia.net:8880/live/12171/04170628/1295.ts
+#EXTINF: -1 tvg-id="bravo.us" tvg-name="Bravo" tvg-logo="http://watchindia.net/images/channels/usa/Bravo.png" group-title="USA Network ( Watch India )", Bravo
+http://watchindia.net:8880/live/12171/04170628/2305.ts
+#EXTINF: -1 tvg-id="cartoonnetwork.us" tvg-name="Cartoon Network" tvg-logo="http://watchindia.net/images/channels/usa/Cartoon_Network.png" group-title="USA Network ( Watch India )", Cartoon Network
+http://watchindia.net:8880/live/12171/04170628/2052.ts
+#EXTINF: -1 tvg-id="cbssportsnetworkusa.us" tvg-name="CBS Sports Network" tvg-logo="https://watchindia.net/images/channels/usa/CBS.png" group-title="USA Network ( Watch India )", CBS Sports Network
+http://watchindia.net:8880/live/12171/04170628/2121.ts
+#EXTINF: -1 tvg-id="cinemax.us" tvg-name="Cinemax" tvg-logo="https://watchindia.net/images/channels/usa/Cinemax.png" group-title="USA Network ( Watch India )", Cinemax
+http://watchindia.net:8880/live/12171/04170628/2065.ts
+#EXTINF: -1 tvg-id="cnbc.us" tvg-name="CNBC" tvg-logo="http://watchindia.net/images/channels/usa/CNBC.png" group-title="USA Network ( Watch India )", CNBC
+http://watchindia.net:8880/live/12171/04170628/2053.ts
+#EXTINF: -1 tvg-id="cnbcworld.us" tvg-name="CNBC World" tvg-logo="http://watchindia.net/images/channels/usa/CNBC_World.png" group-title="USA Network ( Watch India )", CNBC World
+http://watchindia.net:8880/live/12171/04170628/2326.ts
+#EXTINF: -1 tvg-id="cnn.us" tvg-name="CNN" tvg-logo="http://watchindia.net/images/channels/usa/CNN.png" group-title="USA Network ( Watch India )", CNN
+http://watchindia.net:8880/live/12171/04170628/2058.ts
+#EXTINF: -1 tvg-id="comedycentral.us" tvg-name="Comedy Central" tvg-logo="http://watchindia.net/images/channels/usa/Comedy_Central.png" group-title="USA Network ( Watch India )", Comedy Central
+http://watchindia.net:8880/live/12171/04170628/2056.ts
+#EXTINF: -1 tvg-id="discoverychannel.us" tvg-name="Discovery Channel" tvg-logo="https://watchindia.net/images/channels/usa/Discovery_Channel.png" group-title="USA Network ( Watch India )", Discovery Channel
+http://watchindia.net:8880/live/12171/04170628/2036.ts
+#EXTINF: -1 tvg-id="discoverylife.us" tvg-name="Discovery Life" tvg-logo="https://watchindia.net/images/channels/usa/Discovery_Life.png" group-title="USA Network ( Watch India )", Discovery Life
+http://watchindia.net:8880/live/12171/04170628/2124.ts
+#EXTINF: -1 tvg-id="disneychannel.us" tvg-name="Disney Channel" tvg-logo="http://watchindia.net/images/channels/usa/Disney_Channel.png" group-title="USA Network ( Watch India )", Disney Channel
+http://watchindia.net:8880/live/12171/04170628/2046.ts
+#EXTINF: -1 tvg-id="disneyjunior.us" tvg-name="Disney Jr." tvg-logo="https://watchindia.net/images/channels/kids/Disney_Junior.png" group-title="USA Network ( Watch India )", Disney Jr.
+http://watchindia.net:8880/live/12171/04170628/2105.ts
+#EXTINF: -1 tvg-id="disneyxd.us" tvg-name="Disney XD" tvg-logo="http://watchindia.net/images/channels/usa/Disney_XD.png" group-title="USA Network ( Watch India )", Disney XD
+http://watchindia.net:8880/live/12171/04170628/2066.ts
+#EXTINF: -1 tvg-id="espn.us" tvg-name="ESPN" tvg-logo="https://watchindia.net/images/channels/usa/ESPN.png" group-title="USA Network ( Watch India )", ESPN
+http://watchindia.net:8880/live/12171/04170628/2161.ts
+#EXTINF: -1 tvg-id="espn2.us" tvg-name="ESPN2" tvg-logo="http://watchindia.net/images/channels/usa/ESPN2.png" group-title="USA Network ( Watch India )", ESPN2
+http://watchindia.net:8880/live/12171/04170628/2307.ts
+#EXTINF: -1 tvg-id="foodnetwork.us" tvg-name="Food Network" tvg-logo="http://watchindia.net/images/channels/usa/Food_Network.png" group-title="USA Network ( Watch India )", Food Network
+http://watchindia.net:8880/live/12171/04170628/2045.ts
+#EXTINF: -1 tvg-id="foxbusiness.us" tvg-name="Fox Business" tvg-logo="http://watchindia.net/images/channels/usa/Fox_Business.png" group-title="USA Network ( Watch India )", Fox Business
+http://watchindia.net:8880/live/12171/04170628/2201.ts
+#EXTINF: -1 tvg-id="foxnews.us" tvg-name="Fox News" tvg-logo="http://watchindia.net/images/channels/usa/Fox_News.png" group-title="USA Network ( Watch India )", Fox News
+http://watchindia.net:8880/live/12171/04170628/2057.ts
+#EXTINF: -1 tvg-id="freeform.us" tvg-name="Freeform" tvg-logo="https://watchindia.net/images/channels/usa/Freeform.png" group-title="USA Network ( Watch India )", Freeform
+http://watchindia.net:8880/live/12171/04170628/2137.ts
+#EXTINF: -1 tvg-id="fx.us" tvg-name="FX" tvg-logo="https://watchindia.net/images/channels/usa/FX.png" group-title="USA Network ( Watch India )", FX
+http://watchindia.net:8880/live/12171/04170628/2136.ts
+#EXTINF: -1 tvg-id="gameshownetwork.us" tvg-name="Game Show Network" tvg-logo="http://watchindia.net/images/channels/usa/Game_Show_Network.png" group-title="USA Network ( Watch India )", Game Show Network
+http://watchindia.net:8880/live/12171/04170628/2298.ts
+#EXTINF: -1 tvg-id="hallmark.us" tvg-name="Hallmark Channel" tvg-logo="http://watchindia.net/images/channels/usa/Hallmark_Channel.png" group-title="USA Network ( Watch India )", Hallmark Channel
+http://watchindia.net:8880/live/12171/04170628/2302.ts
+#EXTINF: -1 tvg-id="hgtv.us" tvg-name="HGTV" tvg-logo="http://watchindia.net/images/channels/usa/HGTV.png" group-title="USA Network ( Watch India )", HGTV
+http://watchindia.net:8880/live/12171/04170628/2118.ts
+#EXTINF: -1 tvg-id="historychannel.us" tvg-name="History" tvg-logo="https://watchindia.net/images/channels/usa/History.png" group-title="USA Network ( Watch India )", History
+http://watchindia.net:8880/live/12171/04170628/2038.ts
+#EXTINF: -1 tvg-id="investigationdiscovery.us" tvg-name="Investigation Discovery" tvg-logo="http://watchindia.net/images/channels/usa/Investigation_Discovery.png" group-title="USA Network ( Watch India )", Investigation Discovery
+http://watchindia.net:8880/live/12171/04170628/2303.ts
+#EXTINF: -1 tvg-id="mlbnetwork.us" tvg-name="MLB Network" tvg-logo="http://watchindia.net/images/channels/usa/MLB_Network.png" group-title="USA Network ( Watch India )", MLB Network
+http://watchindia.net:8880/live/12171/04170628/2308.ts
+#EXTINF: -1 tvg-id="motortrend.us" tvg-name="MotorTrend" tvg-logo="http://watchindia.net/images/channels/usa/MotorTrend.png" group-title="USA Network ( Watch India )", MotorTrend
+http://watchindia.net:8880/live/12171/04170628/2306.ts
+#EXTINF: -1 tvg-id="msnbc.us" tvg-name="MSNBC" tvg-logo="http://watchindia.net/images/channels/usa/MSNBC.png" group-title="USA Network ( Watch India )", MSNBC
+http://watchindia.net:8880/live/12171/04170628/2060.ts
+#EXTINF: -1 tvg-id="mtv.us" tvg-name="MTV" tvg-logo="http://watchindia.net/images/channels/usa/MTV.png" group-title="USA Network ( Watch India )", MTV
+http://watchindia.net:8880/live/12171/04170628/2062.ts
+#EXTINF: -1 tvg-id="natgeowild.us" tvg-name="Nat Geo Wild" tvg-logo="http://watchindia.net/images/channels/usa/NAT_GEO_Wild.png" group-title="USA Network ( Watch India )", Nat Geo Wild
+http://watchindia.net:8880/live/12171/04170628/2047.ts
+#EXTINF: -1 tvg-id="natgeo.us" tvg-name="National Geographic" tvg-logo="https://watchindia.net/images/channels/usa/NAT_GEO_HD.png" group-title="USA Network ( Watch India )", National Geographic
+http://watchindia.net:8880/live/12171/04170628/2037.ts
+#EXTINF: -1 tvg-id="nbatv.us" tvg-name="NBA TV" tvg-logo="http://watchindia.net/images/channels/usa/NBA_TV.png" group-title="USA Network ( Watch India )", NBA TV
+http://watchindia.net:8880/live/12171/04170628/2309.ts
+#EXTINF: -1 tvg-id="nbcnetwork.us" tvg-name="NBC News Now" tvg-logo="https://watchindia.net/images/channels/usa/NBC_News_Now.png" group-title="USA Network ( Watch India )", NBC News Now
+http://watchindia.net:8880/live/12171/04170628/2580.ts
+#EXTINF: -1 tvg-id="nbcsportsnetwork.us" tvg-name="NBC Sports Network" tvg-logo="https://watchindia.net/images/channels/usa/NBC_Sports.png" group-title="USA Network ( Watch India )", NBC Sports Network
+http://watchindia.net:8880/live/12171/04170628/2266.ts
+#EXTINF: -1 tvg-id="newsmax.us" tvg-name="Newsmax TV" tvg-logo="http://watchindia.net/images/channels/usa/Newsmax_TV.png" group-title="USA Network ( Watch India )", Newsmax TV
+http://watchindia.net:8880/live/12171/04170628/2202.ts
+#EXTINF: -1 tvg-id="newsnation.us" tvg-name="NewsNation" tvg-logo="http://watchindia.net/images/channels/usa/NewsNation.png" group-title="USA Network ( Watch India )", NewsNation
+http://watchindia.net:8880/live/12171/04170628/2509.ts
+#EXTINF: -1 tvg-id="nflnetwork.us" tvg-name="NFL Network" tvg-logo="http://watchindia.net/images/channels/usa/NFL_Network.png" group-title="USA Network ( Watch India )", NFL Network
+http://watchindia.net:8880/live/12171/04170628/2165.ts
+#EXTINF: -1 tvg-id="nflredzone.us" tvg-name="NFL RedZone" tvg-logo="https://watchindia.net/images/channels/usa/NFL_RedZone.png" group-title="USA Network ( Watch India )", NFL RedZone
+http://watchindia.net:8880/live/12171/04170628/2160.ts
+#EXTINF: -1 tvg-id="nickjr.us" tvg-name="Nick Jr." tvg-logo="http://watchindia.net/images/channels/usa/Nick_Jr.png" group-title="USA Network ( Watch India )", Nick Jr.
+http://watchindia.net:8880/live/12171/04170628/2059.ts
+#EXTINF: -1 tvg-id="nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="http://watchindia.net/images/channels/usa/Nickelodeon.png" group-title="USA Network ( Watch India )", Nickelodeon
+http://watchindia.net:8880/live/12171/04170628/2049.ts
+#EXTINF: -1 tvg-id="nicktoons.us" tvg-name="Nicktoons" tvg-logo="https://watchindia.net/images/channels/usa/Nicktoons.png" group-title="USA Network ( Watch India )", Nicktoons
+http://watchindia.net:8880/live/12171/04170628/2064.ts
+#EXTINF: -1 tvg-id="oneamericanews.us" tvg-name="One America News" tvg-logo="https://watchindia.net/images/channels/usa/OAN.png" group-title="USA Network ( Watch India )", One America News
+http://watchindia.net:8880/live/12171/04170628/2138.ts
+#EXTINF: -1 tvg-id="outdoorchannel.us" tvg-name="Outdoor Channel" tvg-logo="http://watchindia.net/images/channels/usa/Outdoor_Channel.png" group-title="USA Network ( Watch India )", Outdoor Channel
+http://watchindia.net:8880/live/12171/04170628/2119.ts
+#EXTINF: -1 tvg-name="Paw Patrol" tvg-logo="https://watchindia.net/images/channels/kids/Paw_Patrol.png" group-title="USA Network ( Watch India )", Paw Patrol
+http://watchindia.net:8880/live/12171/04170628/1297.ts
+#EXTINF: -1 tvg-name="Peppa Pig" tvg-logo="https://watchindia.net/images/channels/kids/Peppa_Pig.png" group-title="USA Network ( Watch India )", Peppa Pig
+http://watchindia.net:8880/live/12171/04170628/1298.ts
+#EXTINF: -1 tvg-name="PJ Masks" tvg-logo="https://watchindia.net/images/channels/kids/PJ_Masks.png" group-title="USA Network ( Watch India )", PJ Masks
+http://watchindia.net:8880/live/12171/04170628/1299.ts
+#EXTINF: -1 tvg-id="showtime.us" tvg-name="Showtime" tvg-logo="http://watchindia.net/images/channels/usa/Showtime.png" group-title="USA Network ( Watch India )", Showtime
+http://watchindia.net:8880/live/12171/04170628/2054.ts
+#EXTINF: -1 tvg-id="syfy.us" tvg-name="Syfy" tvg-logo="https://watchindia.net/images/channels/usa/Syfy.png" group-title="USA Network ( Watch India )", Syfy
+http://watchindia.net:8880/live/12171/04170628/2127.ts
+#EXTINF: -1 tvg-id="tbs.us" tvg-name="TBS" tvg-logo="http://watchindia.net/images/channels/usa/TBS.png" group-title="USA Network ( Watch India )", TBS
+http://watchindia.net:8880/live/12171/04170628/2050.ts
+#EXTINF: -1 tvg-id="tennischannel.us" tvg-name="Tennis Channel" tvg-logo="http://watchindia.net/images/channels/usa/Tennis_Channel.png" group-title="USA Network ( Watch India )", Tennis Channel
+http://watchindia.net:8880/live/12171/04170628/2358.ts
+#EXTINF: -1 tvg-id="weatherchannel.us" tvg-name="The Weather Channel" tvg-logo="https://watchindia.net/images/channels/usa/The_Weather_Channel.png" group-title="USA Network ( Watch India )", The Weather Channel
+http://watchindia.net:8880/live/12171/04170628/2042.ts
+#EXTINF: -1 tvg-id="tlc.us" tvg-name="TLC" tvg-logo="https://watchindia.net/images/channels/usa/TLC.png" group-title="USA Network ( Watch India )", TLC
+http://watchindia.net:8880/live/12171/04170628/2139.ts
+#EXTINF: -1 tvg-id="tnt.us" tvg-name="TNT" tvg-logo="http://watchindia.net/images/channels/usa/TNT.png" group-title="USA Network ( Watch India )", TNT
+http://watchindia.net:8880/live/12171/04170628/2051.ts
+#EXTINF: -1 tvg-id="travel.us" tvg-name="Travel Channel" tvg-logo="https://watchindia.net/images/channels/usa/Travel_Channel.png" group-title="USA Network ( Watch India )", Travel Channel
+http://watchindia.net:8880/live/12171/04170628/2123.ts
+#EXTINF: -1 tvg-id="tvlandeast.us" tvg-name="TV Land" tvg-logo="http://watchindia.net/images/channels/usa/TV_Land.png" group-title="USA Network ( Watch India )", TV Land
+http://watchindia.net:8880/live/12171/04170628/2304.ts
+#EXTINF: -1 tvg-id="vh1.us" tvg-name="VH1" tvg-logo="http://watchindia.net/images/channels/usa/VH1.png" group-title="USA Network ( Watch India )", VH1
+http://watchindia.net:8880/live/12171/04170628/2185.ts
+#EXTINF: -1 tvg-id="abcwabc.us" tvg-name="ABC (New York)" tvg-logo="https://watchindia.net/images/channels/usa/ABC.png" group-title="USA Network ( Watch India )", ABC (New York)
+http://watchindia.net:8880/live/12171/04170628/2514.ts
+#EXTINF: -1 tvg-id="foxwnyw.us" tvg-name="Fox (New York)" tvg-logo="https://watchindia.net/images/channels/usa/Fox_NY.png" group-title="USA Network ( Watch India )", Fox (New York)
+http://watchindia.net:8880/live/12171/04170628/2590.ts
+#EXTINF: -1 tvg-id="cbs2wcbs.us" tvg-name="CBS (New York)" tvg-logo="https://watchindia.net/images/channels/usa/CBS.png" group-title="USA Network ( Watch India )", CBS (New York)
+http://watchindia.net:8880/live/12171/04170628/2591.ts
+#EXTINF: -1 tvg-id="nbcwnbc.us" tvg-name="NBC (New York)" tvg-logo="https://watchindia.net/images/channels/usa/NBC.png" group-title="USA Network ( Watch India )", NBC (New York)
+http://watchindia.net:8880/live/12171/04170628/2537.ts
+#EXTINF: -1 tvg-logo="http://b1g.fun/logos2/CineMania4K_telugu.jpg" group-title="2 TELEGU [ Airtel ]", CINEMANIA 4K ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/1438224
+#EXTINF: -1 tvg-id="ZeeTelugu.in" tvg-logo="http://logo.protv.cc/picons/logos/zeetelugu.jpg" group-title="2 TELEGU [ Airtel ]", ZEE TELUGU HD ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/155866
+#EXTINF: -1 tvg-id="ZeeTelugu.in" tvg-logo="http://logo.protv.cc/picons/logos/zeetelugu.jpg" group-title="2 TELEGU [ Airtel ]", ZEE TELUGU ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/281963
+#EXTINF: -1 tvg-id="ZeeCinemalu.in" tvg-logo="http://logo.protv.cc/picons/logos/zeecinemalu.jpg" group-title="2 TELEGU [ Airtel ]", ZEE CINEMALU ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/155872
+#EXTINF: -1 tvg-id="BhaktiTV.in" tvg-logo="http://logo.protv.cc/picons/logos/BHAKTI-TV.jpg" group-title="2 TELEGU [ Airtel ]", BHAKTI TV ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/155854
+#EXTINF: -1 tvg-id="GeminiTV.in" tvg-logo="http://logo.protv.cc/picons/logos/GEMINI-HD.jpg" group-title="2 TELEGU [ Airtel ]", GEMINI TV ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/281958
+#EXTINF: -1 tvg-id="GeminiTV.in" tvg-logo="http://logo.protv.cc/picons/logos/GEMINI-HD.jpg" group-title="2 TELEGU [ Airtel ]", GEMINI HD ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/155850
+#EXTINF: -1 tvg-id="GeminiMovies.in" tvg-logo="http://logo.protv.cc/picons/logos/GEMINI-MOVIES-HD.png" group-title="2 TELEGU [ Airtel ]", GEMINI MOVIES HD ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/155851
+#EXTINF: -1 tvg-id="GeminiLife.in" tvg-logo="http://logo.protv.cc/picons/logos/GEMINI-LIFE.png" group-title="2 TELEGU [ Airtel ]", GEMINI LIFE ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/155858
+#EXTINF: -1 tvg-id="GeminiMusic.in" tvg-logo="http://logo.protv.cc/picons/logos/GEMINI-MUSIC.jpg" group-title="2 TELEGU [ Airtel ]", GEMINI MUSIC ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/155857
+#EXTINF: -1 tvg-id="GeminiComedy.in" tvg-logo="http://logo.protv.cc/picons/logos/GEMINI-COMEDY.png" group-title="2 TELEGU [ Airtel ]", GEMINI COMEDY ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/155844
+#EXTINF: -1 tvg-id="ETV.in" tvg-logo="http://logo.protv.cc/picons/logos/E-TV.png" group-title="2 TELEGU [ Airtel ]", ETV HD ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/155852
+#EXTINF: -1 tvg-id="ETVTelengana.in" tvg-logo="http://logo.protv.cc/picons/logos/E-TV.png" group-title="2 TELEGU [ Airtel ]", ETV ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/281956
+#EXTINF: -1 tvg-id="ETVLife.in" tvg-logo="http://logo.protv.cc/picons/logos/ETV-LIFE.jpeg" group-title="2 TELEGU [ Airtel ]", ETV LIFE ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/155856
+#EXTINF: -1 tvg-id="ETVPlus.in" tvg-logo="http://logo.protv.cc/picons/logos/ETV-PLUS.jpg" group-title="2 TELEGU [ Airtel ]", ETV PLUS ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/155855
+#EXTINF: -1 tvg-id="ETVCinema.in" tvg-logo="http://logo.protv.cc/picons/logos/ETV-CINEMA-TELUGU.jpg" group-title="2 TELEGU [ Airtel ]", ETV CINEMA TELUGU ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/155853
+#EXTINF: -1 tvg-id="StarMaa.in" tvg-logo="http://logo.protv.cc/picons/logos/starmaa.jpg" group-title="2 TELEGU [ Airtel ]", STAR MAA HD ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/155843
+#EXTINF: -1 tvg-id="StarMaaMovies.in" tvg-logo="http://logo.protv.cc/picons/logos/MAA-MOVIES.jpeg" group-title="2 TELEGU [ Airtel ]", STAR MAA MOVIES HD ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/155842
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/MAA-GOLD.jpg" group-title="2 TELEGU [ Airtel ]", STAR MAA GOLD ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/155860
+#EXTINF: -1 tvg-id="10TV.in" tvg-logo="http://logo.protv.cc/picons/logos/10-TV.png" group-title="2 TELEGU [ Airtel ]", 10 TV
+http://mag.trexlive.me:80/Michael88/Michael88/155864
+#EXTINF: -1 tvg-id="SonyBBCEarth.in" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png" group-title="2 TELEGU [ Airtel ]", BBC EARTH HD ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/155848
+#EXTINF: -1 tvg-id="HistoryTV18.in" tvg-logo="http://logo.protv.cc/picons/logos/historytv18.jpg" group-title="2 TELEGU [ Airtel ]", HISTORY TV 18 HD ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/155849
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/history.png" group-title="2 TELEGU [ Airtel ]", HISTORY ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/281959
+#EXTINF: -1 tvg-id="DiscoveryWorld.in" tvg-logo="http://logo.protv.cc/picons/logos/discoveryworld.png" group-title="2 TELEGU [ Airtel ]", DISCOVERY WORLD HD ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/155845
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/NAT-GEO-TELUGU.jpg" group-title="2 TELEGU [ Airtel ]", NAT GEO TELUGU HD ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/155847
+#EXTINF: -1 tvg-id="NatGeoWild.in" tvg-logo="http://logo.protv.cc/picons/logos/natgeowild.png" group-title="2 TELEGU [ Airtel ]", NAT GEO WILD ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/281962
+#EXTINF: -1 tvg-id="KushiTV.in" tvg-logo="http://logo.protv.cc/picons/logos/KUSHI-TV.jpeg" group-title="2 TELEGU [ Airtel ]", KUSHI TV
+http://mag.trexlive.me:80/Michael88/Michael88/155868
+#EXTINF: -1 tvg-id="SonyYAY.in" tvg-logo="http://logo.protv.cc/picons/logos/SONY-YAY.jpg" group-title="2 TELEGU [ Airtel ]", SONY YAY
+http://mag.trexlive.me:80/Michael88/Michael88/155862
+#EXTINF: -1 tvg-id="TV5.in" tvg-logo="http://logo.protv.cc/picons/logos/TV5-NEWS.png" group-title="2 TELEGU [ Airtel ]", TV5 NEWS
+http://mag.trexlive.me:80/Michael88/Michael88/155861
+#EXTINF: -1 tvg-id="TV9.in" tvg-logo="http://logo.protv.cc/picons/logos/tv9.png" group-title="2 TELEGU [ Airtel ]", TV 9
+http://mag.trexlive.me:80/Michael88/Michael88/281982
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/TV9--TELUGU-NEWS.jpeg" group-title="2 TELEGU [ Airtel ]", TV9 TELUGU NEWS
+http://mag.trexlive.me:80/Michael88/Michael88/155863
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/TATA-SKY.png" group-title="2 TELEGU [ Airtel ]", TATA SKY TELUGU CINEMA HD
+http://mag.trexlive.me:80/Michael88/Michael88/155846
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/V6-NEWS.png" group-title="2 TELEGU [ Airtel ]", V6 NEWS
+http://mag.trexlive.me:80/Michael88/Michael88/155859
+#EXTINF: -1 tvg-id="VanithaTV.in" tvg-logo="http://logo.protv.cc/picons/logos/VANITHA-TV.jpg" group-title="2 TELEGU [ Airtel ]", VANITHA TV
+http://mag.trexlive.me:80/Michael88/Michael88/155871
+#EXTINF: -1 tvg-id="MaaMusic.in" tvg-logo="http://logo.protv.cc/picons/logos/MAA-MUSIC.jpg" group-title="2 TELEGU [ Airtel ]", MAA MUSIC ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/281969
+#EXTINF: -1 tvg-id="MAATV.in" tvg-logo="http://logo.protv.cc/picons/logos/MAA-TV.png" group-title="2 TELEGU [ Airtel ]", MAATV ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/281960
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/NTV-NEPAL-HD.jpeg" group-title="2 TELEGU [ Airtel ]", NTV NEWS HD
+http://mag.trexlive.me:80/Michael88/Michael88/358093
+#EXTINF: -1 tvg-id="MAAGold.in" tvg-logo="http://logo.protv.cc/picons/logos/MAA-GOLD.jpg" group-title="2 TELEGU [ Airtel ]", MAA GOLD ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/281968
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/hollywood.png" group-title="2 TELEGU [ Airtel ]", HOLLYWOOD LOCAL ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/1097632
+#EXTINF: -1 tvg-id="UdayaMovies.in" tvg-logo="http://logo.protv.cc/picons/logos/UDAYA-MOVIES.png" group-title="2 TELEGU [ Airtel ]", UDAYA MOVIES
+http://mag.trexlive.me:80/Michael88/Michael88/1097629
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/STUDIO-YUVA.jpeg" group-title="2 TELEGU [ Airtel ]", STUDIO YUVA ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/1097628
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/STUDIO-ONE.jpeg" group-title="2 TELEGU [ Airtel ]", STUDIO ONEP ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/1097627
+#EXTINF: -1 tvg-id="Hungama.in" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/HUNGAMADAMAALHD.png" group-title="2 TELEGU [ Airtel ]", HUNGAMA ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/1097624
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/CVROM.jpg" group-title="2 TELEGU [ Airtel ]", CV ROM
+http://mag.trexlive.me:80/Michael88/Michael88/1097619
+#EXTINF: -1 tvg-id="DDSaptagiri.in" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/DDINDIA.png" group-title="2 TELEGU [ Airtel ]", DD SAPTGIRI
+http://mag.trexlive.me:80/Michael88/Michael88/1097620
+#EXTINF: -1 tvg-id="CVRNews.in" tvg-logo="http://logo.protv.cc/picons/logos/CVROM.jpg" group-title="2 TELEGU [ Airtel ]", CVR NEWS
+http://mag.trexlive.me:80/Michael88/Michael88/1097618
+#EXTINF: -1 tvg-id="CVRHealth.in" tvg-logo="http://logo.protv.cc/picons/logos/CVR-HEALTH.png" group-title="2 TELEGU [ Airtel ]", CVR HEALTH
+http://mag.trexlive.me:80/Michael88/Michael88/1097617
+#EXTINF: -1 tvg-name="TELUGU| CINEMANIA 4K" group-title="3 ASIA | TELEGU ( Airtel )", CINEMANIA 4K ( Asia Airtel )
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=1438224&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| ZEE TELUGU HD" group-title="3 ASIA | TELEGU ( Airtel )", ZEE TELUGU HD ( Asia Airtel )
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155866&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| ZEE TELUGU" group-title="3 ASIA | TELEGU ( Airtel )", ZEE TELUGU ( Asia Airtel )
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=281963&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| ZEE CINEMALU" group-title="3 ASIA | TELEGU ( Airtel )", ZEE CINEMALU ( Asia Airtel )
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155872&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| BHAKTI TV" group-title="3 ASIA | TELEGU ( Airtel )", TELUGU| BHAKTI TV
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155854&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| GEMINI TV" group-title="3 ASIA | TELEGU ( Airtel )", GEMINI TV ( Asia Airtel )
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=281958&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| GEMINI HD" group-title="3 ASIA | TELEGU ( Airtel )", GEMINI HD ( Asia Airtel )
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155850&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| GEMINI MOVIES HD" group-title="3 ASIA | TELEGU ( Airtel )", GEMINI MOVIES HD ( Asia Airtel )
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155851&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| GEMINI LIFE" group-title="3 ASIA | TELEGU ( Airtel )", GEMINI LIFE ( Asia Airtel )
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155858&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| GEMINI MUSIC" group-title="3 ASIA | TELEGU ( Airtel )", GEMINI MUSIC ( Asia Airtel )
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155857&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| GEMINI COMEDY" group-title="3 ASIA | TELEGU ( Airtel )", GEMINI COMEDY ( Asia Airtel )
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155844&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| ETV HD" group-title="3 ASIA | TELEGU ( Airtel )", ETV HD ( Asia Airtel )
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155852&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| ETV" group-title="3 ASIA | TELEGU ( Airtel )", ETV ( Asia Airtel )
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=281956&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| ETV LIFE" group-title="3 ASIA | TELEGU ( Airtel )", ETV LIFE ( Asia Airtel )
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155856&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| ETV PLUS" group-title="3 ASIA | TELEGU ( Airtel )", ETV PLUS ( Asia Airtel )
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155855&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| ETV CINEMA TELUGU" group-title="3 ASIA | TELEGU ( Airtel )", ETV CINEMA TELUGU ( Asia Airtel )
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155853&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| STAR MAA HD" group-title="3 ASIA | TELEGU ( Airtel )", STAR MAA HD ( Asia Airtel )
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155843&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| STAR MAA MOVIES HD" group-title="3 ASIA | TELEGU ( Airtel )", STAR MAA MOVIES HD ( Asia Airtel )
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155842&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| STAR MAA GOLD" group-title="3 ASIA | TELEGU ( Airtel )", STAR MAA GOLD ( Asia Airtel )
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155860&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| 10 TV" group-title="3 ASIA | TELEGU ( Airtel )", TELUGU| 10 TV
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155864&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| BBC EARTH HD" group-title="3 ASIA | TELEGU ( Airtel )", BBC EARTH HD ( Asia Airtel )
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155848&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| HISTORY TV 18 HD" group-title="3 ASIA | TELEGU ( Airtel )", HISTORY TV 18 HD ( Asia Airtel )
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155849&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| HISTORY" group-title="3 ASIA | TELEGU ( Airtel )", HISTORY ( Asia Airtel )
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=281959&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| DISCOVERY WORLD HD" group-title="3 ASIA | TELEGU ( Airtel )", DISCOVERY WORLD HD ( Asia Airtel )
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155845&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| NAT GEO TELUGU HD" group-title="3 ASIA | TELEGU ( Airtel )", NAT GEO TELUGU HD ( Asia Airtel )
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155847&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| NAT GEO WILD" group-title="3 ASIA | TELEGU ( Airtel )", NAT GEO WILD ( Asia Airtel )
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=281962&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| KUSHI TV" group-title="3 ASIA | TELEGU ( Airtel )", TELUGU| KUSHI TV
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155868&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| SONY YAY" group-title="3 ASIA | TELEGU ( Airtel )", TELUGU| SONY YAY
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155862&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| TV5 NEWS" group-title="3 ASIA | TELEGU ( Airtel )", TELUGU| TV5 NEWS
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155861&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| TV 9" group-title="3 ASIA | TELEGU ( Airtel )", TELUGU| TV 9
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=281982&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| TV9 TELUGU NEWS" group-title="3 ASIA | TELEGU ( Airtel )", TELUGU| TV9 TELUGU NEWS
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155863&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| TATA SKY TELUGU CINEMA HD" group-title="3 ASIA | TELEGU ( Airtel )", TATA SKY TELUGU CINEMA HD ( Asia Airtel )
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155846&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| V6 NEWS" group-title="3 ASIA | TELEGU ( Airtel )", TELUGU| V6 NEWS
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155859&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| VANITHA TV" group-title="3 ASIA | TELEGU ( Airtel )", TELUGU| VANITHA TV
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155871&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| MAA MUSIC" group-title="3 ASIA | TELEGU ( Airtel )", MAA MUSIC ( Asia Airtel )
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=281969&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| MAATV" group-title="3 ASIA | TELEGU ( Airtel )", MAA TV ( Asia Airtel )
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=281960&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| NTV NEWS HD" group-title="3 ASIA | TELEGU ( Airtel )", TELUGU| NTV NEWS HD
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=358093&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| MAA GOLD" group-title="3 ASIA | TELEGU ( Airtel )", MAA GOLD ( Asia Airtel )
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=281968&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| HOLLYWOOD LOCAL" group-title="3 ASIA | TELEGU ( Airtel )", HOLLYWOOD LOCAL ( Asia Airtel )
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=1097632&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| UDAYA MOVIES" group-title="3 ASIA | TELEGU ( Airtel )", TELUGU| UDAYA MOVIES
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=1097629&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| STUDIO YUVA" group-title="3 ASIA | TELEGU ( Airtel )", TELUGU| STUDIO YUVA
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=1097628&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| STUDIO ONEP" group-title="3 ASIA | TELEGU ( Airtel )", TELUGU| STUDIO ONEP
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=1097627&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| HUNGAMA" group-title="3 ASIA | TELEGU ( Airtel )", TELUGU| HUNGAMA
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=1097624&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| DD SAPTGIRI" group-title="3 ASIA | TELEGU ( Airtel )", TELUGU| DD SAPTGIRI
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=1097620&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| CV ROM" group-title="3 ASIA | TELEGU ( Airtel )", TELUGU| CV ROM
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=1097619&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| CVR NEWS" group-title="3 ASIA | TELEGU ( Airtel )", TELUGU| CVR NEWS
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=1097618&extension=ts
+#EXTINF: -1 tvg-name="TELUGU| CVR HEALTH" group-title="3 ASIA | TELEGU ( Airtel )", TELUGU| CVR HEALTH
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=1097617&extension=ts
+#EXTINF: -1 tvg-logo="https://tatalogo.pages.dev/460.png" group-title="1 Telugu [ Watcindia ] Best", BBC Earth Telugu HD
+http://tgaadi-web.tech/Aadi.php?id=1133
+#EXTINF: -1 group-title="1 Telugu [ Watcindia ] Best", TBO FLIX
+http://tgaadi-web.tech/Aadi.php?id=44364
+#EXTINF: -1 group-title="1 Telugu [ Watcindia ] Best", TBO HD
+http://tgaadi-web.tech/Aadi.php?id=58151
+#EXTINF: -1 tvg-logo="https://bolt-logoz.toxictvhost.workers.dev/616.png" group-title="1 Telugu [ Watcindia ] Best", History Tv 18 TataSky
+http://tgaadi-web.tech/Aadi.php?id=879
+#EXTINF: -1 tvg-name="National Geographic HD TP" tvg-logo="https://bolt-logoz.toxictvhost.workers.dev/605.png" audio-track="Telugu" group-title="1 Telugu [ Watcindia ] Best", National Geographic HD TataSky
+http://tgaadi-web.tech/Aadi.php?id=1067
+#EXTINF: -1 tvg-name="History 18" tvg-logo="https://bolt-logoz.toxictvhost.workers.dev/616.png" group-title="1 Telugu [ Watcindia ] Best", History 18 Telugu
+http://mitvpro.online:88/02025685921199/8999991992/95866
+#EXTINF: -1 tvg-name="National Geographic HD" tvg-logo="https://bolt-logoz.toxictvhost.workers.dev/605.png" group-title="1 Telugu [ Watcindia ] Best", National Geographi HD
+http://mitvpro.online:88/02025685921199/8999991992/95868
+#EXTINF: -1 tvg-name="Star Maa Music" tvg-logo="https://iili.io/Jc8WpHb.png" group-title="1 Telugu [ Watcindia ] Best", Star Maa Music USA
+http://tgaadi-web.tech/Aadi.php?id=232264
+#EXTINF: -1 tvg-logo="https://iili.io/Jc8WpHb.png" group-title="1 Telugu [ Watcindia ] Best", Star Maa Music India
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=281969&extension=ts
+#EXTINF: -1 tvg-id="starmaahd.in" tvg-name="Star Maa HD 1" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="1 Telugu [ Watcindia ] Best", Star Maa HD 1
+http://watchindia.net:8880/live/12171/04170628/933.ts
+#EXTINF: -1 tvg-id="starmaahd.in" tvg-name="Star Maa HD 2" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="1 Telugu [ Watcindia ] Best", Star Maa HD 2
+http://watchindia.net:8880/live/12171/04170628/2168.ts
+#EXTINF: -1 tvg-id="starmaamovieshd.in" tvg-name="Star Maa Movies HD" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Movies_HD.png" group-title="1 Telugu [ Watcindia ] Best", Star Maa Movies HD
+http://watchindia.net:8880/live/12171/04170628/934.ts
+#EXTINF: -1 tvg-id="maagold.in" tvg-name="Star Maa Gold" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Gold_HD.png" group-title="1 Telugu [ Watcindia ] Best", Star Maa Gold
+http://watchindia.net:8880/live/12171/04170628/935.ts
+#EXTINF: -1 tvg-id="geminitvhd.in" tvg-name="Gemini TV HD" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_TV_HD.png" group-title="1 Telugu [ Watcindia ] Best", Gemini TV HD
+http://watchindia.net:8880/live/12171/04170628/928.ts
+#EXTINF: -1 tvg-id="geminicomedy.in" tvg-name="Gemini Comedy" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Comedy.png" group-title="1 Telugu [ Watcindia ] Best", Gemini Comedy
+http://watchindia.net:8880/live/12171/04170628/971.ts
+#EXTINF: -1 tvg-id="geminimovieshd.in" tvg-name="Gemini Movies HD" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Movies_HD.png" group-title="1 Telugu [ Watcindia ] Best", Gemini Movies HD
+http://watchindia.net:8880/live/12171/04170628/930.ts
+#EXTINF: -1 tvg-id="geminimusic.in" tvg-name="Gemini Music HD" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Music_HD.png" group-title="1 Telugu [ Watcindia ] Best", Gemini Music HD
+http://watchindia.net:8880/live/12171/04170628/929.ts
+#EXTINF: -1 tvg-id="geminilife.in" tvg-name="Gemini Life" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Life_HD.png" group-title="1 Telugu [ Watcindia ] Best", Gemini Life
+http://watchindia.net:8880/live/12171/04170628/931.ts
+#EXTINF: -1 tvg-id="10tv.in" tvg-name="10 TV" tvg-logo="https://watchindia.net/images/channels/telugu/10_TV.png" group-title="1 Telugu [ Watcindia ] Best", 10 TV
+http://watchindia.net:8880/live/12171/04170628/981.ts
+#EXTINF: -1 tvg-id="1sports.in" tvg-name="ABN News" tvg-logo="https://watchindia.net/images/channels/telugu/ABN_News.png" group-title="1 Telugu [ Watcindia ] Best", ABN News
+http://watchindia.net:8880/live/12171/04170628/980.ts
+#EXTINF: -1 tvg-id="bhaktitv.in" tvg-name="Bhakti TV" tvg-logo="https://watchindia.net/images/channels/telugu/Bhakti_TV.png" group-title="1 Telugu [ Watcindia ] Best", Bhakti TV
+http://watchindia.net:8880/live/12171/04170628/977.ts
+#EXTINF: -1 tvg-id="1sports.in" tvg-name="CVR News" tvg-logo="https://watchindia.net/images/channels/telugu/CVR_News.png" group-title="1 Telugu [ Watcindia ] Best", CVR News
+http://watchindia.net:8880/live/12171/04170628/975.ts
+#EXTINF: -1 tvg-id="ddsaptagiri.in" tvg-name="DD Saptagiri" tvg-logo="https://watchindia.net/images/channels/telugu/DD_Saptagiri.png" group-title="1 Telugu [ Watcindia ] Best", DD Saptagiri
+http://watchindia.net:8880/live/12171/04170628/974.ts
+#EXTINF: -1 tvg-id="etvhd.in" tvg-name="ETV HD" tvg-logo="https://watchindia.net/images/channels/telugu/ETV.png" group-title="1 Telugu [ Watcindia ] Best", ETV HD
+http://watchindia.net:8880/live/12171/04170628/936.ts
+#EXTINF: -1 tvg-id="etvlife.in" tvg-name="ETV Life" tvg-logo="https://watchindia.net/images/channels/telugu/ETV_Life.png" group-title="1 Telugu [ Watcindia ] Best", ETV Life
+http://watchindia.net:8880/live/12171/04170628/938.ts
+#EXTINF: -1 tvg-id="etvplus.in" tvg-name="ETV Plus" tvg-logo="https://watchindia.net/images/channels/telugu/ETV_Plus.png" group-title="1 Telugu [ Watcindia ] Best", ETV Plus
+http://watchindia.net:8880/live/12171/04170628/937.ts
+#EXTINF: -1 tvg-id="ntvnews.in" tvg-name="NTV News" tvg-logo="https://watchindia.net/images/channels/telugu/NTV_News.png" group-title="1 Telugu [ Watcindia ] Best", NTV News
+http://watchindia.net:8880/live/12171/04170628/2193.ts
+#EXTINF: -1 tvg-id="rajmusixtelugu.in" tvg-name="Raj Musix Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Raj_Musix.png" group-title="1 Telugu [ Watcindia ] Best", Raj Musix Telugu
+http://watchindia.net:8880/live/12171/04170628/957.ts
+#EXTINF: -1 tvg-id="rajnewstelugu.in" tvg-name="Raj News Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Raj_News.png" group-title="1 Telugu [ Watcindia ] Best", Raj News Telugu
+http://watchindia.net:8880/live/12171/04170628/956.ts
+#EXTINF: -1 tvg-id="sakshitv.in" tvg-name="Sakshi TV" tvg-logo="https://watchindia.net/images/channels/telugu/Sakshi_TV.png" group-title="1 Telugu [ Watcindia ] Best", Sakshi TV
+http://watchindia.net:8880/live/12171/04170628/955.ts
+#EXTINF: -1 tvg-id="sony.yay.in" tvg-name="Sony Yay Telugu" tvg-logo="https://watchindia.net/images/channels/kids/Sony_Yay.png" group-title="1 Telugu [ Watcindia ] Best", Sony Yay Telugu
+http://watchindia.net:8880/live/12171/04170628/2126.ts
+#EXTINF: -1 tvg-id="tnews.in" tvg-name="T News" tvg-logo="https://watchindia.net/images/channels/telugu/T_News.png" group-title="1 Telugu [ Watcindia ] Best", T News
+http://watchindia.net:8880/live/12171/04170628/949.ts
+#EXTINF: -1 tvg-id="thanthitv.in" tvg-name="Thanthi TV" tvg-logo="https://watchindia.net/images/channels/telugu/Thanthi_TV.png" group-title="1 Telugu [ Watcindia ] Best", Thanthi TV
+http://watchindia.net:8880/live/12171/04170628/947.ts
+#EXTINF: -1 tvg-id="tv9.in" tvg-name="TV9" tvg-logo="https://watchindia.net/images/channels/telugu/TV9.png" group-title="1 Telugu [ Watcindia ] Best", TV9
+http://watchindia.net:8880/live/12171/04170628/945.ts
+#EXTINF: -1 tvg-id="v6telugu.in" tvg-name="V6 News" tvg-logo="https://watchindia.net/images/channels/telugu/V6_News.png" group-title="1 Telugu [ Watcindia ] Best", V6 News
+http://watchindia.net:8880/live/12171/04170628/943.ts
+#EXTINF: -1 tvg-id="vissatv.in" tvg-name="Vissa TV" tvg-logo="https://watchindia.net/images/channels/telugu/Vissa_TV.png" group-title="1 Telugu [ Watcindia ] Best", Vissa TV
+http://watchindia.net:8880/live/12171/04170628/942.ts
+#EXTINF: -1 tvg-id="zeecinemaluhd.in" tvg-name="Zee Cinemalu HD" tvg-logo="https://watchindia.net/images/channels/telugu/Zee_Cinemalu.png" group-title="1 Telugu [ Watcindia ] Best", Zee Cinemalu HD
+http://watchindia.net:8880/live/12171/04170628/941.ts
+#EXTINF: -1 tvg-id="zee.telugu.in" tvg-name="Zee Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Zee.png" group-title="1 Telugu [ Watcindia ] Best", Zee Telugu
+http://watchindia.net:8880/live/12171/04170628/940.ts
+#EXTINF: -1 tvg-name="History Tv 18 HD (Airtel)" tvg-logo="https://bolt-logoz.toxictvhost.workers.dev/616.png" group-title="1 Telugu [ Watcindia ] Best", History Tv 18 HD (Airtel)
+http://mag.trexlive.me:80/Michael88/Michael88/155849
+#EXTINF: -1 tvg-name="Discovery HD" tvg-logo="https://tatalogo.pages.dev/219.png" group-title="1 Telugu [ Watcindia ] Best", Discovery HD (Airtel)
+http://mag.trexlive.me:80/Michael88/Michael88/155845
+#EXTINF: -1 tvg-name="National Geographic HD" tvg-logo="https://bolt-logoz.toxictvhost.workers.dev/605.png" group-title="1 Telugu [ Watcindia ] Best", National Geographic HD ( Airtel )
+http://mag.trexlive.me:80/Michael88/Michael88/155847
+#EXTINF: -1 tvg-logo="https://tatalogo.pages.dev/460.png" group-title="1 Telugu [ Watcindia ] Best", Sony BBC Earth HD (Airtel)
+http://mag.trexlive.me:80/Michael88/Michael88/155848
+#EXTINF: -1 tvg-logo="https://tatalogo.pages.dev/789.png" group-title="1 Telugu [ Watcindia ] Best", TataSky Cinema HD
+http://mag.trexlive.me:80/Michael88/Michael88/155846
+#EXTINF: -1 tvg-name="National Geographic HD Tata Sky Testing" tvg-logo="https://bolt-logoz.toxictvhost.workers.dev/605.png" group-title="1 Telugu [ Watcindia ] Best", 1 National Geographic HD Testing Tata sky
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/manifest.mpd
+#EXTINF: -1 tvg-logo="https://bolt-logoz.toxictvhost.workers.dev/605.png" group-title="1 Telugu [ Watcindia ] Best", 01 Testing tv
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/manifest.mpd
+#EXTINF: -1 tvg-id="326" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11350-j9jpk8pk-v1/imageContent-11350-j9jpk8pk-m1.png" group-title="Knowledge", DD Kisan
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_510/output/manifest.mpd
+#EXTINF: -1 tvg-id="783" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47647-k2lbp2q8-v2/imageContent-47647-k2lbp2q8-m2.png" group-title="Knowledge", Tata Play Seniors
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_974/output/manifest.mpd
+#EXTINF: -1 tvg-id="928" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64066-kra2j2qo-v2/imageContent-64066-kra2j2qo-m2.png" group-title="Knowledge", Tata Play NEET Prep
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1323/output/manifest.mpd
+#EXTINF: -1 tvg-id="929" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64069-kra2o75k-v2/imageContent-64069-kra2o75k-m2.png" group-title="Knowledge", Tata Play JEE Prep
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1324/output/manifest.mpd
+#EXTINF: -1 tvg-id="71" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25721-jia4i70o-v2/imageContent-25721-jia4i70o-m3.PNG" group-title="Knowledge", Tata Play English in Hindi
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_396/output/manifest.mpd
+#EXTINF: -1 tvg-id="111" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-352-j5jmrkqw-v2/imageContent-352-j5jmrkqw-m2.png" group-title="Knowledge", Tata Play Smart Manager
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_391/output/manifest.mpd
+#EXTINF: -1 tvg-id="137" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-462-j5jw44hk-v2/imageContent-462-j5jw44hk-m3.png" group-title="Knowledge", National Geographic
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_113/output/manifest.mpd
+#EXTINF: -1 tvg-id="167" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-703-j5l1wgco-v2/imageContent-703-j5l1wgco-m2.png" group-title="Knowledge", Tata Play Vedic Maths
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_392/output/manifest.mpd
+#EXTINF: -1 tvg-id="605" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png" group-title="Knowledge", National Geographic HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/manifest.mpd
+#EXTINF: -1 tvg-id="184" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-438-j5jt26xc-v2/imageContent-438-j5jt26xc-m2.png" group-title="Knowledge", Nat Geo Wild
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_119/output/manifest.mpd
+#EXTINF: -1 tvg-id="130" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-432-j5jsx754-v4/imageContent-432-j5jsx754-m4.png" group-title="Knowledge", Animal Planet
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_129/output/manifest.mpd
+#EXTINF: -1 tvg-id="287" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44915-jzuyh3w0-v1/imageContent-44915-jzuyh3w0-m1.png" group-title="Knowledge", Animal Planet HD World
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_457/output/manifest.mpd
+#EXTINF: -1 tvg-id="219" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-876-j5mcolzc-v2/imageContent-876-j5mcolzc-m2.png" group-title="Knowledge", Discovery Channel
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_128/output/manifest.mpd
+#EXTINF: -1 tvg-id="341" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11396-j9jq7jg0-v1/imageContent-11396-j9jq7jg0-m1.png" group-title="Knowledge", Discovery HD World
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_530/output/manifest.mpd
+#EXTINF: -1 tvg-id="413" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png" group-title="Knowledge", Nat Geo Wild HD
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_655/output/manifest.mpd
+#EXTINF: -1 tvg-id="113" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-369-j5jo9i3s-v1/imageContent-369-j5jo9i3s-m1.png" group-title="Knowledge", Discovery Science
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_153/output/manifest.mpd
+#EXTINF: -1 tvg-id="616" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12267-j9qx2si0-v3/imageContent-12267-j9qx2si0-m3.png" group-title="Knowledge", History TV18 HD
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_565/output/manifest.mpd
+#EXTINF: -1 tvg-id="460" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png" group-title="Knowledge", SONY BBC Earth HD
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_722/output/manifest.mpd
+#EXTINF: -1 tvg-id="646" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23855-jg9jt83c-v2/imageContent-23855-jg9jt83c-m8.png" group-title="Knowledge", DD Gyan Darshan
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_881/output/manifest.mpd
+#EXTINF: -1 tvg-id="158" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-551-j5ky7ufk-v5/imageContent-551-j5ky7ufk-m7.png" group-title="Knowledge", SONY BBC Earth
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_400/output/manifest.mpd
+#EXTINF: -1 tvg-id="126" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EPI_Thumbnail-v2/EPI_Thumbnail.png" group-title="Knowledge", EPIC
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_194/output/manifest.mpd
+#EXTINF: -1 tvg-id="172" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-745-j5l54bnc-v2/imageContent-745-j5l54bnc-m2.png" group-title="Knowledge", History TV18
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_120/output/manifest.mpd
+#EXTINF: -1 tvg-id="645" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23721-jg0fhacg-v2/imageContent-23721-jg0fhacg-m2.PNG" group-title="Knowledge", Tata Play English in Telugu
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_880/output/manifest.mpd
+#EXTINF: -1 tvg-id="436" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11709-j9kt6bg0-v1/imageContent-11709-j9kt6bg0-m1.png" group-title="Knowledge", Safari TV
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_698/output/manifest.mpd
+#EXTINF: -1 tvg-id="1023" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73014-l8gzok74-v2/imageContent-73014-l8gzok74-m4.png" group-title="Knowledge", Daiji World TV
+https://delta45tatasky.akamaized.net/out/i/1183.mpd
+#EXTINF: -1 tvg-id="486" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43899-jyofyk1s-v4/imageContent-43899-jyofyk1s-m4.png" group-title="Movies", Tata Play Bollywood Premiere
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_792/output/manifest.mpd
+#EXTINF: -1 tvg-id="245" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="Movies", STAR GOLD HD
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_412/output/manifest.mpd
+#EXTINF: -1 tvg-id="789" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48748-k4jbpl00-v2/imageContent-48748-k4jbpl00-m3.png" group-title="Movies", Tata Play Hollywood Local
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_980/output/manifest.mpd
+#EXTINF: -1 tvg-id="503" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="Movies", Zee Cinema HD
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_827/output/manifest.mpd
+#EXTINF: -1 tvg-id="741" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44333-jz3hpme0-v4/imageContent-44333-jz3hpme0-m8.png" group-title="Movies", Tata Play Classic Cinema
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_1630/output/manifest.mpd
+#EXTINF: -1 tvg-id="132" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-441-j5jt3mmg-v3/imageContent-441-j5jt3mmg-m3.png" group-title="Movies", SONY MAX
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_198/output/manifest.mpd
+#EXTINF: -1 tvg-id="80" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png" group-title="Movies", SONY MAX HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_305/output/manifest.mpd
+#EXTINF: -1 tvg-id="123" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11027-j8yjr8k0-v1/imageContent-11027-j8yjr8k0-m1.png" group-title="Movies", Zee Cinema
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_185/output/manifest.mpd
+#EXTINF: -1 tvg-id="175" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" group-title="Movies", Zee Bollywood
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_204/output/manifest.mpd
+#EXTINF: -1 tvg-id="632" tvg-logo="https://i.ibb.co/kJCTGhg/CC-20221111-203447.png" group-title="Movies", Star GOLD HD 2
+https://delta14tatasky.akamaized.net/out/i/5137035.mpd
+#EXTINF: -1 tvg-id="1769" tvg-logo="https://i.ibb.co/kJCTGhg/CC-20221111-203447.png" group-title="Movies", Star GOLD Romance
+https://delta14tatasky.akamaized.net/out/i/5137035.mpd
+#EXTINF: -1 tvg-id="267" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="Movies", &pictures HD
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_454/output/manifest.mpd
+#EXTINF: -1 tvg-id="148" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-499-j5jydp7s-v1/imageContent-499-j5jydp7s-m1.png" group-title="Movies", &pictures
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_203/output/manifest.mpd
+#EXTINF: -1 tvg-id="666" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31419-jmb48u74-v3/imageContent-31419-jmb48u74-m4.png" group-title="Movies", Tata Play Theatre HD
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_899/output/manifest.mpd
+#EXTINF: -1 tvg-id="727" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-42199-jxh2zlj4-v1/imageContent-42199-jxh2zlj4-m1.png" group-title="Movies", Zee Classic
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_955/output/manifest.mpd
+#EXTINF: -1 tvg-id="677" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34170-jok0hf00-v7/imageContent-34170-jok0hf00-m8.PNG" group-title="Movies", Tata Play ShortsTV
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_902/output/manifest.mpd
+#EXTINF: -1 tvg-id="61" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png" group-title="Movies", Colors Cineplex HD
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_385/output/manifest.mpd
+#EXTINF: -1 tvg-id="100" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11024-j8yix4g8-v1/imageContent-11024-j8yix4g8-m1.png" group-title="Movies", Zee Action
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_205/output/manifest.mpd
+#EXTINF: -1 tvg-id="53" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-149-j5frd0jc-v2/imageContent-149-j5frd0jc-m2.png" group-title="Movies", Colors Cineplex
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_384/output/manifest.mpd
+#EXTINF: -1 tvg-id="1183" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" group-title="Movies", &Xplor HD
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1963/output/manifest.mpd
+#EXTINF: -1 tvg-id="56" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-198-j5fsr7mw-v2/imageContent-198-j5fsr7mw-m3.png" group-title="Movies", Sony Wah
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_386/output/manifest.mpd
+#EXTINF: -1 tvg-id="7" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png" group-title="Movies", B4U Movies
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_276/output/manifest.mpd
+#EXTINF: -1 tvg-id="182" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-771-j5m3ayw0-v4/imageContent-771-j5m3ayw0-m4.png" group-title="Movies", Cinema TV India
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_357/output/manifest.mpd
+#EXTINF: -1 tvg-id="194" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-798-j5m7esnc-v4/imageContent-798-j5m7esnc-m11.png" group-title="Movies", Dangal 2
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_358/output/manifest.mpd
+#EXTINF: -1 tvg-id="276" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11200-j9i4gzig-v3/imageContent-11200-j9i4gzig-m4.png" group-title="Movies", WoW Cinema One
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_824/output/manifest.mpd
+#EXTINF: -1 tvg-id="64" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11090-j95hdh6o-v1/imageContent-11090-j95hdh6o-m1.png" group-title="Movies", Zee Anmol Cinema
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_387/output/manifest.mpd
+#EXTINF: -1 tvg-id="120" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png" group-title="Movies", SONY MAX 2
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_199/output/manifest.mpd
+#EXTINF: -1 tvg-id="730" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/B4UKad_Thumbnail-v5/B4UKad_Thumbnail.png" group-title="Movies", B4U Kadak
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_957/output/manifest.mpd
+#EXTINF: -1 tvg-id="296" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11263-j9j1tch4-v2/imageContent-11263-j9j1tch4-m5.png" group-title="Movies", BFLIX
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_472/output/manifest.mpd
+#EXTINF: -1 tvg-id="731" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43106-jxzlt6x4-v2/imageContent-43106-jxzlt6x4-m7.png" group-title="Movies", Manoranjan TV
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_956/output/manifest.mpd
+#EXTINF: -1 tvg-id="965" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67799-kx7m7rhc-v1/imageContent-67799-kx7m7rhc-m2.png" group-title="Movies", Manoranjan Grand
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1793/output/manifest.mpd
+#EXTINF: -1 tvg-id="32" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png" group-title="Movies", SONY PIX HD
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_301/output/manifest.mpd
+#EXTINF: -1 tvg-id="558" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12080-j9obub60-v6/imageContent-12080-j9obub60-m6.png" group-title="Movies", SONY PIX
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_200/output/manifest.mpd
+#EXTINF: -1 tvg-id="599" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12216-j9qm5hjs-v2/imageContent-12216-j9qm5hjs-m2.png" group-title="Movies", MNX HD
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_636/output/manifest.mpd
+#EXTINF: -1 tvg-id="562" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12095-j9ooixfs-v1/imageContent-12095-j9ooixfs-m1.png" group-title="Movies", Movies Now HD
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_563/output/manifest.mpd
+#EXTINF: -1 tvg-id="210" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-826-j5m9kx5c-v1/imageContent-826-j5m9kx5c-m1.png" group-title="Movies", MN+ HD
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_259/output/manifest.mpd
+#EXTINF: -1 tvg-id="234" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1017-j5ngpo2g-v1/imageContent-1017-j5ngpo2g-m1.png" group-title="Movies", MNX
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_237/output/manifest.mpd
+#EXTINF: -1 tvg-id="174" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-751-j5l5kb9k-v3/imageContent-751-j5l5kb9k-m3.png" group-title="Movies", Romedy Now
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_236/output/manifest.mpd
+#EXTINF: -1 tvg-id="173" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-748-j5l5fnts-v1/imageContent-748-j5l5fnts-m1.png" group-title="Movies", Movies Now
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_235/output/manifest.mpd
+#EXTINF: -1 tvg-id="899" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62150-knicubns-v2/imageContent-62150-knicubns-m2.png" group-title="Movies", Pasand
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1309/output/manifest.mpd
+#EXTINF: -1 tvg-id="1260" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPTAMCL_Thumbnail-v1/TPTAMCL_Thumbnail.png" group-title="Movies", Tata Play Tamil Classics
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_2047/output/manifest.mpd
+#EXTINF: -1 tvg-id="1182" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZETIHD_Thumbnail-v2/ZETIHD_Thumbnail.png" group-title="Movies", Zee Thirai HD
+https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1962/output/manifest.mpd
