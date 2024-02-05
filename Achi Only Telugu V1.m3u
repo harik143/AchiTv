@@ -71,7 +71,7 @@ https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_539/output/manifes
 http://watchindia.net:8880/live/12171/04170628/937.ts
 
 
-#EXTINF: -1 tvg-id="GeminiComedy.in" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Comedy.png" group-title="1 Telugu [ Watcindia ]", GEMINI COMEDY 2 ( Airtel )
+#EXTINF: -1 tvg-id="GeminiComedy.in" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Comedy.png" group-title="1 Telugu [ Watcindia ]", Gemini Comedy 2 ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/155844
 #EXTINF: -1 tvg-id="geminicomedy.in" tvg-name="Gemini Comedy" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Comedy.png" group-title="1 Telugu [ Watcindia ]", Gemini Comedy 1 ( W I )
 http://watchindia.net:8880/live/12171/04170628/971.ts
@@ -87,16 +87,16 @@ https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_549/output/manifes
 
 #EXTINF: -1 tvg-id="geminilife.in" tvg-name="Gemini Life" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11437-j9jqv7ao-v2/imageContent-11437-j9jqv7ao-m2.png" group-title="1 Telugu [ Watcindia ]", Gemini Life 2 ( W I )
 http://watchindia.net:8880/live/12171/04170628/931.ts
-#EXTINF: -1 tvg-id="GeminiMovies.in" tvg-logo="http://logo.protv.cc/picons/logos/GEMINI-MOVIES-HD.png" group-title="1 Telugu [ Watcindia ]", GEMINI MOVIES HD ( Airtel )
+#EXTINF: -1 tvg-id="GeminiMovies.in" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11438-j9jqvyaw-v1/imageContent-11438-j9jqvyaw-m1.png" group-title="1 Telugu [ Watcindia ]", Gemini Movies HD 3 ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/155851
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Dd42hSXiK+9BUOtQSoTbog","kid":"IZUMF1BYUkGexqZIscwlsQ"}],"type":"temporary"}
-#EXTINF: -1 tvg-id="362" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11438-j9jqvyaw-v1/imageContent-11438-j9jqvyaw-m1.png" group-title="1 Telugu [ Watcindia ]", Gemini Movies HD ( Tata Sky )
+#EXTINF: -1 tvg-id="362" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11438-j9jqvyaw-v1/imageContent-11438-j9jqvyaw-m1.png" group-title="1 Telugu [ Watcindia ]", Gemini Movies HD 1 ( Tata Sky )
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_550/output/manifest.mpd
 
 
-#EXTINF: -1 tvg-id="geminimovieshd.in" tvg-name="Gemini Movies HD" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Movies_HD.png" group-title="1 Telugu [ Watcindia ]", Gemini Movies HD ( W I )
+#EXTINF: -1 tvg-id="geminimovieshd.in" tvg-name="Gemini Movies HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11438-j9jqvyaw-v1/imageContent-11438-j9jqvyaw-m1.png" group-title="1 Telugu [ Watcindia ]", Gemini Movies HD 2 ( W I )
 http://watchindia.net:8880/live/12171/04170628/930.ts
 #EXTINF: -1 tvg-id="GeminiMusic.in" tvg-logo="http://logo.protv.cc/picons/logos/GEMINI-MUSIC.jpg" group-title="1 Telugu [ Watcindia ]", GEMINI MUSIC ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/155857
