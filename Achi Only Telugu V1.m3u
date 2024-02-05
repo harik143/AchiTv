@@ -168,21 +168,16 @@ https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_722/output/manifes
 http://mag.trexlive.me:80/Michael88/Michael88/155848
 #EXTINF: -1 tvg-id="sony.yay.in" tvg-name="Sony Yay Telugu" tvg-logo="https://watchindia.net/images/channels/kids/Sony_Yay.png" group-title="1 Telugu [ Watcindia ]", Sony Yay Telugu
 http://watchindia.net:8880/live/12171/04170628/2126.ts
-#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/MAA-GOLD.jpg" group-title="1 Telugu [ Watcindia ]", STAR MAA GOLD ( Airtel )
+#EXTINF: -1 tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Gold_HD.png" group-title="1 Telugu [ Watcindia ]", Star Maa Gold 3 ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/155860
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nV1GEmxHD35DxFF02c7f8g","kid":"305xkBlsXzi1Q85dRHswHw"}],"type":"temporary"}
-#EXTINF: -1 tvg-id="388" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11553-j9julvag-v3/imageContent-11553-j9julvag-m6.png" group-title="1 Telugu [ Watcindia ]", Star Maa Gold ( Tata Sky )
+#EXTINF: -1 tvg-id="388" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Gold_HD.png" group-title="1 Telugu [ Watcindia ]", Star Maa Gold 1 ( Tata Sky )
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_608/output/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=null
-#EXTINF: -1 tvg-id="954" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66595-kupdpd9k-v1/imageContent-66595-kupdpd9k-m1.png" group-title="1 Telugu [ Watcindia ]", Star Maa Gold ( Tata Sky )
-https://delta39tatasky.akamaized.net/out/i/5223418.mpd
 
-
-#EXTINF: -1 tvg-id="maagold.in" tvg-name="Star Maa Gold" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Gold_HD.png" group-title="1 Telugu [ Watcindia ]", Star Maa Gold ( W I )
+#EXTINF: -1 tvg-id="maagold.in" tvg-name="Star Maa Gold" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Gold_HD.png" group-title="1 Telugu [ Watcindia ]", Star Maa Gold 2 ( W I )
 http://watchindia.net:8880/live/12171/04170628/935.ts
 #EXTINF: -1 tvg-id="StarMaa.in" tvg-logo="http://logo.protv.cc/picons/logos/starmaa.jpg" group-title="1 Telugu [ Watcindia ]", STAR MAA HD 3 ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/155843
