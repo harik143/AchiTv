@@ -200,37 +200,37 @@ https://delta39tatasky.akamaized.net/out/i/5223418.mpd
 
 #EXTINF: -1 tvg-id="maagold.in" tvg-name="Star Maa Gold" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Gold_HD.png" group-title="1 Telugu [ Watcindia ]", Star Maa Gold ( W I )
 http://watchindia.net:8880/live/12171/04170628/935.ts
-#EXTINF: -1 tvg-id="StarMaa.in" tvg-logo="http://logo.protv.cc/picons/logos/starmaa.jpg" group-title="1 Telugu [ Watcindia ]", STAR MAA HD ( Airtel )
+#EXTINF: -1 tvg-id="StarMaa.in" tvg-logo="http://logo.protv.cc/picons/logos/starmaa.jpg" group-title="1 Telugu [ Watcindia ]", STAR MAA HD 01 ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/155843
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mx4e3evO2wDJtJ9A57nVBg","kid":"sunyHzaHXqe8XSguU//cIg"}],"type":"temporary"}
-#EXTINF: -1 tvg-id="516" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png" group-title="1 Telugu [ Watcindia ]", STAR Maa HD ( Tata Sky )
+#EXTINF: -1 tvg-id="516" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png" group-title="1 Telugu [ Watcindia ]", STAR Maa HD 02 ( Tata Sky )
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=null
-#EXTINF: -1 tvg-id="956" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66705-kuqnqhwg-v1/imageContent-66705-kuqnqhwg-m1.png" group-title="1 Telugu [ Watcindia ]", STAR Maa HD ( Tata Sky )
+#EXTINF: -1 tvg-id="956" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66705-kuqnqhwg-v1/imageContent-66705-kuqnqhwg-m1.png" group-title="1 Telugu [ Watcindia ]", STAR Maa HD 03 ( Tata Sky )
 https://delta45tatasky.akamaized.net/out/i/1375.mpd
 
 
-#EXTINF: -1 tvg-id="starmaahd.in" tvg-name="Star Maa HD 1" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="1 Telugu [ Watcindia ]", Star Maa HD 1 ( W I )
+#EXTINF: -1 tvg-id="starmaahd.in" tvg-name="Star Maa HD 1" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="1 Telugu [ Watcindia ]", Star Maa HD 1 04 ( W I )
 http://watchindia.net:8880/live/12171/04170628/933.ts
-#EXTINF: -1 tvg-id="starmaahd.in" tvg-name="Star Maa HD 2" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="1 Telugu [ Watcindia ]", Star Maa HD 2 ( W I )
+#EXTINF: -1 tvg-id="starmaahd.in" tvg-name="Star Maa HD 2" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="1 Telugu [ Watcindia ]", Star Maa HD 2 05 ( W I )
 http://watchindia.net:8880/live/12171/04170628/2168.ts
-#EXTINF: -1 tvg-id="StarMaaMovies.in" tvg-logo="http://logo.protv.cc/picons/logos/MAA-MOVIES.jpeg" group-title="1 Telugu [ Watcindia ]", STAR MAA MOVIES HD ( Airtel)
+#EXTINF: -1 tvg-id="StarMaaMovies.in" tvg-logo="http://logo.protv.cc/picons/logos/MAA-MOVIES.jpeg" group-title="1 Telugu [ Watcindia ]", STAR MAA MOVIES HD 01 ( Airtel)
 http://mag.trexlive.me:80/Michael88/Michael88/155842
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6XFREJ7ACfaf35BTwBUU0A","kid":"nzps+7J0Ud2fKBZmyOYtgQ"}],"type":"temporary"}
-#EXTINF: -1 tvg-id="387" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18348-jcqpx9ns-v1/imageContent-18348-jcqpx9ns-m1.PNG" group-title="1 Telugu [ Watcindia ]", Star Maa Movies HD ( Tata Sky )
+#EXTINF: -1 tvg-id="387" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18348-jcqpx9ns-v1/imageContent-18348-jcqpx9ns-m1.PNG" group-title="1 Telugu [ Watcindia ]", Star Maa Movies HD 02 ( Tata Sky )
 https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_611/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=null
-#EXTINF: -1 tvg-id="957" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66770-kuwalqkg-v1/imageContent-66770-kuwalqkg-m1.png" group-title="1 Telugu [ Watcindia ]", Star Maa Movies HD ( Tata Sky )
+#EXTINF: -1 tvg-id="957" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66770-kuwalqkg-v1/imageContent-66770-kuwalqkg-m1.png" group-title="1 Telugu [ Watcindia ]", Star Maa Movies HD 03 ( Tata Sky )
 https://delta44tatasky.akamaized.net/out/i/1568869.mpd
-#EXTINF: -1 tvg-id="starmaamovieshd.in" tvg-name="Star Maa Movies HD" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Movies_HD.png" group-title="1 Telugu [ Watcindia ]", Star Maa Movies HD ( W I )
+#EXTINF: -1 tvg-id="starmaamovieshd.in" tvg-name="Star Maa Movies HD" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Movies_HD.png" group-title="1 Telugu [ Watcindia ]", Star Maa Movies HD 04 ( W I )
 http://watchindia.net:8880/live/12171/04170628/934.ts
 #EXTINF: -1 tvg-logo="https://iili.io/Jc8WpHb.png" group-title="1 Telugu [ Watcindia ]", Star Maa Music India
 http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=281969&extension=ts
