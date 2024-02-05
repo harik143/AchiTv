@@ -81,8 +81,7 @@ http://watchindia.net:8880/live/12171/04170628/937.ts
 http://mag.trexlive.me:80/Michael88/Michael88/155844
 #EXTINF: -1 tvg-id="geminicomedy.in" tvg-name="Gemini Comedy" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Comedy.png" group-title="1 Telugu [ Watcindia ]", Gemini Comedy 1 ( W I )
 http://watchindia.net:8880/live/12171/04170628/971.ts
-#EXTINF: -1 tvg-id="GeminiTV.in" tvg-logo="http://logo.protv.cc/picons/logos/GEMINI-HD.jpg" group-title="1 Telugu [ Watcindia ]", GEMINI HD 33 ( Airtel )
-http://mag.trexlive.me:80/Michael88/Michael88/155850
+
 #EXTINF: -1 tvg-id="GeminiLife.in" tvg-logo="http://logo.protv.cc/picons/logos/GEMINI-LIFE.png" group-title="1 Telugu [ Watcindia ]", GEMINI LIFE ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/155858
 
@@ -109,7 +108,7 @@ http://watchindia.net:8880/live/12171/04170628/930.ts
 http://mag.trexlive.me:80/Michael88/Michael88/155857
 #EXTINF: -1 tvg-id="geminimusic.in" tvg-name="Gemini Music HD" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Music_HD.png" group-title="1 Telugu [ Watcindia ]", Gemini Music HD ( W I )
 http://watchindia.net:8880/live/12171/04170628/929.ts
-#EXTINF: -1 tvg-id="GeminiTV.in" tvg-logo="http://logo.protv.cc/picons/logos/GEMINI-HD.jpg" group-title="1 Telugu [ Watcindia ]", GEMINI TV 3 ( Airtel )
+#EXTINF: -1 tvg-id="GeminiTV.in" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11444-j9jqx6a8-v1/imageContent-11444-j9jqx6a8-m1.png" group-title="1 Telugu [ Watcindia ]", GEMINI TV HD 3 ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/281958
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -118,7 +117,7 @@ http://mag.trexlive.me:80/Michael88/Michael88/281958
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_553/output/manifest.mpd
 
 
-#EXTINF: -1 tvg-id="geminitvhd.in" tvg-name="Gemini TV HD" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_TV_HD.png" group-title="1 Telugu [ Watcindia ]", Gemini TV HD 2 ( W I )
+#EXTINF: -1 tvg-id="geminitvhd.in" tvg-name="Gemini TV HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11444-j9jqx6a8-v1/imageContent-11444-j9jqx6a8-m1.png" group-title="1 Telugu [ Watcindia ]", Gemini TV HD 2 ( W I )
 http://watchindia.net:8880/live/12171/04170628/928.ts
 #EXTINF: -1 tvg-id="HistoryTV18.in" tvg-logo="http://logo.protv.cc/picons/logos/historytv18.jpg" group-title="1 Telugu [ Watcindia ]", HISTORY TV 18 HD ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/155849
