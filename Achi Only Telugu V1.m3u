@@ -3,8 +3,12 @@
 http://watchindia.net:8880/live/12171/04170628/981.ts
 #EXTINF: -1 tvg-id="1sports.in" tvg-name="ABN News" tvg-logo="https://watchindia.net/images/channels/telugu/ABN_News.png" group-title="1 Telugu [ Watcindia ]", ABN News
 http://watchindia.net:8880/live/12171/04170628/980.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IZBh36ARBuG23gWC2iNmyw","kid":"L0PHHdoBXGOh97U72mwBIA"}],"type":"temporary"}
 #EXTINF: -1 tvg-id="287" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44915-jzuyh3w0-v1/imageContent-44915-jzuyh3w0-m1.png" group-title="1 Telugu [ Watcindia ]", Animal Planet HD World ( Tata Sky )
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_457/output/manifest.mpd
+
 #EXTINF: -1 tvg-id="bhaktitv.in" tvg-name="Bhakti TV" tvg-logo="https://watchindia.net/images/channels/telugu/Bhakti_TV.png" group-title="1 Telugu [ Watcindia ]", Bhakti TV
 http://watchindia.net:8880/live/12171/04170628/977.ts
 #EXTINF: -1 tvg-logo="http://b1g.fun/logos2/CineMania4K_telugu.jpg" group-title="1 Telugu [ Watcindia ]", CINEMANIA 4K  ( Airtel )
