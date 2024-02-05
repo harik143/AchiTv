@@ -129,8 +129,13 @@ https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_553/output/manifes
 http://watchindia.net:8880/live/12171/04170628/928.ts
 #EXTINF: -1 tvg-id="HistoryTV18.in" tvg-logo="http://logo.protv.cc/picons/logos/historytv18.jpg" group-title="1 Telugu [ Watcindia ]", HISTORY TV 18 HD ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/155849
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"tSpYjLgrW3GqvuCrC8wUfQ","kid":"K1Ft42WIW5aZebyfRsQjKw"}],"type":"temporary"}
 #EXTINF: -1 tvg-id="616" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12267-j9qx2si0-v3/imageContent-12267-j9qx2si0-m3.png" group-title="1 Telugu [ Watcindia ]", History TV18 HD ( Tata Sky )
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_565/output/manifest.mpd
+
+
 #EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/hollywood.png" group-title="1 Telugu [ Watcindia ]", HOLLYWOOD LOCAL ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/1097632
 #EXTINF: -1 tvg-id="Hungama.in" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/HUNGAMADAMAALHD.png" group-title="1 Telugu [ Watcindia ]", HUNGAMA ( Airtel )
@@ -141,14 +146,25 @@ http://mag.trexlive.me:80/Michael88/Michael88/281968
 http://mag.trexlive.me:80/Michael88/Michael88/281969
 #EXTINF: -1 tvg-id="MAATV.in" tvg-logo="http://logo.protv.cc/picons/logos/MAA-TV.png" group-title="1 Telugu [ Watcindia ]", MAAT V ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/281960
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=null
 #EXTINF: -1 tvg-id="184" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-438-j5jt26xc-v2/imageContent-438-j5jt26xc-m2.png" group-title="1 Telugu [ Watcindia ]", Nat Geo Wild ( Tata Sky )
 https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_119/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=null
 #EXTINF: -1 tvg-id="413" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png" group-title="1 Telugu [ Watcindia ]", Nat Geo Wild HD ( Tata Sky )
 https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_655/output/manifest.mpd
 #EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/NAT-GEO-TELUGU.jpg" group-title="1 Telugu [ Watcindia ]", National Geographic HD ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/155847
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qrrjyEpdHFyOUcpFGxDayg","kid":"9Qa35++xUE6ity38vJyBDg"}],"type":"temporary"}
 #EXTINF: -1 tvg-id="605" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png" group-title="1 Telugu [ Watcindia ]", National Geographic HD ( Tata Sky )
 https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/manifest.mpd
+
+
 #EXTINF: -1 tvg-id="ntvnews.in" tvg-name="NTV News" tvg-logo="https://watchindia.net/images/channels/telugu/NTV_News.png" group-title="1 Telugu [ Watcindia ]", NTV News
 http://watchindia.net:8880/live/12171/04170628/2193.ts
 #EXTINF: -1 tvg-id="rajmusixtelugu.in" tvg-name="Raj Musix Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Raj_Musix.png" group-title="1 Telugu [ Watcindia ]", Raj Musix Telugu
