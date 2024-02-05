@@ -239,17 +239,17 @@ http://watchindia.net:8880/live/12171/04170628/945.ts
 http://watchindia.net:8880/live/12171/04170628/943.ts
 #EXTINF: -1 tvg-id="vissatv.in" tvg-name="Vissa TV" tvg-logo="https://watchindia.net/images/channels/telugu/Vissa_TV.png" group-title="1 Telugu [ Watcindia ]", Vissa TV
 http://watchindia.net:8880/live/12171/04170628/942.ts
-#EXTINF: -1 tvg-id="ZeeCinemalu.in" tvg-logo="http://logo.protv.cc/picons/logos/zeecinemalu.jpg" group-title="1 Telugu [ Watcindia ]", ZEE CINEMALU ( Airtel)
+#EXTINF: -1 tvg-id="ZeeCinemalu.in" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21307-je859sm0-v1/imageContent-21307-je859sm0-m2.png" group-title="1 Telugu [ Watcindia ]", Zee Cinema HD 3 ( Airtel)
 http://mag.trexlive.me:80/Michael88/Michael88/155872
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Di3urPsjh+u0ga2EwGJzhA","kid":"EyWa1EHRVcatdZ5JJpnAzw"}],"type":"temporary"}
-#EXTINF: -1 tvg-id="636" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21307-je859sm0-v1/imageContent-21307-je859sm0-m2.png" group-title="1 Telugu [ Watcindia ]", Zee Cinemalu HD ( Tata Sky )
+#EXTINF: -1 tvg-id="636" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21307-je859sm0-v1/imageContent-21307-je859sm0-m2.png" group-title="1 Telugu [ Watcindia ]", Zee Cinemalu HD 1 ( Tata Sky )
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_871/output/manifest.mpd
 
 
-#EXTINF: -1 tvg-id="zeecinemaluhd.in" tvg-name="Zee Cinemalu HD" tvg-logo="https://watchindia.net/images/channels/telugu/Zee_Cinemalu.png" group-title="1 Telugu [ Watcindia ]", Zee Cinemalu HD ( W I )
+#EXTINF: -1 tvg-id="zeecinemaluhd.in" tvg-name="Zee Cinemalu HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21307-je859sm0-v1/imageContent-21307-je859sm0-m2.png" group-title="1 Telugu [ Watcindia ]", Zee Cinemalu HD 2 ( W I )
 http://watchindia.net:8880/live/12171/04170628/941.ts
 #EXTINF: -1 tvg-id="ZeeTelugu.in" tvg-logo="http://logo.protv.cc/picons/logos/zeetelugu.jpg" group-title="1 Telugu [ Watcindia ]", ZEE TELUGU ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/281963
