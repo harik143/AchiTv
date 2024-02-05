@@ -126,9 +126,8 @@ https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_565/output/manifes
 http://mag.trexlive.me:80/Michael88/Michael88/1097632
 #EXTINF: -1 tvg-id="Hungama.in" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/HUNGAMADAMAALHD.png" group-title="1 Telugu [ Watcindia ]", HUNGAMA ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/1097624
-#EXTINF: -1 tvg-id="MAAGold.in" tvg-logo="http://logo.protv.cc/picons/logos/MAA-GOLD.jpg" group-title="1 Telugu [ Watcindia ]", MAA GOLD ( Airtel )
-http://mag.trexlive.me:80/Michael88/Michael88/281968
-#EXTINF: -1 tvg-id="MaaMusic.in" tvg-logo="http://logo.protv.cc/picons/logos/MAA-MUSIC.jpg" group-title="1 Telugu [ Watcindia ]", MAA MUSIC ( Airtel )
+
+#EXTINF: -1 tvg-id="MaaMusic.in" tvg-logo="https://iili.io/Jc8WpHb.png" group-title="1 Telugu [ Watcindia ]", Maa Music 2 ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/281969
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -140,12 +139,12 @@ https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_119/output/manifes
 #KODIPROP:inputstream.adaptive.license_key=null
 #EXTINF: -1 tvg-id="413" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png" group-title="1 Telugu [ Watcindia ]", Nat Geo Wild HD ( Tata Sky )
 https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_655/output/manifest.mpd
-#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/NAT-GEO-TELUGU.jpg" group-title="1 Telugu [ Watcindia ]", National Geographic HD ( Airtel )
+#EXTINF: -1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png" group-title="1 Telugu [ Watcindia ]", National Geographic HD 2 ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/155847
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qrrjyEpdHFyOUcpFGxDayg","kid":"9Qa35++xUE6ity38vJyBDg"}],"type":"temporary"}
-#EXTINF: -1 tvg-id="605" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png" group-title="1 Telugu [ Watcindia ]", National Geographic HD ( Tata Sky )
+#EXTINF: -1 tvg-id="605" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png" group-title="1 Telugu [ Watcindia ]", National Geographic HD 1 ( Tata Sky )
 https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/manifest.mpd
 
 
@@ -200,9 +199,9 @@ https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_611/output/manifes
 
 #EXTINF: -1 tvg-id="starmaamovieshd.in" tvg-name="Star Maa Movies HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18348-jcqpx9ns-v1/imageContent-18348-jcqpx9ns-m1.PNG" group-title="1 Telugu [ Watcindia ]", Star Maa Movies HD 2 ( W I )
 http://watchindia.net:8880/live/12171/04170628/934.ts
-#EXTINF: -1 tvg-logo="https://iili.io/Jc8WpHb.png" group-title="1 Telugu [ Watcindia ]", Star Maa Music India
+#EXTINF: -1 tvg-logo="https://iili.io/Jc8WpHb.png" group-title="1 Telugu [ Watcindia ]", Star Maa Music India 1
 http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=281969&extension=ts
-#EXTINF: -1 tvg-name="Star Maa Music" tvg-logo="https://iili.io/Jc8WpHb.png" group-title="1 Telugu [ Watcindia ]", Star Maa Music USA
+#EXTINF: -1 tvg-name="Star Maa Music" tvg-logo="https://iili.io/Jc8WpHb.png" group-title="1 Telugu [ Watcindia ]", Star Maa Music USA 3
 http://tgaadi-web.tech/Aadi.php?id=232264
 #EXTINF: -1 tvg-id="tnews.in" tvg-name="T News" tvg-logo="https://watchindia.net/images/channels/telugu/T_News.png" group-title="1 Telugu [ Watcindia ]", T News
 http://watchindia.net:8880/live/12171/04170628/949.ts
@@ -253,7 +252,7 @@ https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_871/output/manifes
 http://watchindia.net:8880/live/12171/04170628/941.ts
 
 
-#EXTINF: -1 tvg-id="zee.telugu.in" tvg-name="Zee Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Zee.png" group-title="1 Telugu [ Watcindia ]", Zee Telugu HD 2 ( W I )
+#EXTINF: -1 tvg-id="zee.telugu.in" tvg-name="Zee Telugu" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21304-je859a3c-v1/imageContent-21304-je859a3c-m1.png" group-title="1 Telugu [ Watcindia ]", Zee Telugu HD 2 ( W I )
 http://watchindia.net:8880/live/12171/04170628/940.ts
 #EXTINF: -1 tvg-id="ZeeTelugu.in" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21304-je859a3c-v1/imageContent-21304-je859a3c-m1.png" group-title="1 Telugu [ Watcindia ]", ZEE TELUGU HD 3 ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/155866
