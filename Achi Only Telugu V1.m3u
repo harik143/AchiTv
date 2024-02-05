@@ -42,14 +42,24 @@ https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_194/output/manifes
 
 #EXTINF: -1 tvg-id="ETVTelengana.in" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11418-j9jqpvxs-v1/imageContent-11418-j9jqpvxs-m1.png" group-title="1 Telugu [ Watcindia ]", ETV ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/281956
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gmQDh5xbJgKyRDFqAo7M2Q","kid":"WPSZwucTV5mWT5kP5m2Jmw"}],"type":"temporary"}
 #EXTINF: -1 tvg-id="128" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-426-j5jsm1wo-v1/imageContent-426-j5jsm1wo-m1.png" group-title="1 Telugu [ Watcindia ]", ETV Cinema ( Tata Sky )
 https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_227/output/manifest.mpd
+
+
 #EXTINF: -1 tvg-id="ETVCinema.in" tvg-logo="http://logo.protv.cc/picons/logos/ETV-CINEMA-TELUGU.jpg" group-title="1 Telugu [ Watcindia ]", ETV CINEMA TELUGU ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/155853
 #EXTINF: -1 tvg-id="ETV.in" tvg-logo="http://logo.protv.cc/picons/logos/E-TV.png" group-title="1 Telugu [ Watcindia ]", ETV HD ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/155852
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/71j+ytWwJg7tK1WWmFbqg","kid":"azHux/3wVUWlJGgolX+dSQ"}],"type":"temporary"}
 #EXTINF: -1 tvg-id="359" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11418-j9jqpvxs-v1/imageContent-11418-j9jqpvxs-m1.png" group-title="1 Telugu [ Watcindia ]", ETV HD ( Tata Sky )
 https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_537/output/manifest.mpd
+
+
 #EXTINF: -1 tvg-id="etvhd.in" tvg-name="ETV HD" tvg-logo="https://watchindia.net/images/channels/telugu/ETV.png" group-title="1 Telugu [ Watcindia ]", ETV HD ( W I )
 http://watchindia.net:8880/live/12171/04170628/936.ts
 #EXTINF: -1 tvg-id="ETVLife.in" tvg-logo="http://logo.protv.cc/picons/logos/ETV-LIFE.jpeg" group-title="1 Telugu [ Watcindia ]", ETV LIFE ( Airtel )
@@ -58,12 +68,22 @@ http://mag.trexlive.me:80/Michael88/Michael88/155856
 http://watchindia.net:8880/live/12171/04170628/938.ts
 #EXTINF: -1 tvg-id="ETVPlus.in" tvg-logo="http://logo.protv.cc/picons/logos/ETV-PLUS.jpg" group-title="1 Telugu [ Watcindia ]", ETV PLUS ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/155855
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DWAGOzNMwmnrv61TiM0Mmg","kid":"C99SENOuWIC0nzHTmCNCYQ"}],"type":"temporary"}
 #EXTINF: -1 tvg-id="352" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11423-j9jqqegg-v1/imageContent-11423-j9jqqegg-m1.png" group-title="1 Telugu [ Watcindia ]", ETV Plus ( Tata Sky )
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_539/output/manifest.mpd
+
+
 #EXTINF: -1 tvg-id="etvplus.in" tvg-name="ETV Plus" tvg-logo="https://watchindia.net/images/channels/telugu/ETV_Plus.png" group-title="1 Telugu [ Watcindia ]", ETV Plus ( W I )
 http://watchindia.net:8880/live/12171/04170628/937.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=null
 #EXTINF: -1 tvg-id="145" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-492-j5jxvaeo-v1/imageContent-492-j5jxvaeo-m1.png" group-title="1 Telugu [ Watcindia ]", ETV Telugu ( Tata Sky )
 https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_172/output/manifest.mpd
+
+
 #EXTINF: -1 tvg-id="GeminiComedy.in" tvg-logo="http://logo.protv.cc/picons/logos/GEMINI-COMEDY.png" group-title="1 Telugu [ Watcindia ]", GEMINI COMEDY ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/155844
 #EXTINF: -1 tvg-id="geminicomedy.in" tvg-name="Gemini Comedy" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Comedy.png" group-title="1 Telugu [ Watcindia ]", Gemini Comedy ( W I )
