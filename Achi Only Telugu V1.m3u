@@ -40,7 +40,7 @@ https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_153/output/manifes
 https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_194/output/manifest.mpd
 
 
-#EXTINF: -1 tvg-id="ETVTelengana.in" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11418-j9jqpvxs-v1/imageContent-11418-j9jqpvxs-m1.png" group-title="1 Telugu [ Watcindia ]", ETV ( Airtel )
+#EXTINF: -1 tvg-id="ETVTelengana.in" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11418-j9jqpvxs-v1/imageContent-11418-j9jqpvxs-m1.png" group-title="1 Telugu [ Watcindia ]", ETV 02 ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/281956
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -51,16 +51,16 @@ https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_227/output/manifes
 
 #EXTINF: -1 tvg-id="ETVCinema.in" tvg-logo="http://logo.protv.cc/picons/logos/ETV-CINEMA-TELUGU.jpg" group-title="1 Telugu [ Watcindia ]", ETV CINEMA TELUGU ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/155853
-#EXTINF: -1 tvg-id="ETV.in" tvg-logo="http://logo.protv.cc/picons/logos/E-TV.png" group-title="1 Telugu [ Watcindia ]", ETV HD ( Airtel )
+#EXTINF: -1 tvg-id="ETV.in" tvg-logo="http://logo.protv.cc/picons/logos/E-TV.png" group-title="1 Telugu [ Watcindia ]", ETV HD 04 ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/155852
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/71j+ytWwJg7tK1WWmFbqg","kid":"azHux/3wVUWlJGgolX+dSQ"}],"type":"temporary"}
-#EXTINF: -1 tvg-id="359" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11418-j9jqpvxs-v1/imageContent-11418-j9jqpvxs-m1.png" group-title="1 Telugu [ Watcindia ]", ETV HD ( Tata Sky )
+#EXTINF: -1 tvg-id="359" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11418-j9jqpvxs-v1/imageContent-11418-j9jqpvxs-m1.png" group-title="1 Telugu [ Watcindia ]", ETV HD 01 ( Tata Sky )
 https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_537/output/manifest.mpd
 
 
-#EXTINF: -1 tvg-id="etvhd.in" tvg-name="ETV HD" tvg-logo="https://watchindia.net/images/channels/telugu/ETV.png" group-title="1 Telugu [ Watcindia ]", ETV HD ( W I )
+#EXTINF: -1 tvg-id="etvhd.in" tvg-name="ETV HD" tvg-logo="https://watchindia.net/images/channels/telugu/ETV.png" group-title="1 Telugu [ Watcindia ]", ETV HD 03 ( W I )
 http://watchindia.net:8880/live/12171/04170628/936.ts
 #EXTINF: -1 tvg-id="ETVLife.in" tvg-logo="http://logo.protv.cc/picons/logos/ETV-LIFE.jpeg" group-title="1 Telugu [ Watcindia ]", ETV LIFE ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/155856
@@ -144,8 +144,6 @@ http://mag.trexlive.me:80/Michael88/Michael88/1097624
 http://mag.trexlive.me:80/Michael88/Michael88/281968
 #EXTINF: -1 tvg-id="MaaMusic.in" tvg-logo="http://logo.protv.cc/picons/logos/MAA-MUSIC.jpg" group-title="1 Telugu [ Watcindia ]", MAA MUSIC ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/281969
-#EXTINF: -1 tvg-id="MAATV.in" tvg-logo="http://logo.protv.cc/picons/logos/MAA-TV.png" group-title="1 Telugu [ Watcindia ]", MAAT V ( Airtel )
-http://mag.trexlive.me:80/Michael88/Michael88/281960
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=null
