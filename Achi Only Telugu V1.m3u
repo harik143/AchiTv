@@ -275,7 +275,7 @@ http://watchindia.net:8880/live/12171/04170628/942.ts
 http://mag.trexlive.me:80/Michael88/Michael88/155872
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5Tq91LaTvOByf7Wf6WPijw","kid":"FqYCeMyxW5OdbluB89b2hA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Di3urPsjh+u0ga2EwGJzhA","kid":"EyWa1EHRVcatdZ5JJpnAzw"}],"type":"temporary"}
 #EXTINF: -1 tvg-id="252" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8849-j7pqmypc-v2/imageContent-8849-j7pqmypc-m3.png" group-title="1 Telugu [ Watcindia ]", Zee Cinemalu ( Tata Sky )
 https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_416/output/manifest.mpd
 
