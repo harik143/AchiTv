@@ -16,3 +16,8 @@ https://delta13tatasky.akamaized.net/out/i/6282183.mpd?begin=20240128T060000&end
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4e6a01oIN3SujCs9OkEkLg","kid":"9irPsjjnRqWO2O6a0z5odA"}],"type":"temporary"}
 #EXTINF: -1 tvg-id="ts1168" tvg-logo="https://tatalogo.pages.dev/1168.png" group-title="1 Telugu [ Watcindia ]", Tata Play Hollywood Local Telugu 2 ( Tata Sky )
 https://delta13tatasky.akamaized.net/out/i/6282183.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IZBh36ARBuG23gWC2iNmyw","kid":"L0PHHdoBXGOh97U72mwBIA"}],"type":"temporary"}
+#EXTINF: -1 tvg-id="287" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44915-jzuyh3w0-v1/imageContent-44915-jzuyh3w0-m1.png" group-title="1 Telugu [ Watcindia ]", Animal Planet HD World ( Tata Sky )
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_457/output/manifest.mpd
