@@ -25,17 +25,17 @@ https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_457/output/manifes
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/DenverKey.php?id=413
-#EXTINF:-1 tvg-id="ts413" tvg-logo="https://tatalogo.pages.dev/413.png" group-title="Knowledge",Nat Geo Wild HD
+#EXTINF:-1 tvg-id="ts413" tvg-logo="https://tatalogo.pages.dev/413.png" group-title="Knowledge",Nat Geo Wild HD Den 
 https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_655/output/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/DenverKey.php?id=605
-#EXTINF:-1 tvg-id="ts605" tvg-logo="https://tatalogo.pages.dev/605.png" group-title="Knowledge",National Geographic HD
+#EXTINF:-1 tvg-id="ts605" tvg-logo="https://tatalogo.pages.dev/605.png" group-title="Knowledge",National Geographic HD Den
 https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/DenverKey.php?id=341
-#EXTINF:-1 tvg-id="ts341" tvg-logo="https://tatalogo.pages.dev/341.png" group-title="Knowledge",Discovery HD World
+#EXTINF:-1 tvg-id="ts341" tvg-logo="https://tatalogo.pages.dev/341.png" group-title="Knowledge",Discovery HD World Den
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_530/output/manifest.mpd
