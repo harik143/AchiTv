@@ -1,5 +1,5 @@
 
-#EXTM3U  x-tvg-url="https://www.tsepg.cf/epg.xml.gz" x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
+#EXTM3U  x-tvg-url="https://avkb.short.gy/tsepg.xml.gz" x-tvg-url="https://avkb.short.gy/epg.xml.gz" x-tvg-url="https://avkb.short.gy/jioepg.xml.gz" 
 
 
 #EXTINF: -1 tvg-id="10tv.in" tvg-name="10 TV" tvg-logo="https://watchindia.net/images/channels/telugu/10_TV.png" group-title="1 Telugu [ Watcindia ]", 10 TV
