@@ -1,15 +1,15 @@
 
-#EXTM3U  x-tvg-url="https://www.tsepg.cf/epg.xml.gz" x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
+#EXTM3U  x-tvg-url="https://avkb.short.gy/tsepg.xml.gz" 
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ThDEy5DNn0nkVA8KO98dFw","kid":"KfwY/tVwUMapVzScpY/HwQ"}],"type":"temporary"}
-#EXTINF: -1 tvg-id="341" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11396-j9jq7jg0-v1/imageContent-11396-j9jq7jg0-m1.png" x-tvg-url="https://avkb.short.gy/tsepg.xml.gz" group-title="1 Telugu [ Watcindia ]", Discovery HD World 1 ( Tata Sky )
+#EXTINF: -1 tvg-id="341" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11396-j9jq7jg0-v1/imageContent-11396-j9jq7jg0-m1.png" group-title="1 Telugu [ Watcindia ]", Discovery HD World 1 ( Tata Sky )
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_530/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4e6a01oIN3SujCs9OkEkLg","kid":"9irPsjjnRqWO2O6a0z5odA"}],"type":"temporary"}
-#EXTINF: -1 tvg-id="ts1168" tvg-logo="https://tatalogo.pages.dev/1168.png" x-tvg-url="https://avkb.short.gy/tsepg.xml.gz" group-title="1 Telugu [ Watcindia ]", Tata Play Hollywood Local Telugu 1 ( Tata Sky )
+#EXTINF: -1 tvg-id="ts1168" tvg-logo="https://tatalogo.pages.dev/1168.png"  group-title="1 Telugu [ Watcindia ]", Tata Play Hollywood Local Telugu 1 ( Tata Sky )
 https://delta13tatasky.akamaized.net/out/i/6282183.mpd?begin=20240128T060000&end=20240205T060000
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -19,5 +19,5 @@ https://delta13tatasky.akamaized.net/out/i/6282183.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IZBh36ARBuG23gWC2iNmyw","kid":"L0PHHdoBXGOh97U72mwBIA"}],"type":"temporary"}
-#EXTINF: -1 tvg-id="287" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44915-jzuyh3w0-v1/imageContent-44915-jzuyh3w0-m1.png" x-tvg-url="https://www.tsepg.cf/epg.xml.gz" group-title="1 Telugu [ Watcindia ]", Animal Planet HD World ( Tata Sky )
+#EXTINF: -1 tvg-id="287" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44915-jzuyh3w0-v1/imageContent-44915-jzuyh3w0-m1.png"  group-title="1 Telugu [ Watcindia ]", Animal Planet HD World ( Tata Sky )
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_457/output/manifest.mpd
