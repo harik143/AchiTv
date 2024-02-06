@@ -138,6 +138,14 @@ http://mag.trexlive.me:80/Michael88/Michael88/281969
 #KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/DenverKey.php?id=413
 #EXTINF: -1 tvg-id="ts413" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png" group-title="1 Telugu [ Watcindia ]", Nat Geo Wild HD ( Tata Sky )
 https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_655/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/DenverKey.php?id=413
+#EXTINF:-1 tvg-id="ts413" tvg-logo="https://tatalogo.pages.dev/413.png" group-title="Knowledge",Nat Geo Wild HD
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_655/output/manifest.mpd
+
+
 #EXTINF: -1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png" group-title="1 Telugu [ Watcindia ]", National Geographic HD 2 ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/155847
 
