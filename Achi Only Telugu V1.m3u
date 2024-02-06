@@ -9,7 +9,7 @@ http://watchindia.net:8880/live/12171/04170628/980.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IZBh36ARBuG23gWC2iNmyw","kid":"L0PHHdoBXGOh97U72mwBIA"}],"type":"temporary"}
-#EXTINF: -1 tvg-id="287" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44915-jzuyh3w0-v1/imageContent-44915-jzuyh3w0-m1.png" group-title="1 Telugu [ Watcindia ]", Animal Planet HD World ( Tata Sky )
+#EXTINF: -1 tvg-id="ts287" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44915-jzuyh3w0-v1/imageContent-44915-jzuyh3w0-m1.png" group-title="1 Telugu [ Watcindia ]", Animal Planet HD World ( Tata Sky )
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_457/output/manifest.mpd
 
 
@@ -27,13 +27,13 @@ http://mag.trexlive.me:80/Michael88/Michael88/155845
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ThDEy5DNn0nkVA8KO98dFw","kid":"KfwY/tVwUMapVzScpY/HwQ"}],"type":"temporary"}
-#EXTINF: -1 tvg-id="341" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11396-j9jq7jg0-v1/imageContent-11396-j9jq7jg0-m1.png" group-title="1 Telugu [ Watcindia ]", Discovery HD World 1 ( Tata Sky )
+#EXTINF: -1 tvg-id="ts341" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11396-j9jq7jg0-v1/imageContent-11396-j9jq7jg0-m1.png" group-title="1 Telugu [ Watcindia ]", Discovery HD World 1 ( Tata Sky )
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_530/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"u1QN2KN25Yy7soJm3rUxQA","kid":"hl/bpZphW5uL0nruXJoKFQ"}],"type":"temporary"}
-#EXTINF: -1 tvg-id="113" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-369-j5jo9i3s-v1/imageContent-369-j5jo9i3s-m1.png" group-title="1 Telugu [ Watcindia ]", Discovery Science ( Tata Sky )
+#EXTINF: -1 tvg-id="ts113" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-369-j5jo9i3s-v1/imageContent-369-j5jo9i3s-m1.png" group-title="1 Telugu [ Watcindia ]", Discovery Science ( Tata Sky )
 https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_153/output/manifest.mpd
 
 
@@ -42,7 +42,7 @@ http://mag.trexlive.me:80/Michael88/Michael88/281956
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gmQDh5xbJgKyRDFqAo7M2Q","kid":"WPSZwucTV5mWT5kP5m2Jmw"}],"type":"temporary"}
-#EXTINF: -1 tvg-id="128" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-426-j5jsm1wo-v1/imageContent-426-j5jsm1wo-m1.png" group-title="1 Telugu [ Watcindia ]", ETV Cinema 1 ( Tata Sky )
+#EXTINF: -1 tvg-id="ts128" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-426-j5jsm1wo-v1/imageContent-426-j5jsm1wo-m1.png" group-title="1 Telugu [ Watcindia ]", ETV Cinema 1 ( Tata Sky )
 https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_227/output/manifest.mpd
 
 
@@ -51,7 +51,7 @@ http://mag.trexlive.me:80/Michael88/Michael88/155853
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/71j+ytWwJg7tK1WWmFbqg","kid":"azHux/3wVUWlJGgolX+dSQ"}],"type":"temporary"}
-#EXTINF: -1 tvg-id="359" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11418-j9jqpvxs-v1/imageContent-11418-j9jqpvxs-m1.png" group-title="1 Telugu [ Watcindia ]", ETV HD 1 ( Tata Sky )
+#EXTINF: -1 tvg-id="ts359" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11418-j9jqpvxs-v1/imageContent-11418-j9jqpvxs-m1.png" group-title="1 Telugu [ Watcindia ]", ETV HD 1 ( Tata Sky )
 https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_537/output/manifest.mpd
 
 
@@ -66,7 +66,7 @@ http://mag.trexlive.me:80/Michael88/Michael88/155855
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DWAGOzNMwmnrv61TiM0Mmg","kid":"C99SENOuWIC0nzHTmCNCYQ"}],"type":"temporary"}
-#EXTINF: -1 tvg-id="352" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11423-j9jqqegg-v1/imageContent-11423-j9jqqegg-m1.png" group-title="1 Telugu [ Watcindia ]", ETV Plus 1 ( Tata Sky )
+#EXTINF: -1 tvg-id="ts352" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11423-j9jqqegg-v1/imageContent-11423-j9jqqegg-m1.png" group-title="1 Telugu [ Watcindia ]", ETV Plus 1 ( Tata Sky )
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_539/output/manifest.mpd
 
 
