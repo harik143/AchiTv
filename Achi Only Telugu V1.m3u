@@ -84,7 +84,7 @@ http://mag.trexlive.me:80/Michael88/Michael88/155858
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JcFuWxVJM4AP97SGLo0jnw","kid":"zbOpJOD4XlC2qZSuVGkN/Q"}],"type":"temporary"}
-#EXTINF: -1 tvg-id="361" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11437-j9jqv7ao-v2/imageContent-11437-j9jqv7ao-m2.png" group-title="1 Telugu [ Watcindia ]", Gemini Life 1 ( Tata Sky )
+#EXTINF: -1 tvg-id="ts361" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11437-j9jqv7ao-v2/imageContent-11437-j9jqv7ao-m2.png" group-title="1 Telugu [ Watcindia ]", Gemini Life 1 ( Tata Sky )
 https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_549/output/manifest.mpd
 
 
@@ -95,7 +95,7 @@ http://mag.trexlive.me:80/Michael88/Michael88/155851
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Dd42hSXiK+9BUOtQSoTbog","kid":"IZUMF1BYUkGexqZIscwlsQ"}],"type":"temporary"}
-#EXTINF: -1 tvg-id="362" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11438-j9jqvyaw-v1/imageContent-11438-j9jqvyaw-m1.png" group-title="1 Telugu [ Watcindia ]", Gemini Movies HD 1 ( Tata Sky )
+#EXTINF: -1 tvg-id="ts362" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11438-j9jqvyaw-v1/imageContent-11438-j9jqvyaw-m1.png" group-title="1 Telugu [ Watcindia ]", Gemini Movies HD 1 ( Tata Sky )
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_550/output/manifest.mpd
 
 
@@ -110,7 +110,7 @@ http://mag.trexlive.me:80/Michael88/Michael88/281958
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ksJVL4OyjxzlWdlMvQZXpA","kid":"3Xl4IA7EWVyi2Yk0duW6mQ"}],"type":"temporary"}
-#EXTINF: -1 tvg-id="355" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11444-j9jqx6a8-v1/imageContent-11444-j9jqx6a8-m1.png" group-title="1 Telugu [ Watcindia ]", Gemini TV HD 1 ( Tata Sky )
+#EXTINF: -1 tvg-id="ts355" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11444-j9jqx6a8-v1/imageContent-11444-j9jqx6a8-m1.png" group-title="1 Telugu [ Watcindia ]", Gemini TV HD 1 ( Tata Sky )
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_553/output/manifest.mpd
 
 
@@ -121,7 +121,7 @@ http://mag.trexlive.me:80/Michael88/Michael88/155849
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"tSpYjLgrW3GqvuCrC8wUfQ","kid":"K1Ft42WIW5aZebyfRsQjKw"}],"type":"temporary"}
-#EXTINF: -1 tvg-id="616" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12267-j9qx2si0-v3/imageContent-12267-j9qx2si0-m3.png" group-title="1 Telugu [ Watcindia ]", History TV18 HD 1 ( Tata Sky )
+#EXTINF: -1 tvg-id="ts616" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12267-j9qx2si0-v3/imageContent-12267-j9qx2si0-m3.png" group-title="1 Telugu [ Watcindia ]", History TV18 HD 1 ( Tata Sky )
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_565/output/manifest.mpd
 
 
@@ -135,19 +135,19 @@ http://mag.trexlive.me:80/Michael88/Michael88/281969
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=null
-#EXTINF: -1 tvg-id="184" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-438-j5jt26xc-v2/imageContent-438-j5jt26xc-m2.png" group-title="1 Telugu [ Watcindia ]", Nat Geo Wild ( Tata Sky )
+#EXTINF: -1 tvg-id="ts184" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-438-j5jt26xc-v2/imageContent-438-j5jt26xc-m2.png" group-title="1 Telugu [ Watcindia ]", Nat Geo Wild ( Tata Sky )
 https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_119/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=null
-#EXTINF: -1 tvg-id="413" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png" group-title="1 Telugu [ Watcindia ]", Nat Geo Wild HD ( Tata Sky )
+#EXTINF: -1 tvg-id="ts413" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png" group-title="1 Telugu [ Watcindia ]", Nat Geo Wild HD ( Tata Sky )
 https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_655/output/manifest.mpd
 #EXTINF: -1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png" group-title="1 Telugu [ Watcindia ]", National Geographic HD 2 ( Airtel )
 http://mag.trexlive.me:80/Michael88/Michael88/155847
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qrrjyEpdHFyOUcpFGxDayg","kid":"9Qa35++xUE6ity38vJyBDg"}],"type":"temporary"}
-#EXTINF: -1 tvg-id="605" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png" group-title="1 Telugu [ Watcindia ]", National Geographic HD 1 ( Tata Sky )
+#EXTINF: -1 tvg-id="ts605" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png" group-title="1 Telugu [ Watcindia ]", National Geographic HD 1 ( Tata Sky )
 https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/manifest.mpd
 
 
@@ -162,7 +162,7 @@ http://watchindia.net:8880/live/12171/04170628/955.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"B9yPV+aZ/0YiCDq3Q153ag","kid":"rbR+t0BcWcScUOjwljhhJA"}],"type":"temporary"}
-#EXTINF: -1 tvg-id="460" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png" group-title="1 Telugu [ Watcindia ]", SONY BBC Earth HD ( Tata Sky )
+#EXTINF: -1 tvg-id="ts460" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png" group-title="1 Telugu [ Watcindia ]", SONY BBC Earth HD ( Tata Sky )
 https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_722/output/manifest.mpd
 
 
@@ -175,7 +175,7 @@ http://mag.trexlive.me:80/Michael88/Michael88/155860
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nV1GEmxHD35DxFF02c7f8g","kid":"305xkBlsXzi1Q85dRHswHw"}],"type":"temporary"}
-#EXTINF: -1 tvg-id="388" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Gold_HD.png" group-title="1 Telugu [ Watcindia ]", Star Maa Gold 1 ( Tata Sky )
+#EXTINF: -1 tvg-id="ts388" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Gold_HD.png" group-title="1 Telugu [ Watcindia ]", Star Maa Gold 1 ( Tata Sky )
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_608/output/manifest.mpd
 
 
@@ -186,7 +186,7 @@ http://mag.trexlive.me:80/Michael88/Michael88/155843
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mx4e3evO2wDJtJ9A57nVBg","kid":"sunyHzaHXqe8XSguU//cIg"}],"type":"temporary"}
-#EXTINF: -1 tvg-id="516" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png" group-title="1 Telugu [ Watcindia ]", Star Maa HD 1 ( Tata Sky )
+#EXTINF: -1 tvg-id="ts516" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png" group-title="1 Telugu [ Watcindia ]", Star Maa HD 1 ( Tata Sky )
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifest.mpd
 
 
@@ -197,7 +197,7 @@ http://mag.trexlive.me:80/Michael88/Michael88/155842
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6XFREJ7ACfaf35BTwBUU0A","kid":"nzps+7J0Ud2fKBZmyOYtgQ"}],"type":"temporary"}
-#EXTINF: -1 tvg-id="387" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18348-jcqpx9ns-v1/imageContent-18348-jcqpx9ns-m1.PNG" group-title="1 Telugu [ Watcindia ]", Star Maa Movies HD 1 ( Tata Sky )
+#EXTINF: -1 tvg-id="ts387" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18348-jcqpx9ns-v1/imageContent-18348-jcqpx9ns-m1.PNG" group-title="1 Telugu [ Watcindia ]", Star Maa Movies HD 1 ( Tata Sky )
 https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_611/output/manifest.mpd
 
 #EXTINF: -1 tvg-id="starmaamovieshd.in" tvg-name="Star Maa Movies HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18348-jcqpx9ns-v1/imageContent-18348-jcqpx9ns-m1.PNG" group-title="1 Telugu [ Watcindia ]", Star Maa Movies HD 2 ( W I )
@@ -211,7 +211,7 @@ http://watchindia.net:8880/live/12171/04170628/949.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iuyFEUwPhz1CPgRwyo7XNg","kid":"tNjr5huaU8KC9HUU4aIruw"}],"type":"temporary"}
-#EXTINF: -1 tvg-id="645" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23721-jg0fhacg-v2/imageContent-23721-jg0fhacg-m2.PNG" group-title="1 Telugu [ Watcindia ]", Tata Play English in Telugu ( Tata Sky )
+#EXTINF: -1 tvg-id="ts645" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23721-jg0fhacg-v2/imageContent-23721-jg0fhacg-m2.PNG" group-title="1 Telugu [ Watcindia ]", Tata Play English in Telugu ( Tata Sky )
 https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_880/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -247,7 +247,7 @@ http://mag.trexlive.me:80/Michael88/Michael88/155872
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Di3urPsjh+u0ga2EwGJzhA","kid":"EyWa1EHRVcatdZ5JJpnAzw"}],"type":"temporary"}
-#EXTINF: -1 tvg-id="636" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21307-je859sm0-v1/imageContent-21307-je859sm0-m2.png" group-title="1 Telugu [ Watcindia ]", Zee Cinemalu HD 1 ( Tata Sky )
+#EXTINF: -1 tvg-id="ts636" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21307-je859sm0-v1/imageContent-21307-je859sm0-m2.png" group-title="1 Telugu [ Watcindia ]", Zee Cinemalu HD 1 ( Tata Sky )
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_871/output/manifest.mpd
 
 
@@ -262,7 +262,7 @@ http://mag.trexlive.me:80/Michael88/Michael88/155866
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gsjX8X6SVHDloyiE3vgXBw","kid":"Z+ObnuoYX/2Q4V6DB/tTKg"}],"type":"temporary"}
-#EXTINF: -1 tvg-id="635" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21304-je859a3c-v1/imageContent-21304-je859a3c-m1.png" group-title="1 Telugu [ Watcindia ]", Zee Telugu HD 1 ( Tata Sky )
+#EXTINF: -1 tvg-id="ts635" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21304-je859a3c-v1/imageContent-21304-je859a3c-m1.png" group-title="1 Telugu [ Watcindia ]", Zee Telugu HD 1 ( Tata Sky )
 https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_873/output/manifest.mpd
 
 
