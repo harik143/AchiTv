@@ -1,6 +1,7 @@
 
+#EXTM3U  x-tvg-url="https://www.tsepg.cf/epg.xml.gz" 
+x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 
-#EXTM3U  x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ThDEy5DNn0nkVA8KO98dFw","kid":"KfwY/tVwUMapVzScpY/HwQ"}],"type":"temporary"}
