@@ -206,9 +206,9 @@ https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_611/output/manifes
 
 #EXTINF: -1 tvg-id="starmaamovieshd.in" tvg-name="Star Maa Movies HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18348-jcqpx9ns-v1/imageContent-18348-jcqpx9ns-m1.PNG" group-title="1 Telugu [ Watcindia ]", Star Maa Movies HD 2 ( W I )
 http://watchindia.net:8880/live/12171/04170628/934.ts
-#EXTINF: -1 tvg-logo="https://iili.io/Jc8WpHb.png" group-title="1 Telugu [ Watcindia ]", Star Maa Music 1 India
+#EXTINF: -1 tvg-logo="https://iili.io/Jc8WpHb.png" group-title="1 Telugu [ Watcindia ]", Star Maa Music 3 India
 http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=281969&extension=ts
-#EXTINF: -1 tvg-name="Star Maa Music" tvg-logo="https://iili.io/Jc8WpHb.png" group-title="1 Telugu [ Watcindia ]", Star Maa Music 3 USA
+#EXTINF: -1 tvg-name="Star Maa Music" tvg-logo="https://iili.io/Jc8WpHb.png" group-title="1 Telugu [ Watcindia ]", Star Maa Music 1 USA
 http://tgaadi-web.tech/Aadi.php?id=232264
 #EXTINF: -1 tvg-id="tnews.in" tvg-name="T News" tvg-logo="https://watchindia.net/images/channels/telugu/T_News.png" group-title="1 Telugu [ Watcindia ]", T News
 http://watchindia.net:8880/live/12171/04170628/949.ts
