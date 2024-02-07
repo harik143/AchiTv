@@ -4300,3 +4300,44 @@ http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=1097619&extens
 http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=1097618&extension=ts
 #EXTINF: -1 tvg-name="TELUGU| CVR HEALTH" group-title="3 ASIA | TELEGU ( Airtel )", TELUGU| CVR HEALTH
 http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=1097617&extension=ts
+
+
+
+#EXTINF: -1 tvg-name="ENGLISH| STAR MOVIES FHD" group-title="1 Telugu [ Watcindia ]", ENGLISH| STAR MOVIES FHD
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=282639&extension=ts
+#EXTINF: -1 tvg-id="StarMoviesSelect.in" tvg-logo="http://logo.protv.cc/picons/logos/STAR-MOVIES-SELECT-HD.jpg" group-title="1 Telugu [ Watcindia ]", STAR MOVIES SELECT HD
+http://mag.trexlive.me:80/Michael88/Michael88/155729
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/and-flix.png" group-title="1 Telugu [ Watcindia ]", AND FLIX FHD
+http://mag.trexlive.me:80/Michael88/Michael88/1116484
+#EXTINF: -1 tvg-id="AndFlix.in" tvg-logo="http://logo.protv.cc/picons/logos/AND-FLIX.png" group-title="1 Telugu [ Watcindia ]", AND FLIX
+http://mag.trexlive.me:80/Michael88/Michael88/282632
+#EXTINF: -1 tvg-id="AndPrive.in" tvg-logo="http://logo.protv.cc/picons/logos/AND-PRIVE-HD.png" group-title="1 Telugu [ Watcindia ]", AND PRIVE HD
+http://mag.trexlive.me:80/Michael88/Michael88/155746
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/travelxp.png" group-title="1 Telugu [ Watcindia ]", TRAVEL XP HD
+http://mag.trexlive.me:80/Michael88/Michael88/155748
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/TLC-WORLD-HD.jpg" group-title="1 Telugu [ Watcindia ]", TLC WORLD HD
+http://mag.trexlive.me:80/Michael88/Michael88/155743
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/Colors_Infinityhd.png" group-title="1 Telugu [ Watcindia ]", COLORS INFINITY FHD
+http://mag.trexlive.me:80/Michael88/Michael88/1116486
+#EXTINF: -1 tvg-id="ColorsInfinity.in" tvg-logo="http://logo.protv.cc/picons/logos/COLORS-INFINITY-HD.png" group-title="1 Telugu [ Watcindia ]", COLORS INFINITY HD
+http://mag.trexlive.me:80/Michael88/Michael88/155747
+#EXTINF: -1 tvg-id="HBO.us" tvg-logo="http://logo.protv.cc/picons/logos/hbohd.png" group-title="1 Telugu [ Watcindia ]", HBO HD
+http://mag.trexlive.me:80/Michael88/Michael88/155734
+#EXTINF: -1 tvg-id="FOXLife.us" tvg-logo="http://logo.protv.cc/picons/logos/foxlifehd.png" group-title="1 Telugu [ Watcindia ]", FOX LIFE HD
+http://mag.trexlive.me:80/Michael88/Michael88/155731
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/023tlc.png" group-title="1 Telugu [ Watcindia ]", TLC FHD
+http://mag.trexlive.me:80/Michael88/Michael88/1116482
+#EXTINF: -1 tvg-id="6275" tvg-logo="http://DHOOM 4U4u.me/stalker_portal/misc/logos/320/" group-title="1 Telugu [ Watcindia ]", Latest Telugu Movie (Khiladi) 4K
+http://tgaadi-web.tech/Tg_aadi.php?id=10977
+#EXTINF: -1 tvg-id="6245" tvg-logo="http://DHOOM 4U4u.me/stalker_portal/misc/logos/320/6245.jpg" group-title="1 Telugu [ Watcindia ]", 24/7: Chiranjeevi HITS MOVIES 4K
+http://tgaadi-web.tech/Tg_aadi.php?id=10904
+#EXTINF: -1 tvg-id="6238" tvg-logo="http://DHOOM 4U4u.me/stalker_portal/misc/logos/320/6238.jpg" group-title="1 Telugu [ Watcindia ]", 24/7: Mahesh Babu Hits MOVIES 4K
+http://tgaadi-web.tech/Tg_aadi.php?id=10887
+#EXTINF: -1 tvg-id="6266" tvg-logo="http://DHOOM 4U4u.me/stalker_portal/misc/logos/320/6266.jpg" group-title="1 Telugu [ Watcindia ]", 24/7 : Ram Charan Hits Movies 4K
+http://tgaadi-web.tech/Tg_aadi.php?id=10962
+#EXTINF: -1 tvg-id="6267" tvg-logo="http://DHOOM 4U4u.me/stalker_portal/misc/logos/320/6267.jpg" group-title="1 Telugu [ Watcindia ]", 24/7: N. T. Rama Rao Jr. Super Hit 4k
+http://tgaadi-web.tech/Tg_aadi.php?id=10965
+#EXTINF: -1 tvg-id="6268" tvg-logo="http://DHOOM 4U4u.me/stalker_portal/misc/logos/320/6268.jpg" group-title="1 Telugu [ Watcindia ]", BlockBuster Movies 4k
+http://tgaadi-web.tech/Tg_aadi.php?id=10966
+#EXTINF: -1 tvg-id="6274" tvg-logo="http://DHOOM 4U4u.me/stalker_portal/misc/logos/320/" group-title="1 Telugu [ Watcindia ]", 24/7:RAVI TEJA BlockBusters Movies 4k
+http://tgaadi-web.tech/Tg_aadi.php?id=10976
