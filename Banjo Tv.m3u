@@ -1,0 +1,393 @@
+#EXTM3U
+#EXTINF:-1 group-title="TELUGU" ,TELUGU SONGS 24/7
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/telugu-songs-247/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,MAA THEATOR
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/maa-theator/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,MAA THEATOR US
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/maa-theator-us/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,TELUGU CINEMA 3
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/telugu-cinema-3/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,TELUGU CINEMA 4
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/telugu-cinema-4/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,TELUGU CINEMA 5
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/telugu-cinema-5/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-id="ETV HD" ,ETV HD US
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/etv-hd-us/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-id="ETV HD" ,ETV HD US.
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/etv-hd-us-2/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-id="ETV HD" ,ETV HD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/etv-hd/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-id="ETV Telengana" ,ETV TELUGU
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/etv-telugu/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-id="maatv.in" ,MAA TV HD US
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/maa-tv-hd-us/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2978.png" tvg-id="maatv.in" ,MAA TV US
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/maa-tv-us/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="3008.png" tvg-id="maatv.in" ,MAA TV HD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/maa-tv-hd/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2925.png" tvg-id="maatv.in" ,MAA TV
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/maa-tv/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2952.png" tvg-id="Star Maa Movies HD" ,MAA MOVIES HD US
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/maa-movies-hd-us/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2960.png" tvg-id="maamovieshd.in" ,MAA MOVIES US
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/maa-movies-us/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2935.png" tvg-id="Star Maa Music" ,MAA MUSIC
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/maa-music/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2997.png" tvg-id="maamovieshd.in" ,MAA MOVIES HD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/maa-movies-hd/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2938.png" tvg-id="Star Maa Movies HD" ,MAA MOVIES
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/maa-movies/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2947.png" tvg-id="Star Maa Gold" ,MAA GOLD HD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/maa-gold-hd/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2954.png" tvg-id="Star Maa Gold" ,MAA GOLD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/maa-gold/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2986.png" tvg-id="Star Maa Gold" ,MAA GOLD US
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/maa-gold-us/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2995.png" tvg-id="Zee Telugu HD" ,ZEE TELUGU US.
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/zee-telugu-us/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2921.png" tvg-id="Zee Telugu HD" ,ZEE TELUGU US
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/zee-telugu-us-2/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="3005.png" tvg-id="Zee Telugu HD" ,ZEE TELUGU.
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/zee-telugu/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2989.png" tvg-id="Gemini TV HD" ,GEMINI HD US
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/gemini-hd-us/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2999.png" tvg-id="Gemini TV HD" ,GEMINI  US
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/gemini-us/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2970.png" tvg-id="Gemini TV HD" ,GEMINI HD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/gemini-hd/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2987.png" tvg-id="Gemini TV HD" ,GEMINI TV
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/gemini-tv/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2922.png" tvg-id="Gemini Movies HD" ,GEMINI MOVIE HD US
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/gemini-movie-hd-us/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2930.png" tvg-id="Gemini Movies HD" ,GEMINI MOVIES
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/gemini-movies/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2979.png" tvg-id="Gemini Movies HD" ,GEMINI MOVIE HD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/gemini-movie-hd/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2941.png" tvg-id="Gemini Comedy" ,GEMINI COMEDY
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/gemini-comedy/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2945.png" tvg-id="Gemini Music" ,GEMINI MUSIC
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/gemini-music/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2959.png" tvg-id="Gemini Life" ,GEMINI LIFE
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/gemini-life/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2924.png" tvg-id="Zee Cinemalu HD" ,ZEE CINEMALU US
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/zee-cinemalu-us/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="3004.png" tvg-id="Zee Cinemalu HD" ,ZEE CINEMALU
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/zee-cinemalu/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2974.png" tvg-id="tv1.in" ,TV1 NEWS
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/tv1-news/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2984.png" tvg-id="tv5.in" ,TV5
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/tv5/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2990.png" tvg-id="tv9.in" ,TV9 NEWS
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/tv9-news/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="3003.png" tvg-id="V6 News" ,V6 NEWS
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/v6-news/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="3009.png" tvg-id="Raj News Telugu" ,RAJ NEWS⁭
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/raj-news-2/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2926.png" tvg-id="tnews.in" ,T NEWS
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/t-news/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2932.png" ,MAHAA TV.
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/mahaa-tv/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2949.png" ,TOLLYWOOD TV
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/tollywood-tv/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2965.png" tvg-id="ETV Abhiruchi" ,ETV ABHIRUCHI
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/etv-abhiruchi/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2958.png" tvg-id="ETV Cinema" ,ETV CINEMA
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/etv-cinema/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2963.png" tvg-id="ETV Telengana" ,ETV ANDHRA PRADESH
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/etv-andhra-pradesh/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2977.png" tvg-id="ETV Life" ,ETV LIFE
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/etv-life/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2994.png" tvg-id="ETV Plus" ,ETV PLUS
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/etv-plus/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2998.png" tvg-id="Vissa TV" ,RAJ VISSA
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/raj-vissa/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2934.png" tvg-id="Sakshi TV" ,SAKSHI TV
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/sakshi-tv/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2937.png" tvg-id="Studio N News" ,STUDION
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/studion/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2944.png" tvg-id="SVBC Telugu" ,SVBC
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/svbc/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2966.png" tvg-id="vanithatv.in" ,VANITHA TV
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/vanitha-tv/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2971.png" ,VTA MEETING LIVE
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/vta-meeting-live/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2982.png" tvg-id="ntvnews.in" ,NTV
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/ntv-2/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2992.png" tvg-id="10 TV" ,10TV
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/10tv/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="3001.png" tvg-id="CVR Spiritual OM" ,OM CVR
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/om-cvr/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2923.png" ,6TV
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/6tv/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2927.png" ,POOJATV
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/poojatv/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2933.png" tvg-id="Discovery" ,DISCOVERY TELUGU
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/discovery-telugu/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2942.png" tvg-id="abnandhrajyothy.in" ,ABN ANDHRA JYOTHI
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/abn-andhra-jyothi/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2948.png" tvg-id="History TV18 HD" ,HISTORY 18 HD US
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/history-18-hd-us/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2951.png" tvg-id="Aradana TV" ,ARADANA TV
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/aradana-tv/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2956.png" tvg-id="Bhakti TV" ,BHAKTI TV
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/bhakti-tv/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2981.png" tvg-id="History TV18 HD" ,HISTORY 18  HD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/history-18-hd/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2946.png" tvg-id="RECORD ENABLED" ,NAT GEO HD US
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/nat-geo-hd-us/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2967.png" ,BHARAT TODAY
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/bharat-today/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2976.png" ,CALVARY TV
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/calvary-tv/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="3000.png" tvg-id="National Geographic HD" ,NAT GEO HD TELUGU
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/nat-geo-hd-telugu/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2969.png" tvg-id="sonybbcearthhd.in" ,SONY EARTH HD US
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/sony-earth-hd-us/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2983.png" tvg-id="cvrenglish.in" ,CVR ENGLISH NEWS
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/cvr-english-news/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2991.png" tvg-id="CVR News" ,CVR NEWS
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/cvr-news/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2996.png" tvg-id="SONY BBC Earth HD" ,SONY EARTH HD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/sony-earth-hd/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="3007.png" ,HMTV
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/hmtv/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2931.png" tvg-id="i-news.in" ,INEWS
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/inews/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="2955.png" tvg-id="Hungama" ,HUNGAMA TELUGU
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/hungama-telugu/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="3010.png" tvg-id="Sony Yay!" ,SONY YAY⁭
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/sony-yay-2/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="MTVDance.uk" ,MTV DANCE
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/mtv-dance/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="MTVHits.uk" ,MTV HITS
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/mtv-hits/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="MTVMusic.uk" ,MTV MUSIC
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/mtv-music/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="HistoryChannel.uk" ,HISTORY UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/history-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="InvestigationDiscovery.uk" ,ID UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/id-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="AnimalPlanet.uk" ,ANIMALPLANET UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/animalplanet-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="NatGeoWild.uk" ,NAT GEO WILD UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/nat-geo-wild-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="NatGeo.uk" ,NAT GEO UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/nat-geo-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="DiscoveryChannel.uk" ,DISCOVERY CHANNEL UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/discovery-channel-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="DiscoveryScience.uk" ,DISCOVERY SCIENCE UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/discovery-science-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="DiscoveryShed.uk" ,DISCOVERY SHED UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/discovery-shed-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="HomeandHealth.uk" ,DISCOVERY HOME & HEALTH UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/discovery-home-health-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="DiscoveryHistory.uk" ,DISCOVERY HISTORY UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/discovery-history-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="DiscoveryTurbo.uk" ,DISCOVERY TURBO UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/discovery-turbo-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="InvestigationDiscovery.uk" ,INVESTIGATION DISCOVERY UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/investigation-discovery-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="BBC1.uk" ,BBC 1
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/bbc-1/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="BBC2.uk" ,BBC 2
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/bbc-2/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="BBC3.uk" ,BBC 3
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/bbc-3/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="BBC4.uk" ,BBC 4
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/bbc-4/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="ITV1Anglia.uk" ,ITV1 HD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/itv1-hd/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="ITV2.uk" ,ITV2 HD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/itv2-hd/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="ITV3.uk" ,ITV3 HD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/itv3-hd/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="ITV4.uk" ,ITV4
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/itv4/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="Channel4.uk" ,CHANNEL 4 HD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/channel-4-hd/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="Channel5.uk" ,CHANNEL 5 HD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/channel-5-hd/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="TravelChannel.uk" ,TRAVEL CHANNEL UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/travel-channel-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="SkyNews.uk" ,SKY NEWS HD UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/sky-news-hd-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="NatGeo.uk" ,NATGEO HD UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/natgeo-hd-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="BET.uk" ,BET BLACKENTTV UK ENG
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/bet-blackenttv-uk-eng/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="SkyFamily.uk" ,SKY CINEMA FAMILY UK ENG
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/sky-cinema-family-uk-eng/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="SkyArts.uk" ,SKY ARTS 1
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/sky-arts-1-2/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="SkyAtlantic.uk" ,SKY MOVIES ACTION&ADVENTURE
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/sky-movies-actionadventure/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="SkyComedy.uk" ,SKY MOVIES COMEDY HD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/sky-movies-comedy-hd-2/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="SkyCrimeThriller.uk" ,SKY MOVIES CRIME&THRILLER
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/sky-movies-crimethriller-2/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="SkyDisney.uk" ,SKY MOVIES DISNEY
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/sky-movies-disney-2/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="SkyDrama.uk" ,SKY MOVIES DRAMA HD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/sky-movies-drama-hd-2/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="SkyFamily.uk" ,SKY MOVIES FAMILY
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/sky-movies-family-2/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="SkyArts.uk" ,SKY MOVIES MODERNGREATS HD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/sky-movies-moderngreats-hd-2/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="SkyPremiere.uk" ,SKY MOVIES PREMIERE HD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/sky-movies-premiere-hd-2/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="SkySciFiHorror.uk" ,SKY MOVIES SCFI-HORROR HD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/sky-movies-scfihorror-hd-2/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="SkySelect.uk" ,SKY MOVIES SELECT HD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/sky-movies-select-hd-2/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,SKY MOVIES SHOWCASE
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/sky-movies-showcase-2/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="SkyCrimeThriller.uk" ,SKY MOVIES THRILLER
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/sky-movies-thriller-2/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="Sky1.uk" ,SKY ONE HD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/sky-one-hd-2/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="Sky2.uk" ,SKY TWO
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/sky-two/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="Spike.uk" ,SPIKE HD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/spike-hd/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,BEIN MOVIES 1 HD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/bein-movies-1-hd-2/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,BEIN MOVIES 2 HD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/bein-movies-2-hd-2/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,BEIN MOVIES 3 HD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/bein-movies-3-hd-2/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,BEIN MOVIES 4 HD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/bein-movies-4-hd-2/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="ITVEncore.uk" ,ITV ENCORE HD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/itv-encore-hd/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="CITV.uk" ,ITV CHOICE
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/itv-choice/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,BBC ONE WALES HD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/bbc-one-wales-hd/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="BBCOneScotland.uk" ,BBC ONE SCOTLAND  HD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/bbc-one-scotland-hd/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,BBC TWO WALES
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/bbc-two-wales/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="BBCTwoScotland.uk" ,BBC TWO SCOTLAND
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/bbc-two-scotland/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,BBC TWO NORTHERN IRELAND
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/bbc-two-northern-ireland/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="BBCAlba.uk" ,BBC ALBA
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/bbc-alba/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="S4C.uk" ,S4C
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/s4c/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="Home.uk" ,HOME
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/home/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="CBSAction.uk" ,CBS ACTION
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/cbs-action/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="CBSDrama.uk" ,CBS DRAMA-SD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/cbs-dramasd/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="ComedyCentral.uk" ,COMEDY CENTRAL UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/comedy-central-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="CBSReality.uk" ,CBS REALITY-SD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/cbs-realitysd/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="Dave.uk" ,DAVE
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/dave/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,FX SD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/fx-sd/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="E4.uk" ,E4
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/e4/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="FoodNetwork.uk" ,FOOD NETWORK UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/food-network-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,TV5 MONDE
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/tv5-monde/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="Quest.uk" ,QUEST
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/quest/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="Lifetime.uk" ,LIFETIME
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/lifetime/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="Kix.uk" ,KIX
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/kix/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="HistoryChannel.uk" ,HISTORY
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/history/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="CommunityChannel.uk" ,COMMUNITY
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/community/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,CHS TV
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/chs-tv/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,RTE ONE UK ENG
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/rte-one-uk-eng/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,RTE TWO UK ENG
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/rte-two-uk-eng/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,UTV UK ENG
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/utv-uk-eng/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="FOX.uk" ,FOX VOD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/fox-vod/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="ITVBe.uk" ,ITV BE
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/itv-be/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,ITV LONDON
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/itv-london/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,MY9
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/my9/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="PickTV.uk" ,PICK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/pick/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,RTE
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/rte/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,WGN
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/wgn/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="FiveUSA.uk" ,5USA
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/5usa/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,4SEVEN
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/4seven/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,5STAR
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/5star/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,5 USA
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/5-usa/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="TLC.uk" ,TLC
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/tlc/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="Viva.uk" ,VIVA
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/viva/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,TV3 UK ENG
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/tv3-uk-eng/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,TG4 UK ENG
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/tg4-uk-eng/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,UK 3E UK ENG
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/uk-3e-uk-eng/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,SKY NEWS UK ENG
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/sky-news-uk-eng/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,MY5 UK ENG
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/my5-uk-eng/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,TRUE DRAMA UK ENG
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/true-drama-uk-eng/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,TRUE ENTERTAINMENT UK ENG
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/true-entertainment-uk-eng/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,FILM4 UK ENG
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/film4-uk-eng/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,TCM UK ENG
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/tcm-uk-eng/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,HORROR UK ENG
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/horror-uk-eng-2/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,SONY MOVIES UK ENG
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/sony-movies-uk-eng-2/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,MOVIES UK ENG
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/movies-uk-eng-2/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="Syfy.uk" ,SYFY HD UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/syfy-hd-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,MTV BASE UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/mtv-base-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="Universal.uk" ,UNIVERSAL
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/universal/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,MAGIC UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/magic-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,STARZ TV UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/starz-tv-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,EDEN UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/eden-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,YESTERDAY UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/yesterday-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,CRIME INVESTIGATION UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/crime-investigation-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,HILLSONG UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/hillsong-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,VICELAND UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/viceland-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,CHRISTMAS24 UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/christmas24-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,RACING HD UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/racing-hd-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,STV FHD UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/stv-fhd-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH ≡ UK" tvg-id="dummy" ,SKY ATLANTIC
+https://ardinesh-pc-remote.puspas.com.np/live-tv/banjotv/sky-atlantic-2/index.m3u8
