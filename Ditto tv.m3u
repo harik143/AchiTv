@@ -1,0 +1,983 @@
+#EXTM3U
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I1052.44792.schedulesdirect.org" ,GLOBAL TORONTO 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/global-toronto-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I234.17406.schedulesdirect.org" ,GLOBAL MONTREAL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/global-montreal-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I807.60121.schedulesdirect.org" ,GLOBAL VANCOUVER 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/global-vancouver-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="globalcalgary.ca" ,GLOBAL CALGARY 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/global-calgary-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I240.10124.schedulesdirect.org" ,GLOBAL EDMONTON 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/global-edmonton-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I204.17396.schedulesdirect.org" ,GLOBAL MARITIMES 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/global-maritimes-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="globalwinnipeg.ca" ,GLOBAL WINNIPEG 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/global-winnipeg-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="globalsaskatoon.ca" ,GLOBAL SASKATOON 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/global-saskatoon-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,GLOBAL NEWS TORONTO 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/global-news-toronto-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,GLOBAL NEWS MONTREAL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/global-news-montreal-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,GLOBAL NEWS BC 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/global-news-bc-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,GLOBAL NEWS CALGARY 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/global-news-calgary-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,GLOBAL NEWS EDMONTON 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/global-news-edmonton-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,GLOBAL NEWS REGINA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/global-news-regina-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,GLOBAL NEWS SASKATOON 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/global-news-saskatoon-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,GLOBAL NEWS WINNIPEG 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/global-news-winnipeg-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,GLOBAL NEWS HALIFAX 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/global-news-halifax-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,GLOBAL NEWS KINGSTON 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/global-news-kingston-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,GLOBAL NEWS LETHBRIDGE 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/global-news-lethbridge-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,GLOBAL NEWS OKANAGAN 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/global-news-okanagan-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,GLOBAL NEWS PETERBOROUGH 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/global-news-peterborough-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBC TORONTO 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbc-toronto-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBC MONTREAL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbc-montreal-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBC CALGARY 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbc-calgary-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I230.15941.schedulesdirect.org" ,CBC EDMONTON 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbc-edmonton-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I226.13834.schedulesdirect.org" ,CBC WINNIPEG 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbc-winnipeg-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBC OTTAWA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbc-ottawa-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBC REGINA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbc-regina-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBC VANCOUVER 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbc-vancouver-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBC HALIFAX 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbc-halifax-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBC WINDSOR 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbc-windsor-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBC CHARLOTTETOWN 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbc-charlottetown-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBC FREDERICTON
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbc-fredericton/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBC YELLOWKNIFE 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbc-yellowknife-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBC ST JOHN 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbc-st-john-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I800.44784.schedulesdirect.org" ,CTV TORONTO 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/ctv-toronto-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I800.44784.schedulesdirect.org" ,CTV MONTREAL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/ctv-montreal-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I1151.44786.schedulesdirect.org" ,CTV VANCOUVER 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/ctv-vancouver-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I1091.72769.schedulesdirect.org" ,CTV WINNIPEG 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/ctv-winnipeg-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="ctvcalgary.ca" ,CTV CALGARY 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/ctv-calgary-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="ctvedmonton.ca" ,CTV EDMONTON 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/ctv-edmonton-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="ctvottawa.ca" ,CTV OTTAWA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/ctv-ottawa-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="ctvregina.ca" ,CTV REGINA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/ctv-regina-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I249.15991.schedulesdirect.org" ,CTV SASKTATOON 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/ctv-sasktatoon-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I201.14863.schedulesdirect.org" ,CTV HALIFAX 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/ctv-halifax-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I201.14863.schedulesdirect.org" ,CTV ATLANTIC 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/ctv-atlantic-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I584.10128.schedulesdirect.org" ,CTV KITCHENER 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/ctv-kitchener-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,T+E 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/te-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,INC TV 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/inc-tv-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,TV LAND 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/tv-land-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I214.58812.schedulesdirect.org" ,THE WEATHER NET CANADA
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/the-weather-net-canada/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I215.72422.schedulesdirect.org" ,THE WEATHER NETWORK USA
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/the-weather-network-usa/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,AWE 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/awe-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I1566.94289.schedulesdirect.org" ,CP24 4K*
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cp24-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I1566.94289.schedulesdirect.org" ,CP24 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cp24-4k-2/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I261.11220.schedulesdirect.org" ,VISION TV HD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/vision-tv-hd/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,TRAVELXP 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/travelxp-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I214.10125.schedulesdirect.org" ,CITY TV TORONTO 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/city-tv-toronto-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="citytvcalgary.ca" ,CITY TV CALGARY 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/city-tv-calgary-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="citytvedmonton.ca" ,CITY TV EDMONTON 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/city-tv-edmonton-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I207.17046.schedulesdirect.org" ,CITY TV MONTREAL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/city-tv-montreal-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I253.10136.schedulesdirect.org" ,CITY TV VANCOUVER 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/city-tv-vancouver-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="citytvwinnipeg.ca" ,CITY TV WINNIPEG 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/city-tv-winnipeg-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="citytvsaskatchewan.ca" ,CITY TV SASKATCHEWAN 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/city-tv-saskatchewan-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,TLN 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/tln-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,DTOUR 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/dtour-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,PBS WNED BUFFALO 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/pbs-wned-buffalo-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I215.10105.schedulesdirect.org" ,OMNI 1 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/omni-1-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,OMNI 2 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/omni-2-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I254.33725.schedulesdirect.org" ,OMNI 4K VANCOUVER
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/omni-4k-vancouver/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CITY TV NEWS 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/city-tv-news-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,GLOBAL NEWS 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/global-news-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I1562.76921.schedulesdirect.org" ,CTV NEWS 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/ctv-news-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I1578.58646.schedulesdirect.org" ,CNN USA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cnn-usa-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I511.10146.schedulesdirect.org" ,CNN INTERNATIONAL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cnn-international-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I1564.75971.schedulesdirect.org" ,CBC NEWS 4K*
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbc-news-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ABC NEWS 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abc-news-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I205.60179.schedulesdirect.org" ,FOX NEWS 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-news-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I203.71799.schedulesdirect.org" ,BLOOMBERG TV US
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/bloomberg-tv-us/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I202.64549.schedulesdirect.org" ,HLN 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/hln-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I208.58780.schedulesdirect.org" ,CNBC USA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cnbc-usa-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I504.20709.schedulesdirect.org" ,BNN 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/bnn-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I208.10139.schedulesdirect.org" ,CNBC WORLD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cnbc-world/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I5498.16300.schedulesdirect.org" ,MSNBC
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/msnbc/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SKY NEWS 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/sky-news-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I635.26827.schedulesdirect.org" ,BBC NEWS
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/bbc-news/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I281.89542.schedulesdirect.org" ,BBC WORLD NEWS
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/bbc-world-news/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I516.55559.schedulesdirect.org" ,AL JAZEERA
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/al-jazeera/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,BBC ONE 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/bbc-one-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,BBC TWO 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/bbc-two-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,BBC THREE 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/bbc-three-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,BBC FOUR 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/bbc-four-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I9864.70130.schedulesdirect.org" ,FRANCE 24
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/france-24/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,RT DOCUMENTORY
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/rt-documentory/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I724.58333.schedulesdirect.org" ,RT INTERNATIONAL
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/rt-international/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,RT TODAY 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/rt-today-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,RT UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/rt-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBS NEWS 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-news-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,BLOOMBERG UK 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/bloomberg-uk-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX BUSINESS 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-business-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ONE AMERICA NEWS 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/one-america-news-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NEWSMAX TV 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/newsmax-tv-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,GOOD FOOD 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/good-food-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOOD NETWORK USA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/food-network-usa-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I9462.50747.schedulesdirect.org" ,FOOD NETWORK 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/food-network-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOOD NETWORK UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/food-network-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I1709.71348.schedulesdirect.org" ,COOKING CHANNEL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cooking-channel-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I607.26829.schedulesdirect.org" ,DIY NETWORK 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/diy-network-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I112.14902.schedulesdirect.org" ,HGTV 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/hgtv-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I827.44794.schedulesdirect.org" ,DISCOVERY VELOCITY 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/discovery-velocity-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,BBC EARTH 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/bbc-earth-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SKY DOCUMENTARIES 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/sky-documentaries-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SKY CRIME 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/sky-crime-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,DISCOVERY FAMILY 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/discovery-family-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,DISCOVERY LIFE 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/discovery-life-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I520.15098.schedulesdirect.org" ,DISCOVERY 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/discovery-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,DISCOVERY USA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/discovery-usa-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,DISCOVERY CHANNEL UK 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/discovery-channel-uk-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I1606.76887.schedulesdirect.org" ,DISCOVERY SCIENCE US 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/discovery-science-us-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,DISCOVERY SCIENCE UK 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/discovery-science-uk-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I192.65342.schedulesdirect.org" ,ID 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/id-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,DISCOVERY HISTORY 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/discovery-history-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SKY NATURE HD UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/sky-nature-hd-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I1625.52745.schedulesdirect.org" ,LOVE NATURE 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/love-nature-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I186.49438.schedulesdirect.org" ,NATIONAL GEOGRAPHIC 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/national-geographic-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I186.24959.schedulesdirect.org" ,NATIONAL GEOGRAPHIC USA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/national-geographic-usa-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NATIONAL GEOGRAPHIC UK 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/national-geographic-uk-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I190.67331.schedulesdirect.org" ,NATIONAL GEOGRAPHIC WILD 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/national-geographic-wild-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NATIONAL GEOGRAPHIC WILD 4K UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/national-geographic-wild-4k-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I184.57394.schedulesdirect.org" ,ANIMAL PLANET 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/animal-planet-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ANIMAL PLANET USA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/animal-planet-usa-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I184.16331.schedulesdirect.org" ,ANIMAL PLANET UK 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/animal-planet-uk-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I1605.65619.schedulesdirect.org" ,HISTORY 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/history-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I120.57708.schedulesdirect.org" ,HISTORY USA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/history-usa-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,HISTORY UK 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/history-uk-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,H2 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/h2-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,H2 UK 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/h2-uk-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I9490.57390.schedulesdirect.org" ,DISCOVERY SCIENCE CA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/discovery-science-ca-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,BBC AMERICA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/bbc-america-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,OLN 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/oln-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,MTV LIVE 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/mtv-live-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I160.60964.schedulesdirect.org" ,MTV 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/mtv-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I577.26775.schedulesdirect.org" ,MTV2 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/mtv2-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I158.59250.schedulesdirect.org" ,CBS 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I9477.35296.schedulesdirect.org" ,FOX 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX USA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-usa-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I136.58574.schedulesdirect.org" ,FX 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fx-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I4943.66379.schedulesdirect.org" ,FXX 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fxx-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I105.11207.schedulesdirect.org" ,USA NETWORK 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/usa-network-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I838.53711.schedulesdirect.org" ,SHOWCASE 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/showcase-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,YES TV 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/yes-tv-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I9448.68827.schedulesdirect.org" ,GSN 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/gsn-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I9470.60150.schedulesdirect.org" ,LIFE TIME 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/life-time-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I1736.76792.schedulesdirect.org" ,E! 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/e-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CW EAST 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cw-east-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I107.62420.schedulesdirect.org" ,COMEDY CENTRAL USA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/comedy-central-usa-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I625.17595.schedulesdirect.org" ,CTV COMEDY 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/ctv-comedy-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I1734.73549.schedulesdirect.org" ,CTV DRAMA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/ctv-drama-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I9492.58625.schedulesdirect.org" ,BRAVO USA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/bravo-usa-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I813.55097.schedulesdirect.org" ,A&E 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/ae-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I118.10035.schedulesdirect.org" ,A&E USA
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/ae-usa/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I122.11097.schedulesdirect.org" ,SYFY US
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/syfy-us/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I1281.64831.schedulesdirect.org" ,AMC 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/amc-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I131.59337.schedulesdirect.org" ,AMC USA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/amc-usa-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I241.59186.schedulesdirect.org" ,SPIKE 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/spike-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ABC USA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abc-usa-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I1650.75117.schedulesdirect.org" ,ABC SPARK 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abc-spark-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,OWN USA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/own-usa-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I189.70387.schedulesdirect.org" ,OWN 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/own-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I1704.81282.schedulesdirect.org" ,SLICE 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/slice-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I1705.71332.schedulesdirect.org" ,W NETWORK 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/w-network-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I124.63236.schedulesdirect.org" ,BET 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/bet-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,PARAMOUNT 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/paramount-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I9430.64490.schedulesdirect.org" ,TRUTV USA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/trutv-usa-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I183.11158.schedulesdirect.org" ,TLC 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/tlc-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,TLC UK 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/tlc-uk-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I286.12553.schedulesdirect.org" ,NASA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nasa-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I185.11221.schedulesdirect.org" ,HALLMARK 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/hallmark-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I218.10112.schedulesdirect.org" ,CHCH 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/chch-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I138.11164.schedulesdirect.org" ,TNT 4K USA
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/tnt-4k-usa/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,WE TV 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/we-tv-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I9499.58515.schedulesdirect.org" ,TBS USA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/tbs-usa-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I196.59303.schedulesdirect.org" ,TRAVEL USA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/travel-usa-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I527.26780.schedulesdirect.org" ,TRAVEL PLUS
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/travel-plus/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I9507.60046.schedulesdirect.org" ,VH1 USA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/vh1-usa-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,VH1 UK 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/vh1-uk-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I419.49030.schedulesdirect.org" ,WORLD FISHING
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/world-fishing/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I641.26779.schedulesdirect.org" ,COTTAGE LIFE
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cottage-life/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I1746.72484.schedulesdirect.org" ,CTV SCI-FI 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/ctv-scifi-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I119.58988.schedulesdirect.org" ,FYI 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fyi-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I109.18480.schedulesdirect.org" ,LMN 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/lmn-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I299.52199.schedulesdirect.org" ,REELZ 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/reelz-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ALIBI
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/alibi/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,TSC 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/tsc-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,TVLAND 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/tvland-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,VICELAND 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/viceland-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,DMAX
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/dmax/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,EDEN
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/eden/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I5533.91096.schedulesdirect.org" ,WGN TV
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/wgn-tv/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SKY LIVING
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/sky-living/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SKY ARTS
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/sky-arts/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SKY ATLANTIC
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/sky-atlantic/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SKY ONE
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/sky-one/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ITV BE
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/itv-be/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ITV 1 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/itv-1-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ITV 2 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/itv-2-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ITV 3 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/itv-3-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ITV 4 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/itv-4-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,LONDON LIVE
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/london-live/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,YES NETWORK 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/yes-network-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,DESTINATION AMERICA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/destination-america-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SMITHSONIAN HD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/smithsonian-hd/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,STAR MOVIES
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/star-movies/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,STAR MOVIES SELECT
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/star-movies-select/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CRAVE 1 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/crave-1-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CRAVE 2 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/crave-2-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CRAVE 3 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/crave-3-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CRAVE 4 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/crave-4-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SCREENPIX 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/screenpix-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SCREENPIX ACTION 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/screenpix-action-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SCREENPIX VOICES 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/screenpix-voices-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SCREENPIX WESTERNS 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/screenpix-westerns-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,TCM 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/tcm-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FXM 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fxm-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,HALLMARK MOVIES 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/hallmark-movies-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,EPIX 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/epix-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,EPIX 2 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/epix-2-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,EPIX HITS 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/epix-hits-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,EPIX DRIVE-IN 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/epix-drivein-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,IFC 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/ifc-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SUNDANCE 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/sundance-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,HDNET MOVIES 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/hdnet-movies-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I327.11160.schedulesdirect.org" ,THE MOVIE CHANNEL
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/the-movie-channel/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I328.17663.schedulesdirect.org" ,THE MOVIE CHANNEL XTRA
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/the-movie-channel-xtra/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SHOWTIME PPV MOVIES 1 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/showtime-ppv-movies-1-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SHOWTIME PPV MOVIES 2 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/showtime-ppv-movies-2-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SHOWTIME PPV MOVIES 3 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/showtime-ppv-movies-3-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SHOWTIME PPV MOVIES 4 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/showtime-ppv-movies-4-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SHOWTIME PPV MOVIES 5 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/showtime-ppv-movies-5-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SHOWTIME PPV MOVIES 6 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/showtime-ppv-movies-6-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SHOWTIME PPV MOVIES 7 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/showtime-ppv-movies-7-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SHOWTIME PPV MOVIES 8 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/showtime-ppv-movies-8-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I843.58882.schedulesdirect.org" ,SUPER CHANNEL FUSE 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/super-channel-fuse-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I844.58890.schedulesdirect.org" ,SUPER CHANNEL H&H 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/super-channel-hh-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I1279.80167.schedulesdirect.org" ,SUPER CHANNEL VAULT 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/super-channel-vault-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I306.61557.schedulesdirect.org" ,HBO 1 CANADA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/hbo-1-canada-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I307.61628.schedulesdirect.org" ,HBO 2 CANADA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/hbo-2-canada-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,HBO 2 USA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/hbo-2-usa-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I300.10240.schedulesdirect.org" ,HBO EAST 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/hbo-east-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I307.61628.schedulesdirect.org" ,HBO WEST 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/hbo-west-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I302.10243.schedulesdirect.org" ,HBO SIGNATURE 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/hbo-signature-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I305.16585.schedulesdirect.org" ,HBO FAMILY 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/hbo-family-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I307.18429.schedulesdirect.org" ,HBO COMEDY 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/hbo-comedy-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I9452.59845.schedulesdirect.org" ,HBO ZONE 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/hbo-zone-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I311.35975.schedulesdirect.org" ,CINEMAX 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cinemax-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CINEMAX 4K WEST
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cinemax-4k-west/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,MOVIEMAX 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/moviemax-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,OUTERMAX 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/outermax-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,THRILLERMAX 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/thrillermax-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,5 STARMAX 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/5-starmax-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I313.18433.schedulesdirect.org" ,ACTIONAMAX 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/actionamax-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I312.10121.schedulesdirect.org" ,MOREMAX 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/moremax-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I319.11117.schedulesdirect.org" ,SHOWTIME 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/showtime-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I318.11115.schedulesdirect.org" ,SHOWTIME WEST 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/showtime-west-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SHOWTIME 2 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/showtime-2-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I321.16153.schedulesdirect.org" ,SHOWTIME SHOWCASE 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/showtime-showcase-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I323.20622.schedulesdirect.org" ,SHOX BET 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/shox-bet-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SHOWTIME EXTREME 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/showtime-extreme-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SHOWTIME FMAMILY ZONE 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/showtime-fmamily-zone-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SHOWTIME NEXT 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/showtime-next-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SHOWTIME WOMEN 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/showtime-women-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I351.12741.schedulesdirect.org" ,STARZ 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/starz-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,STARZ 4K WEST
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/starz-4k-west/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I353.19634.schedulesdirect.org" ,STARZ CINEMA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/starz-cinema-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I354.34901.schedulesdirect.org" ,STARZ COMEDY 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/starz-comedy-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I352.16311.schedulesdirect.org" ,STARZ EDGE 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/starz-edge-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,STARZ KIDS & FAMILY 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/starz-kids-family-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,STARZ IN BLACK 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/starz-in-black-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I340.10178.schedulesdirect.org" ,STARZ ENCORE 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/starz-encore-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,STARZ ENCORE 4K WEST
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/starz-encore-4k-west/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,STARZ ENCORE ACTION 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/starz-encore-action-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,STARZ ENCORE BLACK 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/starz-encore-black-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,STARZ ENCORE CLASSIC 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/starz-encore-classic-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,STARZ ENCORE FAMILY 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/starz-encore-family-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,STARZ ENORE SUSPENSE 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/starz-enore-suspense-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,STARZ ENCORE WESTERN 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/starz-encore-western-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SKY MOVIES HITS 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/sky-movies-hits-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SKY MOVIES STAR WARS 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/sky-movies-star-wars-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SKY MOVIES FAMILY 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/sky-movies-family-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SKY MOVIES ACTION 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/sky-movies-action-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SKY MOVIES COMEDY 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/sky-movies-comedy-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SKY MOVIES DRAMA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/sky-movies-drama-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SKY MOVIES GREAT 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/sky-movies-great-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SKY MOVIES PREMIER 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/sky-movies-premier-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SKY MOVIES SHOWCASE 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/sky-movies-showcase-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SKY MOVIES SCI-FI 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/sky-movies-scifi-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SKY MOVIES THRILLER 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/sky-movies-thriller-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SKY MOVIES SELECT 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/sky-movies-select-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I386.69130.schedulesdirect.org" ,SONY MOVIES
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/sony-movies/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,MOVIES 4 MEN
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/movies-4-men/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CHURCH
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/church/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I591.17344.schedulesdirect.org" ,HOPE TV
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/hope-tv/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,AFTV
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/aftv/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,DAY STAR
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/day-star/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,TWN
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/twn/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,JCTV
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/jctv/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I260.14767.schedulesdirect.org" ,TBN
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/tbn/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I4369.21855.schedulesdirect.org" ,BYU TV
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/byu-tv/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I730.48859.schedulesdirect.org" ,CBN*
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbn/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CTNI
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/ctni/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CTVN*
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/ctvn/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CYC
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cyc/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,GLC
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/glc/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I267.49128.schedulesdirect.org" ,CTN*
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/ctn/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="I652.17389.schedulesdirect.org" ,MIRACLE
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/miracle/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,KSCE
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/ksce/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,GOD TV
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/god-tv/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ABC KABC LAX 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abc-kabc-lax-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ABC KFSN FRESNO 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abc-kfsn-fresno-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ABC KGO SFO 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abc-kgo-sfo-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ABC KMGH DEN 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abc-kmgh-den-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ABC KNXV PHX 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abc-knxv-phx-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ABC KOMO SEA
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abc-komo-sea/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ABC KSAT SAA
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abc-ksat-saa/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ABC KSTP MIN
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abc-kstp-min/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ABC KTRK HOU
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abc-ktrk-hou/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ABC KTVX SLC
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abc-ktvx-slc/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ABC KXTV SAC
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abc-kxtv-sac/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ABC WABC NYC 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abc-wabc-nyc-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ABC WCVB BOS 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abc-wcvb-bos-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ABC WEWS CLA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abc-wews-cla-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ABC WFAA DAL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abc-wfaa-dal-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ABC WFTS TAM 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abc-wfts-tam-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ABC_WFTV_ORL
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abcwftvorl/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ABC WISN MIL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abc-wisn-mil-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ABC WKRN NAS 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abc-wkrn-nas-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ABC WLS CHI 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abc-wls-chi-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ABC WMAR BAL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abc-wmar-bal-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ABC WPLG MIA
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abc-wplg-mia/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ABC WPVI PHI 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abc-wpvi-phi-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ABC WRTV IND
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abc-wrtv-ind/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ABC WSB ATL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abc-wsb-atl-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ABC WSOC CHA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abc-wsoc-cha-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ABC WTAE PIT 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abc-wtae-pit-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ABC WTNH HAR
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abc-wtnh-har/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ABC WTVD RAL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abc-wtvd-ral-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ABC WXYZ DET 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/abc-wxyz-det-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBS KCBS LAX 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-kcbs-lax-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBS KCNC DEN 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-kcnc-den-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBS KCTV KAN 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-kctv-kan-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBS KDKA PIT 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-kdka-pit-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBS KENS SAA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-kens-saa-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBS KFMB SAD 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-kfmb-sad-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBS KHOU HOU 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-khou-hou-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBS KIRO SEA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-kiro-sea-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBS KMOV STL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-kmov-stl-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBS KOVR SAC 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-kovr-sac-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBS KPHO PHX
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-kpho-phx/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBS KTVT DAL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-ktvt-dal-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBS WBTV CHA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-wbtv-cha-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBS WBZ BOS 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-wbz-bos-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBS WCBS NYC 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-wcbs-nyc-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBS WCCO MIN 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-wcco-min-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBS WDJT MIL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-wdjt-mil-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBS WFMY GPS 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-wfmy-gps-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBS WFOR MIA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-wfor-mia-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBS WFSB HAR 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-wfsb-har-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBS WGCL ATL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-wgcl-atl-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBS WJAX JAV 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-wjax-jav-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBS WJAX JAX 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-wjax-jax-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBS WJZ BAL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-wjz-bal-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBS WKMG ORL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-wkmg-orl-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBS WOIO CLA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-woio-cla-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBS WTSP TAM 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-wtsp-tam-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBS WTVF NAS 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-wtvf-nas-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBS WUSA WDC 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-wusa-wdc-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBS WWJ DET 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-wwj-det-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,CBS WWL NEO 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cbs-wwl-neo-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX KDFI DALHD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-kdfi-dalhd/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX KDFW DAL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-kdfw-dal-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX KMSP MIN 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-kmsp-min-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX KMYU SLC 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-kmyu-slc-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX KPTV POR 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-kptv-por-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX KRIV HOU 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-kriv-hou-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX KSAZ PHX 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-ksaz-phx-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX KTBC AUS 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-ktbc-aus-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX KTXH HOU 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-ktxh-hou-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX KUTP PHX 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-kutp-phx-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX WAGA ATL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-waga-atl-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX WCGV MIL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-wcgv-mil-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX WDCA WDC 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-wdca-wdc-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX WFOX JAV 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-wfox-jav-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX WFTC MIN 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-wftc-min-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX WFXT BOS
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-wfxt-bos/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX WJBK DET 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-wjbk-det-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX WJZY CHA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-wjzy-cha-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX WOFL ORL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-wofl-orl-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX WOGX GAI 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-wogx-gai-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX WPNT PIT 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-wpnt-pit-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX WRAZ RAL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-wraz-ral-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX WRBW ORL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-wrbw-orl-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX WSVN MIA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-wsvn-mia-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX WTTE COL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-wtte-col-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX WTTG WDC 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-wttg-wdc-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX WTVT TAM 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-wtvt-tam-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX WTXF PHI 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-wtxf-phi-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX WUTV BUF 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-wutv-buf-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX WVUE NEO 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-wvue-neo-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FOX WXIX CIN 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/fox-wxix-cin-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC KARE MIN 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-kare-min-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC KBLR LAV 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-kblr-lav-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC KCRA SAC 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-kcra-sac-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC KDEN DEN 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-kden-den-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC KGW POR 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-kgw-por-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC KHRR TUC 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-khrr-tuc-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC KING SEA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-king-sea-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC KNSD SAD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-knsd-sad/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC KNSO FRV 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-knso-frv-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC KPNX PHX 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-kpnx-phx-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC KPRC HOU 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-kprc-hou-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC KSDK STL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-ksdk-stl-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC KSHB KAN 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-kshb-kan-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC KSL SLC 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-ksl-slc-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC KTAZ PHX 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-ktaz-phx-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC KTMD HOU 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-ktmd-hou-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC KUSA DEN 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-kusa-den-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC KVDA SAA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-kvda-saa-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC KXAS DAL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-kxas-dal-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC KXTX DAL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-kxtx-dal-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC WBAL BAL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-wbal-bal-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC WBTS BOS 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-wbts-bos-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC WCNC CHA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-wcnc-cha-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC WDIV DET 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-wdiv-det-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC WDSU NEO 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-wdsu-neo-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC WESH ORL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-wesh-orl-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC WGBA GBA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-wgba-gba-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC WGRZ BUF 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-wgrz-buf-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC WKYC CLA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-wkyc-cla-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC WLWT CIN 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-wlwt-cin-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC WNEU BOS 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-wneu-bos-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC WOAI SAA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-woai-saa-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC WPXI PIT 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-wpxi-pit-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC WRAL RAL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-wral-ral-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC WRC WDC 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-wrc-wdc-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC WSCV MIA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-wscv-mia-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC WTHR IND 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-wthr-ind-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC WTLV JAV 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-wtlv-jav-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC WTMJ MIL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-wtmj-mil-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC WTVJ MIA 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-wtvj-mia-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC WVIT HAR 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-wvit-har-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC WXIA ATL 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-wxia-atl-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,NBC WAMQ 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/nbc-wamq-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,7 NEWS BOSTON HD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/7-news-boston-hd/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="bbcwestmidlans.uk" ,BBC ONE WEST MIDLANDS 4K
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/bbc-one-west-midlands-4k/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="channel4.uk" ,CHANNEL 4 HD UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/channel-4-hd-uk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-id="channel5.uk" ,CHANNEL 5 HD UK
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/channel-5-hd-uk/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,MAA MOVIES
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/maa-movies/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,MAA GOLD
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/maa-gold/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,MAA MOVIES US
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/maa-movies-us/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,GEMINI MOVIES
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/gemini-movies/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,MANA TV
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/mana-tv/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,ZEE TELUGU
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/zee-telugu/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,ZEE TELUGU US
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/zee-telugu-us/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,MAA TV
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/maa-tv/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,MAA TV US
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/maa-tv-us/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,GEMINI TV
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/gemini-tv/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,GEMINI TV US
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/gemini-tv-us/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,GEMINI COMEDY
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/gemini-comedy/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,VISSA
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/vissa/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,ETV ANDHRA PRADESH
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/etv-andhra-pradesh/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,VANITHA TV
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/vanitha-tv/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,ARADANA TV
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/aradana-tv/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,ETV TELUGU
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/etv-telugu/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,10TV
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/10tv/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,POOJA TV
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/pooja-tv/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,HMTV
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/hmtv/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,TV1 NEWS TELUGU
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/tv1-news-telugu/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,SAKSHI TV
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/sakshi-tv/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,STUDIO N
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/studio-n/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,RAJ NEWS
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/raj-news/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,TV 5
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/tv-5/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,V6 NEWS
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/v6-news/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,CVR NEWS
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cvr-news/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,6TV
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/6tv/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,OM CVR
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/om-cvr/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,CVR ENGILSH
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/cvr-engilsh/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,T NEWS
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/t-news/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,SVBC
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/svbc/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,MAA MUSIC
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/maa-music/index.m3u8
+#EXTINF:-1 group-title="TELUGU" ,BHAKTI TV
+https://ardinesh-pc-remote.puspas.com.np/live-tv/dittotvv/live/bhakti-tv/index.m3u8
