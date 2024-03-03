@@ -1,0 +1,605 @@
+#EXTM3U
+#EXTINF:-1 group-title="Kids" tvg-logo="7124.JPG" tvg-id="PPV.18.schedulesdirect.org" ,Kids All Time Favourite
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/kids-all-time-favourite/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="5744.JPG" tvg-id="PPV.19.schedulesdirect.org" ,All Time Hit Kids Movie
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/all-time-hit-kids-movie/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="5674.png" tvg-id="I176.60048.schedulesdirect.org" ,NickToons USA
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/nicktoons-usa/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="636.jpg" tvg-id="I169.19211.schedulesdirect.org" ,Nick Jr USA
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/nick-jr-usa/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="193.jpg" tvg-id="I176.60048.schedulesdirect.org" ,Cartoon Network USA
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/cartoon-network-usa/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="2372.png" ,Nickelodeon USA
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/nickelodeon-usa/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="5719.png" tvg-id="I175.21883.schedulesdirect.org" ,Boomerang USA
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/boomerang-usa/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="4063.png" tvg-id="I1652.97315.schedulesdirect.org" ,Disney XD USA
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/disney-xd-usa/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="1528.jpg" tvg-id="I173.12510.schedulesdirec" ,Disney East USA
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/disney-east-usa/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="1024.png" tvg-id="I173.12510.schedulesdirect.org" ,Disney West USA
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/disney-west-usa/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="278.jpg" tvg-id="I180.59615.schedulesdirect.org" ,Freeform
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/freeform/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="48.jpg" tvg-id="I170.11006.schedulesdirect.org" ,Nickelodeon UK
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/nickelodeon-uk/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="197.jpg" tvg-id="disneyjunior.uk" ,Disney Jr UK
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/disney-jr-uk/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="1076.jpg" tvg-id="nickjunior.uk" ,Nick Jr UK
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/nick-jr-uk/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="2170.jpg" tvg-id="cartoonnetwork.uk" ,Cartoon Network UK
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/cartoon-network-uk/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="196.jpg" tvg-id="boomerang.uk" ,Boomerang UK
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/boomerang-uk/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="195.jpg" tvg-id="I623.48542.schedulesdirect.org" ,Baby TV UK
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/baby-tv-uk/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="1453.jpg" tvg-id="disneychannel.uk" ,Disney Channel UK
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/disney-channel-uk/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="1119.png" tvg-id="disneychannel.uk" ,Disney XD UK
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/disney-xd-uk/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="1015.jpg" tvg-id="I553.17639.schedulesdirect.org" ,Tree House
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/tree-house/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="4788.png" tvg-id="I1646.70827.schedulesdirect.org" ,YTV HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/ytv-hd/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="5404.jpg" ,PBS Kids
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/pbs-kids/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="I265.10119.schedulesdirect.org" ,TVO kids
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/tvo-kids/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="5609.jpg" tvg-id="cartoonnetworkhd.in" ,Cartoon Network India
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/cartoon-network-india/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="2824.png" tvg-id="sonicnickelodeon.in" ,Nick HD + India
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/nick-hd-india/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="3073.jpg" tvg-id="sonyyay.in" ,Sony Yay! India
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/sony-yay-india/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="3133.jpg" tvg-id="nickjr.in" ,Nick Junior India
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/nick-junior-india/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="3943.png" ,Discovery Kids India
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/discovery-kids-india/index.m3u8
+#EXTINF:-1 group-title="Kids" ,Kids TV - Nursery Rhymes
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/kids-tv-nursery-rhymes/index.m3u8
+#EXTINF:-1 group-title="Kids" ,Talking Tom
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/talking-tom/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="4088.jpg" ,Nursery Rhymes - CoComelon
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/nursery-rhymes-cocomelon/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="4038.jpg" ,Peppa Pig
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/peppa-pig/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="4043.jpg" ,PJ Masks
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/pj-masks/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="4048.jpg" ,Dave & Ava
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/dave-and-ava/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="4053.jpg" ,Teen Titans
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/teen-titans/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="4058.jpg" ,Paw Patrol
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/paw-patrol/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="8297.png" ,Hungama Kids
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/hungama-kids/index.m3u8
+#EXTINF:-1 group-title="English News" tvg-logo="7701.png" ,BBC One
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/bbc-one/index.m3u8
+#EXTINF:-1 group-title="English News" tvg-logo="666.jpg" tvg-id="I115.24448.schedulesdirect.org" ,BBC News
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/bbc-news/index.m3u8
+#EXTINF:-1 group-title="English News" tvg-logo="139.jpg" tvg-id="I503.83285.schedulesdirect.org" ,BBC World News
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/bbc-world-news/index.m3u8
+#EXTINF:-1 group-title="English News" tvg-logo="953.png" tvg-id="I500.10142.schedulesdirect.org" ,CNN USA HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/cnn-usa-hd/index.m3u8
+#EXTINF:-1 group-title="English News" tvg-logo="224.jpg" tvg-id="I506.68053.schedulesdirect.org" ,CNN International
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/cnn-international/index.m3u8
+#EXTINF:-1 group-title="English News" tvg-logo="407.jpg" ,RT russian propaganda News
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/rt-russian-propaganda-news/index.m3u8
+#EXTINF:-1 group-title="English News" tvg-logo="293.jpg" tvg-id="I507.16374.schedulesdirect.org" ,Fox News
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/fox-news/index.m3u8
+#EXTINF:-1 group-title="English News" tvg-logo="158.jpg" tvg-id="I16.751042.microsoft.com" ,Al Jazeera
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/al-jazeera/index.m3u8
+#EXTINF:-1 group-title="English News" tvg-logo="426.jpg" ,ABC News
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/abc-news/index.m3u8
+#EXTINF:-1 group-title="English News" tvg-logo="7606.jpg" tvg-id="euronews.uk" ,Euronews
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/euronews/index.m3u8
+#EXTINF:-1 group-title="English News" tvg-logo="4783.jpg" tvg-id="I504.20709.schedulesdirect.org" ,BNN HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/bnn-hd/index.m3u8
+#EXTINF:-1 group-title="English News" tvg-logo="1652.png" ,NHK World
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/nhk-world/index.m3u8
+#EXTINF:-1 group-title="English News" tvg-logo="8973.png" ,Sky news HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/sky-news-hd/index.m3u8
+#EXTINF:-1 group-title="English News" tvg-logo="1091.jpg" tvg-id="I209.16300.schedulesdirect.org" ,MSNBC HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/msnbc-hd/index.m3u8
+#EXTINF:-1 group-title="English News" tvg-logo="1581.png" tvg-id="I208.10139.schedulesdirect.org" ,CNBC HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/cnbc-hd/index.m3u8
+#EXTINF:-1 group-title="English News" tvg-logo="9451.png" ,CNBC World
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/cnbc-world/index.m3u8
+#EXTINF:-1 group-title="English News" tvg-logo="431.jpg" tvg-id="I203.87916.schedulesdirect.org" ,Bloomberg USA
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/bloomberg-usa/index.m3u8
+#EXTINF:-1 group-title="English News" ,France 24 HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/france-24-hd/index.m3u8
+#EXTINF:-1 group-title="English News" ,NJ 12
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/nj-12/index.m3u8
+#EXTINF:-1 group-title="English News" tvg-logo="8635.png" ,A News -English
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/a-news-english/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-id="PPV.12.schedulesdirect.org" ,Weekly Telugu Movie
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/weekly-telugu-movie/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-id="PPV.13.schedulesdirect.org" ,Hollywood Dubbed Telugu Movie
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/hollywood-dubbed-telugu-movie/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-id="geminitvhd.in" ,Gemini
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/gemini/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-id="geminimusic.in" ,Gemini Music
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/gemini-music/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-id="geminimovieshd.in" ,Gemini Movies
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/gemini-movies/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" ,Gemini Comedy
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/gemini-comedy/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" ,Gemini Life
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/gemini-life/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" ,Zee Telugu USA
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/zee-telugu-usa/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-id="Zee Telugu" ,Zee Telugu India
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/zee-telugu-india/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-id="zeecinemaluhd.in" ,Zee Cinema Telugu
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/zee-cinema-telugu/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-id="maatv.in" ,Star Maa
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/star-maa/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-logo="2045.jpg" ,Star Maa Gold
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/star-maa-gold/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-logo="263.jpg" tvg-id="MAA Movies" ,Star Maa Movies
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/star-maa-movies/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-logo="970.jpg" ,Star Maa Music
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/star-maa-music/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-logo="7129.jpg" ,ETV
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/etv/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-logo="1315.png" ,ETV-Andhra
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/etv-andhra/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-logo="1589.jpg" ,ETV Cinema
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/etv-cinema/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-logo="1318.jpg" ,ETV Abhiruchi
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/etv-abhiruchi/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-logo="1040.png" ,Vissa
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/vissa/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-logo="450.jpg" ,TV9 Telegu
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/tv9-telegu/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-logo="1577.jpg" ,N TV
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/n-tv/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-logo="1578.jpg" ,TV5 News
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/tv5-news/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-logo="920.jpg" ,Raj News Telugu
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/raj-news-telugu/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-logo="1208.jpg" ,T News
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/t-news/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-logo="1200.jpg" ,ABN Andhra
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/abn-andhra/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-logo="1201.jpg" ,V6 News
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/v6-news/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-logo="1105.jpg" ,DD Saptagiri
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/dd-saptagiri/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-logo="1097.jpg" ,CVR News
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/cvr-news/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-logo="1210.jpg" ,10 TV
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/10-tv/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" ,History 18 Telugu
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/history-18-telugu/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-logo="5564.png" ,NAT Geo Wild Telugu
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/nat-geo-wild-telugu/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-logo="5579.jpg" ,BBC Earth Telugu
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/bbc-earth-telugu/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-logo="1203.jpg" ,SVBC
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/svbc/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-logo="1325.jpg" ,Hindu Dharam
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/hindu-dharam/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-logo="3808.png" ,Vanitha
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/vanitha/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-logo="324.jpg" ,Sakshi tv
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/sakshi-tv/index.m3u8
+#EXTINF:-1 group-title="( UIOP TV ) Telugu" tvg-logo="1156.jpg" ,Raj Music Telugu
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/raj-music-telugu/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="4768.jpeg" tvg-id="I1562.76921.schedulesdirect.org" ,CTV News HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/ctv-news-hd/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="957.png" tvg-id="I502.10094.schedulesdirect.org" ,CBC National News HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/cbc-national-news-hd/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="3633.jpg" tvg-id="I229.10127.schedulesdirect.org" ,CTV Toronto HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/ctv-toronto-hd/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="955.jpg" tvg-id="I210.10091.schedulesdirect.org" ,CBC Toronto HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/cbc-toronto-hd/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="3658.png" tvg-id="I214.10125.schedulesdirect.org" ,City Toronto HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/city-toronto-hd/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="4773.png" tvg-id="I1052.44792.schedulesdirect.org" ,Global Toronto HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/global-toronto-hd/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="5302.jpg" tvg-id="I411.17610.schedulesdirect.org" ,OLN HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/oln-hd/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="2697.jpg" tvg-id="I250.17594.schedulesdirect.org" ,CTV Vancouver HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/ctv-vancouver-hd/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="5464.JPG" tvg-id="I251.10100.schedulesdirect.org" ,CBC Vancouver HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/cbc-vancouver-hd/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="5469.JPG" tvg-id="I1152.60121.schedulesdirect.org" ,Global BC HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/global-bc-hd/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="5474.JPG" tvg-id="I205.10104.schedulesdirect.org" ,CTV Montreal HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/ctv-montreal-hd/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="959.png" tvg-id="I503.18168.schedulesdirect.org" ,CP24 HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/cp24-hd/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="723.png" ,cp24-Alternative Source
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/cp24-alternative-source/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="7456.png" ,CBC Calgary
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/cbc-calgary/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="3493.jpg" tvg-id="I208.10097.schedulesdirect.org" ,CBC Ottawa
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/cbc-ottawa/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="3628.png" tvg-id="I210.10091.schedulesdirect.org" ,CBC Toronto
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/cbc-toronto/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="958.png" tvg-id="I215.10105.schedulesdirect.org" ,OMNI 1
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/omni-1/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="8067.png" tvg-id="I216.31558.schedulesdirect.org" ,OMNI 2
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/omni-2/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="1557.png" tvg-id="I254.33725.schedulesdirect.org" ,OMNI BC
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/omni-bc/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="1032.png" tvg-id="I261.11220.schedulesdirect.org" ,Vision TV HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/vision-tv-hd/index.m3u8
+#EXTINF:-1 group-title="Local" ,CBC-Regina
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/cbc-regina/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="4778.png" tvg-id="I505.10170.schedulesdirect.org" ,Weather Network HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/weather-network-hd/index.m3u8
+#EXTINF:-1 group-title="Local" ,TVA Sports
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/tva-sports/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="2340.png" tvg-id="I123.15676.schedulesdirect.org" ,RDS
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/rds/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="2320.png" tvg-id="I234.17406.schedulesdirect.org" ,Global Montreal
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/global-montreal/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="2352.jpg" tvg-id="I206.10092.schedulesdirect.org" ,CBC Montreal
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/cbc-montreal/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="2356.jpg" tvg-id="I115.10107.schedulesdirect.org" ,TVA Montreal
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/tva-montreal/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="3773.jpg" ,TV5 Quebec
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/tv5-quebec/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="5479.JPG" ,CBC Winnipeg HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/cbc-winnipeg-hd/index.m3u8
+#EXTINF:-1 group-title="Local" ,W network
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/w-network/index.m3u8
+#EXTINF:-1 group-title="Local" ,CTV Ottawa
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/ctv-ottawa/index.m3u8
+#EXTINF:-1 group-title="Local" ,CTV Halifax
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/ctv-halifax/index.m3u8
+#EXTINF:-1 group-title="India-HD" tvg-logo="1025.png" tvg-id="zeecafe.in" ,Zee Cafe HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/zee-cafe-hd/index.m3u8
+#EXTINF:-1 group-title="India-HD" tvg-logo="3108.jpg" tvg-id="travelxp.in" ,Travel XP HD-India
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/travel-xp-hd-india/index.m3u8
+#EXTINF:-1 group-title="India-HD" tvg-logo="3378.png" tvg-id="natgeo.in" ,National Geo HD-India
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/national-geo-hd-india/index.m3u8
+#EXTINF:-1 group-title="India-HD" tvg-logo="3113.jpg" ,Discovery World  HD-India
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/discovery-world-hd-india/index.m3u8
+#EXTINF:-1 group-title="India-HD" tvg-logo="3358.jpg" tvg-id="sonybbcearth.in" ,BBC Earth HD-India
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/bbc-earth-hd-india/index.m3u8
+#EXTINF:-1 group-title="India-HD" tvg-id="FYI TV18" ,National Geographic English India
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/national-geographic-english-india/index.m3u8
+#EXTINF:-1 group-title="India-HD" tvg-logo="3158.jpg" tvg-id="TLC HD WORLD" ,TLC HD-India
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/tlc-hd-india/index.m3u8
+#EXTINF:-1 group-title="India-HD" tvg-logo="3029.png" tvg-id="Colors Infinity" ,Colors Infinity HD-India
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/colors-infinity-hd-india/index.m3u8
+#EXTINF:-1 group-title="India-HD" tvg-logo="489.jpg" tvg-id="moviesnow.in" ,Movies Now HD-India
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/movies-now-hd-india/index.m3u8
+#EXTINF:-1 group-title="India-HD" tvg-logo="3138.jpg" tvg-id="sonypixhd.in" ,Sony Pix HD-India
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/sony-pix-hd-india/index.m3u8
+#EXTINF:-1 group-title="India-HD" tvg-id="starmovieshd.in" ,Star Movies HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/star-movies-hd/index.m3u8
+#EXTINF:-1 group-title="India-HD" tvg-logo="3168.jpg" tvg-id="mnplushd.in" ,MN Plus HD-India
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/mn-plus-hd-india/index.m3u8
+#EXTINF:-1 group-title="India-HD" ,CNBC PRime HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/cnbc-prime-hd/index.m3u8
+#EXTINF:-1 group-title="India-HD" ,AND Prive HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/and-prive-hd-2/index.m3u8
+#EXTINF:-1 group-title="UK English" tvg-id="skyhits.uk" ,SKY-MOVIES HITS (Wait 10s to load)
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/sky-movies-hits-wait-10s-to-load/index.m3u8
+#EXTINF:-1 group-title="UK English" tvg-logo="1397.jpg" tvg-id="skydrama.uk" ,SKY-MOVIES DRAMA (Wait 10s to load)
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/sky-movies-drama-wait-10s-to-load/index.m3u8
+#EXTINF:-1 group-title="UK English" tvg-logo="1399.jpg" tvg-id="skycinemacomedy.uk" ,SKY-MOVIES COMEDY (Wait 10s to load)
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/sky-movies-comedy-wait-10s-to-load/index.m3u8
+#EXTINF:-1 group-title="UK English" tvg-logo="1401.jpg" tvg-id="skyaction.uk" ,SKY-MOVIES ACTION (Wait 10s to load)
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/sky-movies-action-wait-10s-to-load/index.m3u8
+#EXTINF:-1 group-title="UK English" tvg-logo="8352.png" tvg-id="skythriller.uk" ,SKY-MOVIES THRILLER (Wait 10s to load)
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/sky-movies-thriller-wait-10s-to-load/index.m3u8
+#EXTINF:-1 group-title="UK English" tvg-logo="1411.jpg" tvg-id="skygreats.uk" ,SKY-MOVIES GREATS (Wait 10s to load)
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/sky-movies-greats-wait-10s-to-load/index.m3u8
+#EXTINF:-1 group-title="UK English" tvg-logo="1419.jpg" tvg-id="skypremiere.uk" ,SKY-MOVIES PREMIERE (Wait 10s to load)
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/sky-movies-premiere-wait-10s-to-load/index.m3u8
+#EXTINF:-1 group-title="UK English" tvg-logo="1415.jpg" tvg-id="skyscifihorror.uk" ,SKY-MOVIES SCFI HORROR (Wait 10s to load)
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/sky-movies-scfi-horror-wait-10s-to-load/index.m3u8
+#EXTINF:-1 group-title="UK English" tvg-logo="1395.jpg" tvg-id="skyfamily.uk" ,SKY-MOVIES FAMILY (Wait 10s to load)
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/sky-movies-family-wait-10s-to-load/index.m3u8
+#EXTINF:-1 group-title="UK English" tvg-logo="1413.jpg" tvg-id="skyatlantic.uk" ,SKY-ATLANTIC
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/sky-atlantic/index.m3u8
+#EXTINF:-1 group-title="UK English" tvg-logo="1421.jpg" tvg-id="comedycentral.uk" ,SKY-COMEDY CENTRAL HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/sky-comedy-central-hd/index.m3u8
+#EXTINF:-1 group-title="UK English" tvg-logo="1403.jpg" tvg-id="sky1.uk" ,SKY-ONE HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/sky-one-hd/index.m3u8
+#EXTINF:-1 group-title="UK English" tvg-logo="1427.jpg" tvg-id="I525.24282.schedulesdirect.org" ,DISCOVERY-SCIENCE
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/discovery-science/index.m3u8
+#EXTINF:-1 group-title="UK English" tvg-logo="1431.jpg" tvg-id="discoveryhistory.uk" ,DISCOVERY-HISTORY
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/discovery-history/index.m3u8
+#EXTINF:-1 group-title="UK English" tvg-logo="1433.jpg" tvg-id="discoveryturbo.uk" ,DISCOVERY-TURBO
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/discovery-turbo/index.m3u8
+#EXTINF:-1 group-title="UK English" tvg-logo="1435.jpg" tvg-id="investigationdiscovery.uk" ,DISCOVERY-INVESTIGATION
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/discovery-investigation/index.m3u8
+#EXTINF:-1 group-title="UK English" tvg-logo="651.png" tvg-id="eentertainment.uk" ,E! HD UK
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/e-hd-uk/index.m3u8
+#EXTINF:-1 group-title="UK English" tvg-logo="1355.png" tvg-id="natgeowild.uk" ,NAT GEO WILD HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/nat-geo-wild-hd/index.m3u8
+#EXTINF:-1 group-title="UK English" tvg-logo="1439.png" tvg-id="animalplanet.uk" ,ANIMAL  PLANET
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/animal-planet/index.m3u8
+#EXTINF:-1 group-title="UK English" tvg-logo="1441.jpg" tvg-id="historychannel.uk" ,HISTORY UK
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/history-uk/index.m3u8
+#EXTINF:-1 group-title="UK English" tvg-id="channel5.uk" ,Channel 5 HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/channel-5-hd/index.m3u8
+#EXTINF:-1 group-title="UK English" tvg-id="channel4.uk" ,Channel 4
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/channel-4/index.m3u8
+#EXTINF:-1 group-title="UK English" tvg-id="I101.17153.schedulesdirect.org" ,BBC 1
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/bbc-1/index.m3u8
+#EXTINF:-1 group-title="UK English" tvg-id="I102.17154.schedulesdirect.org" ,BBC 2
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/bbc-2/index.m3u8
+#EXTINF:-1 group-title="UK English" ,RTE TWO
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/rte-two/index.m3u8
+#EXTINF:-1 group-title="UK English" ,RTE NEWS
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/rte-news/index.m3u8
+#EXTINF:-1 group-title="UK English" tvg-id="I178.50523.schedulesdirect.org" ,ITV1
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/itv1/index.m3u8
+#EXTINF:-1 group-title="UK English" tvg-id="I118.69228.schedulesdirect.org" ,ITV2
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/itv2/index.m3u8
+#EXTINF:-1 group-title="UK English" tvg-id="I119.69374.schedulesdirect.org" ,ITV3
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/itv3/index.m3u8
+#EXTINF:-1 group-title="UK English" tvg-id="I120.69375.schedulesdirect.org" ,ITV4
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/itv4/index.m3u8
+#EXTINF:-1 group-title="UK English" tvg-logo="652.jpg" tvg-id="I133.28634.schedulesdirect.org" ,Good Food
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/good-food/index.m3u8
+#EXTINF:-1 group-title="UK English" tvg-logo="1185.jpg" tvg-id="I163.22561.schedulesdirect.org" ,VH1
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/vh1/index.m3u8
+#EXTINF:-1 group-title="UK English" tvg-logo="1451.jpg" tvg-id="mtvhits.uk" ,MTV-HITS
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/mtv-hits/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="3738.jpg" ,Best of Robert De Niro
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/best-of-robert-de-niro/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="3718.jpg" tvg-id="PPV.1.schedulesdirect.org" ,Movies  on Demand 1
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/movies-on-demand-1/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="3723.png" tvg-id="PPV.2.schedulesdirect.org" ,Movies on Demand 2
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/movies-on-demand-2/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="3728.jpg" tvg-id="PPV.3.schedulesdirect.org" ,Movies on Demand 3
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/movies-on-demand-3/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="3733.jpg" tvg-id="PPV.4.schedulesdirect.org" ,Movies on Demand 4
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/movies-on-demand-4/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="8412.jpg" ,MOD 5: A Schwarzenegger (Wait 10s)
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/mod-5-a-schwarzenegger-wait-10s/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="8416.jpg" ,MOD 6: Beavis and Butthead (Wait 10s)
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/mod-6-beavis-and-butthead-wait-10s/index.m3u8
+#EXTINF:-1 group-title="English HD" ,MOD 8: Three Stooges (Wait 10s)
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/mod-8-three-stooges-wait-10s/index.m3u8
+#EXTINF:-1 group-title="English HD" ,MOD 10: X Files (Wait 10s)
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/mod-10-x-files-wait-10s/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="1330.jpg" tvg-id="I1625.52745.schedulesdirect.org" ,Love Nature HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/love-nature-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="797.jpg" tvg-id="I197.49438.schedulesdirect.org" ,National Geo HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/national-geo-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="809.jpg" tvg-id="I190.67331.schedulesdirect.org" ,National Geo Wild HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/national-geo-wild-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="1143.png" tvg-id="I184.16331.schedulesdirect.org" ,Animal Planet HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/animal-planet-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="4798.jpg" tvg-id="I394.63234.schedulesdirect.org" ,World Fishing Network HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/world-fishing-network-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="2222.png" tvg-id="I111.67375.schedulesdirect.org" ,DIY HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/diy-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="1480.png" tvg-id="I9461.49788.schedulesdirect.org" ,HGTV HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/hgtv-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="805.jpg" tvg-id="I120.14771.schedulesdirect.org" ,History HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/history-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="1502.png" tvg-id="I9462.50747.schedulesdirect.org" ,Food Network HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/food-network-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="2602.jpg" tvg-id="I113.68065.schedulesdirect.org" ,Cooking HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/cooking-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="223.png" tvg-id="I185.66268.schedulesdirect.org" ,Hallmark HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/hallmark-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="5429.png" tvg-id="I194.60468.schedulesdirect.org" ,Destination America HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/destination-america-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="2061.jpg" tvg-id="I9437.59303.schedulesdirect.org" ,Travel HD USA
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/travel-hd-usa/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="644.jpg" tvg-id="I396.46737.schedulesdirect.org" ,Outdoor HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/outdoor-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="2063.png" tvg-id="I128.59296.schedulesdirect.org" ,WE HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/we-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="1445.jpg" tvg-id="I183.57391.schedulesdirect.org" ,TLC HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/tlc-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="1553.jpg" tvg-id="I124.63236.schedulesdirect.org" ,BET HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/bet-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="5409.jpg" tvg-id="I179.16618.schedulesdirect.org" ,Discovery Family HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/discovery-family-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="925.jpg" tvg-id="I182.56905.schedulesdirect.org" ,Discovery HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/discovery-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="1504.jpg" tvg-id="I193.16616.schedulesdirect.org" ,Discovery Science HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/discovery-science-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="1520.png" tvg-id="I122.58623.schedulesdirect.org" ,SYFY HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/syfy-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="3898.jpg" tvg-id="I192.65342.schedulesdirect.org" ,Investigation Discovery HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/investigation-discovery-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="1667.JPG" tvg-id="I246.31046.schedulesdirect.org" ,Discovery Velocity HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/discovery-velocity-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="2394.jpg" tvg-id="I189.70388.schedulesdirect.org" ,CW Network HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/cw-network-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="2420.jpg" tvg-id="I118.51529.schedulesdirect.org" ,A&E HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/aande-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="2226.jpg" tvg-id="I166.59440.schedulesdirect.org" ,MTV HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/mtv-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="5419.jpg" tvg-id="I189.70388.schedulesdirect.org" ,OWN HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/own-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="1390.png" tvg-id="I129.58625.schedulesdirect.org" ,Bravo HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/bravo-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="1665.png" tvg-id="I162.60046.schedulesdirect.org" ,VH1 HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/vh1-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="5424.jpg" tvg-id="I126.71280.schedulesdirect.org" ,Sundance TV HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/sundance-tv-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="229.jpg" tvg-id="I242.10153.schedulesdirect.org" ,Tru TV HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/tru-tv-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="1010.png" tvg-id="I628.24771.schedulesdirect.org" ,Paramount Network
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/paramount-network/index.m3u8
+#EXTINF:-1 group-title="English HD" ,BBC America
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/bbc-america/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="8336.png" ,BBC Food
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/bbc-food/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="4878.jpg" tvg-id="I303.10244.schedulesdirect.org" ,HBO West HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/hbo-west-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="934.png" tvg-id="I300.19548.schedulesdirect.org" ,HBO East HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/hbo-east-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="276.jpg" tvg-id="I9455.59368.schedulesdirect.org" ,HBO2 E HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/hbo2-e-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="432.png" tvg-id="I9452.59845.schedulesdirect.org" ,HBO Zone HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/hbo-zone-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="935.png" tvg-id="I305.59357.schedulesdirect.org" ,HBO Family HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/hbo-family-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="1514.png" tvg-id="I9451.59839.schedulesdirect.org" ,HBO Comedy HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/hbo-comedy-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="3683.png" tvg-id="I302.10243.schedulesdirect.org" ,HBO Signature
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/hbo-signature/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="5714.png" tvg-id="I193.16616.schedulesdirect.org" ,Epix 1 HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/epix-1-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="5369.png" tvg-id="I9534.67929.schedulesdirect.org" ,Epix2 HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/epix2-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="497.png" tvg-id="I515.34933.schedulesdirect.org" ,Cinemax East HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/cinemax-east-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="2396.png" tvg-id="I313.18433.schedulesdirect.org" ,Acion Max HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/acion-max-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="5444.png" tvg-id="I1312.10121.schedulesdirect.org" ,More Max HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/more-max-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="8112.png" tvg-id="I522.59954.schedulesdirect.org" ,Thriller Max
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/thriller-max/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="5449.png" tvg-id="I355.16833.schedulesdirect.org" ,Axn Black HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/axn-black-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="1482.png" tvg-id="I9498.34949.schedulesdirect.org" ,Starz HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/starz-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="1661.png" tvg-id="I108.60150.schedulesdirect.org" ,Lifetime HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/lifetime-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="1507.png" tvg-id="I131.59337.schedulesdirect.org" ,AMC HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/amc-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="1583.png" tvg-id="I321.16153.schedulesdirect.org" ,Smithsonian Channel
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/smithsonian-channel/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="1394.jfif" ,BBC Earth
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/bbc-earth/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="5314.png" tvg-id="I319.22532.schedulesdirect.org" ,Showtime East HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/showtime-east-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="9157.png" ,The shopping channel
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/the-shopping-channel/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="2413.png" tvg-id="I109.55887.schedulesdirect.org" ,LMN HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/lmn-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" ,Cartoon Network Adult Swim
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/cartoon-network-adult-swim/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="255.png" tvg-id="I112.17420.schedulesdirect.org" ,Comedy Central HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/comedy-central-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="1485.jpg" tvg-id="starworld.in" ,Star World HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/star-world-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="1611.png" tvg-id="I132.64312.schedulesdirect.org" ,TCM HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/tcm-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="2234.png" tvg-id="I125.66379.schedulesdirect.org" ,FXX HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/fxx-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="1392.png" tvg-id="I105.58452.schedulesdirect.org" ,USA Network HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/usa-network-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="289.png" tvg-id="I139.58515.schedulesdirect.org" ,TBS HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/tbs-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="222.jpg" tvg-id="I138.42642.schedulesdirect.org" ,TNT HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/tnt-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="1494.png" tvg-id="I9475.58574.schedulesdirect.org" ,FX HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/fx-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="318.png" tvg-id="I114.61812.schedulesdirect.org" ,E! HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/e-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="1522.png" tvg-id="I9448.68827.schedulesdirect.org" ,GSN HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/gsn-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="1386.png" ,Fox HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/fox-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="1551.jpg" tvg-id="I8002.10590.schedulesdirect.org" ,NBC HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/nbc-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="1549.jpg" tvg-id="I8100.11259.schedulesdirect.org" ,ABC HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/abc-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="1256.png" tvg-id="I8001.10367.schedulesdirect.org" ,CBS HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/cbs-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="2053.png" ,WPBS
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/wpbs/index.m3u8
+#EXTINF:-1 group-title="English HD" ,Caribbean Show time HD
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/caribbean-show-time-hd/index.m3u8
+#EXTINF:-1 group-title="English HD" ,ABC Philadelphia
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/abc-philadelphia/index.m3u8
+#EXTINF:-1 group-title="English HD" ,NBC 10 Philadelphia
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/nbc-10-philadelphia/index.m3u8
+#EXTINF:-1 group-title="English HD" ,CBS 3 Philadelphia
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/cbs-3-philadelphia/index.m3u8
+#EXTINF:-1 group-title="English HD" ,PBS Boston
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/pbs-boston/index.m3u8
+#EXTINF:-1 group-title="English HD" ,NECH Boston
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/nech-boston/index.m3u8
+#EXTINF:-1 group-title="English HD" ,WCV Boston
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/wcv-boston/index.m3u8
+#EXTINF:-1 group-title="English HD" ,CBS  Boston
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/cbs-boston/index.m3u8
+#EXTINF:-1 group-title="English HD" tvg-logo="9104.jpg" ,Religious- Ksce
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/religious-ksce/index.m3u8
+#EXTINF:-1 group-title="English HD" ,Religious-Harvest
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/religious-harvest/index.m3u8
+#EXTINF:-1 group-title="English HD" ,Reli-EWTN
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/reli-ewtn/index.m3u8
+#EXTINF:-1 group-title="Music" ,Bangla - Hits
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/bangla-hits/index.m3u8
+#EXTINF:-1 group-title="Music" ,Bangla - Gaan Bangla
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/bangla-gaan-bangla/index.m3u8
+#EXTINF:-1 group-title="Music" ,Hindi - Hits
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/hindi-hits/index.m3u8
+#EXTINF:-1 group-title="Music" ,Hindi - Vision Beats
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/hindi-vision-beats/index.m3u8
+#EXTINF:-1 group-title="Music" ,Hindi - Old is Gold
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/hindi-old-is-gold-2/index.m3u8
+#EXTINF:-1 group-title="Music" ,Hindi - B4U music
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/hindi-b4u-music/index.m3u8
+#EXTINF:-1 group-title="Music" ,Hindi - Zoom
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/hindi-zoom/index.m3u8
+#EXTINF:-1 group-title="Music" ,Hindi - 9XM Bollywood Hits
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/hindi-9xm-bollywood-hits/index.m3u8
+#EXTINF:-1 group-title="Music" ,Hindi - 9XJawla Classics
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/hindi-9xjawla-classics/index.m3u8
+#EXTINF:-1 group-title="Music" ,Punjabi - Hits
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/punjabi-hits/index.m3u8
+#EXTINF:-1 group-title="Music" ,Punjabi - Beats
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/punjabi-beats/index.m3u8
+#EXTINF:-1 group-title="Music" ,Punjabi - Balle Balle
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/punjabi-balle-balle/index.m3u8
+#EXTINF:-1 group-title="Music" ,Punjabi - Balle Beats
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/punjabi-balle-beats/index.m3u8
+#EXTINF:-1 group-title="Music" ,Punjabi - Hits 2
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/punjabi-hits-2/index.m3u8
+#EXTINF:-1 group-title="Music" ,Punjabi - Jhanjar Music
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/punjabi-jhanjar-music/index.m3u8
+#EXTINF:-1 group-title="Music" ,Tamil - Sun Music 1
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/tamil-sun-music-1/index.m3u8
+#EXTINF:-1 group-title="Music" ,Tamil - Sun Music 2
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/tamil-sun-music-2/index.m3u8
+#EXTINF:-1 group-title="Music" ,Tamil - Raj Musix
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/tamil-raj-musix/index.m3u8
+#EXTINF:-1 group-title="Music" ,Telugu - Raj Musix
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/telugu-raj-musix/index.m3u8
+#EXTINF:-1 group-title="Music" ,Kannada - Raj Musix
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/kannada-raj-musix/index.m3u8
+#EXTINF:-1 group-title="Music" ,Malayalam - Raj Musix
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/malayalam-raj-musix/index.m3u8
+#EXTINF:-1 group-title="Music" ,Urdu - Ary Music
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/urdu-ary-music/index.m3u8
+#EXTINF:-1 group-title="Music" ,Urdu - Dil Music
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/urdu-dil-music/index.m3u8
+#EXTINF:-1 group-title="Music" ,Urdu - 8XM
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/urdu-8xm/index.m3u8
+#EXTINF:-1 group-title="Music" ,English Rock (wait 5s to load)
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/english-rock-wait-5s-to-load/index.m3u8
+#EXTINF:-1 group-title="Music" ,English 80s (wait 5s to load)
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/english-80s-wait-5s-to-load/index.m3u8
+#EXTINF:-1 group-title="Music" ,English 90s (wait 5s to load)
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/english-90s-wait-5s-to-load/index.m3u8
+#EXTINF:-1 group-title="Music" ,English Hiphop RB (wait 5s to load)
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/english-hiphop-rb-wait-5s-to-load/index.m3u8
+#EXTINF:-1 group-title="Music" ,English Alternatives (wait 5s to load)
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/english-alternatives-wait-5s-to-load/index.m3u8
+#EXTINF:-1 group-title="Music" ,English Hits (wait 5s to load)
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/english-hits-wait-5s-to-load/index.m3u8
+#EXTINF:-1 group-title="Music" ,English Countdown (wait 5s to load)
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/english-countdown-wait-5s-to-load/index.m3u8
+#EXTINF:-1 group-title="US local" ,NY ABC WABC (Wait 10s to Load)
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/ny-abc-wabc-wait-10s-to-load/index.m3u8
+#EXTINF:-1 group-title="US local" ,NY FOX5 WNYW (Wait 10s to Load)
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/ny-fox5-wnyw-wait-10s-to-load/index.m3u8
+#EXTINF:-1 group-title="US local" ,NY NBC WNBC (Wait 10s to Load)
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/ny-nbc-wnbc-wait-10s-to-load/index.m3u8
+#EXTINF:-1 group-title="US local" ,NY CBS WCBS (Wait 10s to Load)
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/ny-cbs-wcbs-wait-10s-to-load/index.m3u8
+#EXTINF:-1 group-title="US local" ,CW New York
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/cw-new-york/index.m3u8
+#EXTINF:-1 group-title="US local" tvg-logo="9163.jpg" ,NY NEWS 12 Lg Island (Wait 10s to Load)
+https://ardinesh-pc-remote.puspas.com.np/uiop/live/uiop/ny-news-12-lg-island-wait-10s-to-load/index.m3u8
