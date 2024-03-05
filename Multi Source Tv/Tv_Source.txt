@@ -1,0 +1,1 @@
+ 'https://iptv-org.github.io/iptv/languages/tel.m3u','https://raw.githubusercontent.com/harik143/AchiTv/main/Ditto%20tv.m3u','https://raw.githubusercontent.com/harik143/AchiTv/main/Banjo%20Tv.m3u','https://raw.githubusercontent.com/harik143/AchiTv/main/UIOP%20IPTV.m3u','https://raw.githubusercontent.com/harik143/AchiTv/main/Tata_Tv.m3u',
