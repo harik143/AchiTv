@@ -1,253 +1,253 @@
 #EXTM3U
-#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/StarWorld.in.png" ,IN | Star World HD
+#EXTINF:-1 group-title="( Xtv ) INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/StarWorld.in.png" ,IN | Star World HD
 http://xtv.ooo:8080/221334/221334/66211
-#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/StarMovies.in.png" tvg-id="starmovieshd.in" ,IN | Star Movies FHD
+#EXTINF:-1 group-title="( Xtv ) INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/StarMovies.in.png" tvg-id="starmovieshd.in" ,IN | Star Movies FHD
 http://xtv.ooo:8080/221334/221334/66213
-#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" tvg-id="sonypixhd.in" ,IN | Sony Pix HD
+#EXTINF:-1 group-title="( Xtv ) INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" tvg-id="sonypixhd.in" ,IN | Sony Pix HD
 http://xtv.ooo:8080/221334/221334/66224
-#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-id="andprivehd.in" ,IN | &Prive FHD
+#EXTINF:-1 group-title="( Xtv ) INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-id="andprivehd.in" ,IN | &Prive FHD
 http://xtv.ooo:8080/221334/221334/66228
-#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/HBO.in.png" tvg-id="axnhd.in" ,IN | HBO HD
+#EXTINF:-1 group-title="( Xtv ) INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/HBO.in.png" tvg-id="axnhd.in" ,IN | HBO HD
 http://xtv.ooo:8080/221334/221334/66229
-#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" tvg-id="andflixhd.in" ,IN | & Flix HD
+#EXTINF:-1 group-title="( Xtv ) INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" tvg-id="andflixhd.in" ,IN | & Flix HD
 http://xtv.ooo:8080/221334/221334/66236
-#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" ,IN: & Explor FHD
+#EXTINF:-1 group-title="( Xtv ) INDIAN | ENGLISH MOVIES" ,IN: & Explor FHD
 http://xtv.ooo:8080/221334/221334/66241
-#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" tvg-id="mnx.in" ,IN: MNX FHD
+#EXTINF:-1 group-title="( Xtv ) INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" tvg-id="mnx.in" ,IN: MNX FHD
 http://xtv.ooo:8080/221334/221334/66266
-#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/MoviesNow.in.png" ,IN | Movies Now HD
+#EXTINF:-1 group-title="( Xtv ) INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/MoviesNow.in.png" ,IN | Movies Now HD
 http://xtv.ooo:8080/221334/221334/66271
-#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/ar/FoxLife.ar.png" tvg-id="foxlifehd.in" ,IN | Fox Life FHD
+#EXTINF:-1 group-title="( Xtv ) INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/ar/FoxLife.ar.png" tvg-id="foxlifehd.in" ,IN | Fox Life FHD
 http://xtv.ooo:8080/221334/221334/66278
-#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/RomedyNow.in.png" tvg-id="romedynowhdin.in" ,IN | Romedy Now
+#EXTINF:-1 group-title="( Xtv ) INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/RomedyNow.in.png" tvg-id="romedynowhdin.in" ,IN | Romedy Now
 http://xtv.ooo:8080/221334/221334/66282
-#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" tvg-id="zeecafehd.in" ,IN | Zee Cafe HD
+#EXTINF:-1 group-title="( Xtv ) INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" tvg-id="zeecafehd.in" ,IN | Zee Cafe HD
 http://xtv.ooo:8080/221334/221334/66287
-#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" tvg-id="starmoviesselecthd.in" ,IN | Star Movies Select HD
+#EXTINF:-1 group-title="( Xtv ) INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" tvg-id="starmoviesselecthd.in" ,IN | Star Movies Select HD
 http://xtv.ooo:8080/221334/221334/66315
-#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" ,IN | MN+ HD
+#EXTINF:-1 group-title="( Xtv ) INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" ,IN | MN+ HD
 http://xtv.ooo:8080/221334/221334/66244
-#EXTINF:-1 group-title="INDIAN | DOCUMENTARY" tvg-id="sonybbcearthhd.in" ,IN | BBC EART HD
+#EXTINF:-1 group-title="( Xtv ) INDIAN | DOCUMENTARY" tvg-id="sonybbcearthhd.in" ,IN | BBC EART HD
 http://xtv.ooo:8080/221334/221334/206278
-#EXTINF:-1 group-title="INDIAN | DOCUMENTARY" tvg-id="travelxphd.in" ,IND: Travel XP Eng
+#EXTINF:-1 group-title="( Xtv ) INDIAN | DOCUMENTARY" tvg-id="travelxphd.in" ,IND: Travel XP Eng
 http://xtv.ooo:8080/221334/221334/206279
-#EXTINF:-1 group-title="INDIAN | DOCUMENTARY" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd.in" ,IND: Travel_XP Hindi
+#EXTINF:-1 group-title="( Xtv ) INDIAN | DOCUMENTARY" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd.in" ,IND: Travel_XP Hindi
 http://xtv.ooo:8080/221334/221334/206280
-#EXTINF:-1 group-title="INDIAN | DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" tvg-id="animalplanethd.in" ,IND: Animal Planet Hindi
+#EXTINF:-1 group-title="( Xtv ) INDIAN | DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" tvg-id="animalplanethd.in" ,IND: Animal Planet Hindi
 http://xtv.ooo:8080/221334/221334/206282
-#EXTINF:-1 group-title="INDIAN | DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" tvg-id="animalplanethd.in" ,IN: Animal Planet FHD
+#EXTINF:-1 group-title="( Xtv ) INDIAN | DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" tvg-id="animalplanethd.in" ,IN: Animal Planet FHD
 http://xtv.ooo:8080/221334/221334/206283
-#EXTINF:-1 group-title="INDIAN | DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" tvg-id="nationalgeographicchannelhd.in" ,IND: Nat Geo HD
+#EXTINF:-1 group-title="( Xtv ) INDIAN | DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" tvg-id="nationalgeographicchannelhd.in" ,IND: Nat Geo HD
 http://xtv.ooo:8080/221334/221334/206285
-#EXTINF:-1 group-title="INDIAN | DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-id="natgeowildhd.in" ,IN | Nat Geo Wild HINDI
+#EXTINF:-1 group-title="( Xtv ) INDIAN | DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-id="natgeowildhd.in" ,IN | Nat Geo Wild HINDI
 http://xtv.ooo:8080/221334/221334/206286
-#EXTINF:-1 group-title="INDIAN | DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" tvg-id="discoveryhd.in" ,IND: Discovery Hindi
+#EXTINF:-1 group-title="( Xtv ) INDIAN | DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" tvg-id="discoveryhd.in" ,IND: Discovery Hindi
 http://xtv.ooo:8080/221334/221334/206287
-#EXTINF:-1 group-title="INDIAN | DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" ,IND: Discovery Science
+#EXTINF:-1 group-title="( Xtv ) INDIAN | DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" ,IND: Discovery Science
 http://xtv.ooo:8080/221334/221334/206289
-#EXTINF:-1 group-title="INDIAN | DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png" tvg-id="InvestigationDiscovery.ca" ,IND: Investigation Discovery Hindi
+#EXTINF:-1 group-title="( Xtv ) INDIAN | DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png" tvg-id="InvestigationDiscovery.ca" ,IND: Investigation Discovery Hindi
 http://xtv.ooo:8080/221334/221334/206291
-#EXTINF:-1 group-title="INDIAN | DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" tvg-id="discoveryturbo.in" ,IND: Discovery Turbo
+#EXTINF:-1 group-title="( Xtv ) INDIAN | DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" tvg-id="discoveryturbo.in" ,IND: Discovery Turbo
 http://xtv.ooo:8080/221334/221334/206292
-#EXTINF:-1 group-title="INDIAN | DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" tvg-id="historytv18hd.in" ,IND: History 18 Hindi
+#EXTINF:-1 group-title="( Xtv ) INDIAN | DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" tvg-id="historytv18hd.in" ,IND: History 18 Hindi
 http://xtv.ooo:8080/221334/221334/206294
-#EXTINF:-1 group-title="INDIAN | DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" tvg-id="historytv18hd.in" ,IN: History TV 18 FHD
+#EXTINF:-1 group-title="( Xtv ) INDIAN | DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" tvg-id="historytv18hd.in" ,IN: History TV 18 FHD
 http://xtv.ooo:8080/221334/221334/206295
-#EXTINF:-1 group-title="INDIAN | DOCUMENTARY" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/EPIC.png" tvg-id="africamagicepic.za" ,IND: Epic
+#EXTINF:-1 group-title="( Xtv ) INDIAN | DOCUMENTARY" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/EPIC.png" tvg-id="africamagicepic.za" ,IND: Epic
 http://xtv.ooo:8080/221334/221334/206296
-#EXTINF:-1 group-title="INDIAN | DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-id="natgeowildhd.in" ,IN | Nat Geo Wild FHD ENG
+#EXTINF:-1 group-title="( Xtv ) INDIAN | DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-id="natgeowildhd.in" ,IN | Nat Geo Wild FHD ENG
 http://xtv.ooo:8080/221334/221334/206587
-#EXTINF:-1 group-title="INDIAN | DOCUMENTARY" ,DOC | NAT GEO WILD Safari
+#EXTINF:-1 group-title="( Xtv ) INDIAN | DOCUMENTARY" ,DOC | NAT GEO WILD Safari
 http://xtv.ooo:8080/221334/221334/363003
-#EXTINF:-1 group-title="INDIAN | DOCUMENTARY" ,DOC | Nat Geo Wild and Worlds Deadliest
+#EXTINF:-1 group-title="( Xtv ) INDIAN | DOCUMENTARY" ,DOC | Nat Geo Wild and Worlds Deadliest
 http://xtv.ooo:8080/221334/221334/363004
-#EXTINF:-1 group-title="INDIAN | DOCUMENTARY" ,DOC | Nat Geo Wild Newest Clips
+#EXTINF:-1 group-title="( Xtv ) INDIAN | DOCUMENTARY" ,DOC | Nat Geo Wild Newest Clips
 http://xtv.ooo:8080/221334/221334/363005
-#EXTINF:-1 group-title="INDIAN | DOCUMENTARY" ,DOC | Nat Geo Wild NEWS
+#EXTINF:-1 group-title="( Xtv ) INDIAN | DOCUMENTARY" ,DOC | Nat Geo Wild NEWS
 http://xtv.ooo:8080/221334/221334/363006
-#EXTINF:-1 group-title="INDIAN | DOCUMENTARY" ,DOC | Wildlife HINDI
+#EXTINF:-1 group-title="( Xtv ) INDIAN | DOCUMENTARY" ,DOC | Wildlife HINDI
 http://xtv.ooo:8080/221334/221334/363002
-#EXTINF:-1 group-title="24/7 TAMIL,TELUGU,MALAYALAM" ,24/7: Tamil Movies 01
+#EXTINF:-1 group-title="( Xtv ) 24/7 TAMIL,TELUGU,MALAYALAM" ,24/7: Tamil Movies 01
 http://xtv.ooo:8080/221334/221334/301492
-#EXTINF:-1 group-title="24/7 TAMIL,TELUGU,MALAYALAM" ,24/7: Tamil Movies 02
+#EXTINF:-1 group-title="( Xtv ) 24/7 TAMIL,TELUGU,MALAYALAM" ,24/7: Tamil Movies 02
 http://xtv.ooo:8080/221334/221334/301493
-#EXTINF:-1 group-title="24/7 TAMIL,TELUGU,MALAYALAM" ,24/7: Tamil Movies 03
+#EXTINF:-1 group-title="( Xtv ) 24/7 TAMIL,TELUGU,MALAYALAM" ,24/7: Tamil Movies 03
 http://xtv.ooo:8080/221334/221334/301494
-#EXTINF:-1 group-title="24/7 TAMIL,TELUGU,MALAYALAM" ,24/7: Telugu Movies 01
+#EXTINF:-1 group-title="( Xtv ) 24/7 TAMIL,TELUGU,MALAYALAM" ,24/7: Telugu Movies 01
 http://xtv.ooo:8080/221334/221334/301496
-#EXTINF:-1 group-title="24/7 TAMIL,TELUGU,MALAYALAM" ,24/7: Tamil Movies 04
+#EXTINF:-1 group-title="( Xtv ) 24/7 TAMIL,TELUGU,MALAYALAM" ,24/7: Tamil Movies 04
 http://xtv.ooo:8080/221334/221334/301495
-#EXTINF:-1 group-title="24/7 TAMIL,TELUGU,MALAYALAM" ,24/7: Malayalam Movies 01
+#EXTINF:-1 group-title="( Xtv ) 24/7 TAMIL,TELUGU,MALAYALAM" ,24/7: Malayalam Movies 01
 http://xtv.ooo:8080/221334/221334/301497
-#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-id="geminitvhd.in" ,IND: TELUGU: Maa Movies HD
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU D2H" tvg-id="geminitvhd.in" ,IND: TELUGU: Maa Movies HD
 http://xtv.ooo:8080/221334/221334/250841
-#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://openboxv8s.com/india/etv_in.jpg" tvg-id="etvhd.in" ,IND-Telugu: Etv HD
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU D2H" tvg-logo="http://openboxv8s.com/india/etv_in.jpg" tvg-id="etvhd.in" ,IND-Telugu: Etv HD
 http://xtv.ooo:8080/221334/221334/250842
-#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://openboxv8s.com/india/maa_tv.jpg" ,IND-Telugu: Maa HD
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU D2H" tvg-logo="http://openboxv8s.com/india/maa_tv.jpg" ,IND-Telugu: Maa HD
 http://xtv.ooo:8080/221334/221334/250843
-#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://openboxv8s.com/india/zee-telugu-in.png" ,IND-Telugu: Zee Telugu
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU D2H" tvg-logo="http://openboxv8s.com/india/zee-telugu-in.png" ,IND-Telugu: Zee Telugu
 http://xtv.ooo:8080/221334/221334/250844
-#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://openboxv8s.com/india/maa_gold.jpg" tvg-id="maagold.in" ,IND-Telugu: MAA GOLD
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU D2H" tvg-logo="http://openboxv8s.com/india/maa_gold.jpg" tvg-id="maagold.in" ,IND-Telugu: MAA GOLD
 http://xtv.ooo:8080/221334/221334/250845
-#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://openboxv8s.com/india/sun_gemini_movies.png" tvg-id="geminimovieshd.in" ,IND-Telugu: GEMINI movies
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU D2H" tvg-logo="http://openboxv8s.com/india/sun_gemini_movies.png" tvg-id="geminimovieshd.in" ,IND-Telugu: GEMINI movies
 http://xtv.ooo:8080/221334/221334/250846
-#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://openboxv8s.com/india/sun_gemini_comedy.png" tvg-id="geminicomedy.in" ,Ind-Telugu: GEMINI comedy
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU D2H" tvg-logo="http://openboxv8s.com/india/sun_gemini_comedy.png" tvg-id="geminicomedy.in" ,Ind-Telugu: GEMINI comedy
 http://xtv.ooo:8080/221334/221334/250847
-#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://openboxv8s.com/india/sun_gemini_life.jpg" tvg-id="geminilife.in" ,IND-Telugu: Gemini life
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU D2H" tvg-logo="http://openboxv8s.com/india/sun_gemini_life.jpg" tvg-id="geminilife.in" ,IND-Telugu: Gemini life
 http://xtv.ooo:8080/221334/221334/250848
-#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://openboxv8s.com/india/etv_in_plus.png" tvg-id="etvplus.in" ,IND-Telugu: ETV PLUS
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU D2H" tvg-logo="http://openboxv8s.com/india/etv_in_plus.png" tvg-id="etvplus.in" ,IND-Telugu: ETV PLUS
 http://xtv.ooo:8080/221334/221334/250849
-#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://openboxv8s.com/india/etv_in_life.png" tvg-id="etvlife.in" ,IND-Telugu: ETV LIFE
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU D2H" tvg-logo="http://openboxv8s.com/india/etv_in_life.png" tvg-id="etvlife.in" ,IND-Telugu: ETV LIFE
 http://xtv.ooo:8080/221334/221334/250850
-#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://openboxv8s.com/india/etv_in_cinema.png" tvg-id="etvcinema.in" ,IND-Telugu: ETV Cinema
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU D2H" tvg-logo="http://openboxv8s.com/india/etv_in_cinema.png" tvg-id="etvcinema.in" ,IND-Telugu: ETV Cinema
 http://xtv.ooo:8080/221334/221334/250851
-#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://openboxv8s.com/india/sun_gemini_music.png" tvg-id="geminimusic.in" ,IND-Telugu: GEMINI_MUSIC
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU D2H" tvg-logo="http://openboxv8s.com/india/sun_gemini_music.png" tvg-id="geminimusic.in" ,IND-Telugu: GEMINI_MUSIC
 http://xtv.ooo:8080/221334/221334/250852
-#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://openboxv8s.com/india/raj_musix_telugu.jpg" tvg-id="rajmusixtelugu.in" ,IND-Telugu: Raj Musix
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU D2H" tvg-logo="http://openboxv8s.com/india/raj_musix_telugu.jpg" tvg-id="rajmusixtelugu.in" ,IND-Telugu: Raj Musix
 http://xtv.ooo:8080/221334/221334/250853
-#EXTINF:-1 group-title="IND | TELUGU D2H" ,IND-Telugu: 	TV9 Telugu
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU D2H" ,IND-Telugu: 	TV9 Telugu
 http://xtv.ooo:8080/221334/221334/250854
-#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://openboxv8s.com/india/sun_gemini.png" ,IND-Telugu: Gemini HD
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU D2H" tvg-logo="http://openboxv8s.com/india/sun_gemini.png" ,IND-Telugu: Gemini HD
 http://xtv.ooo:8080/221334/221334/250855
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" ,•●★--- Welcome ----★●•
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" ,•●★--- Welcome ----★●•
 http://xtv.ooo:8080/221334/221334/244418
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Sony_Yay_Telugu
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Sony_Yay_Telugu
 http://xtv.ooo:8080/221334/221334/244419
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Sony_BBC_Earth_HD_Telugu
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Sony_BBC_Earth_HD_Telugu
 http://xtv.ooo:8080/221334/221334/244420
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Nick_Telugu
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Nick_Telugu
 http://xtv.ooo:8080/221334/221334/244421
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Subhavartha_TV
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Subhavartha_TV
 http://xtv.ooo:8080/221334/221334/244422
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Maha_Movies
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Maha_Movies
 http://xtv.ooo:8080/221334/221334/244423
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Sri Venkateshwar Bhakti
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Sri Venkateshwar Bhakti
 http://xtv.ooo:8080/221334/221334/244424
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Maha_News
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Maha_News
 http://xtv.ooo:8080/221334/221334/244425
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Raj_Music_Telugu
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Raj_Music_Telugu
 http://xtv.ooo:8080/221334/221334/244426
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Zee Telugu
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Zee Telugu
 http://xtv.ooo:8080/221334/221334/244427
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: History_18_Telugu
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: History_18_Telugu
 http://xtv.ooo:8080/221334/221334/244428
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: CN HD+ Telugu
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: CN HD+ Telugu
 http://xtv.ooo:8080/221334/221334/244429
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Zee Telugu HD
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Zee Telugu HD
 http://xtv.ooo:8080/221334/221334/244430
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: ABN News
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: ABN News
 http://xtv.ooo:8080/221334/221334/244431
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Gemini TV HD
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Gemini TV HD
 http://xtv.ooo:8080/221334/221334/244432
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Gemini Movies HD
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Gemini Movies HD
 http://xtv.ooo:8080/221334/221334/244433
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Gemini Music HD
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Gemini Music HD
 http://xtv.ooo:8080/221334/221334/244434
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Gemini Comedy
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Gemini Comedy
 http://xtv.ooo:8080/221334/221334/244435
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Gemini Life
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Gemini Life
 http://xtv.ooo:8080/221334/221334/244436
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Maa HD
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Maa HD
 http://xtv.ooo:8080/221334/221334/244437
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Maa Movies HD
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Maa Movies HD
 http://xtv.ooo:8080/221334/221334/244438
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Maa Music
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Maa Music
 http://xtv.ooo:8080/221334/221334/244439
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Maa Gold
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Maa Gold
 http://xtv.ooo:8080/221334/221334/244440
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: ETV Cinema
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: ETV Cinema
 http://xtv.ooo:8080/221334/221334/244441
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: ETV Plus
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: ETV Plus
 http://xtv.ooo:8080/221334/221334/244442
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: ETV Life
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: ETV Life
 http://xtv.ooo:8080/221334/221334/244443
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: ETV Abhiruchi
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: ETV Abhiruchi
 http://xtv.ooo:8080/221334/221334/244444
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: TBO HD
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: TBO HD
 http://xtv.ooo:8080/221334/221334/244445
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Vissa TV
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Vissa TV
 http://xtv.ooo:8080/221334/221334/244446
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: YUPPTV VEDA
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: YUPPTV VEDA
 http://xtv.ooo:8080/221334/221334/244447
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Bhakti TV
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Bhakti TV
 http://xtv.ooo:8080/221334/221334/244448
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: SVBC
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: SVBC
 http://xtv.ooo:8080/221334/221334/244449
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: CVR English News
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: CVR English News
 http://xtv.ooo:8080/221334/221334/244450
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Raj News Telugu
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Raj News Telugu
 http://xtv.ooo:8080/221334/221334/244451
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: T News
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: T News
 http://xtv.ooo:8080/221334/221334/244452
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: HMTV
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: HMTV
 http://xtv.ooo:8080/221334/221334/244453
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: CVR News
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: CVR News
 http://xtv.ooo:8080/221334/221334/244454
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Mahaa TV
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Mahaa TV
 http://xtv.ooo:8080/221334/221334/244455
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Vanitha TV
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Vanitha TV
 http://xtv.ooo:8080/221334/221334/244456
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: 10TV
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: 10TV
 http://xtv.ooo:8080/221334/221334/244457
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: OM CVR
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: OM CVR
 http://xtv.ooo:8080/221334/221334/244458
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Aradana TV
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Aradana TV
 http://xtv.ooo:8080/221334/221334/244459
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Calvary TV
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Calvary TV
 http://xtv.ooo:8080/221334/221334/244460
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Hindu Dharmam
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Hindu Dharmam
 http://xtv.ooo:8080/221334/221334/244461
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: NTV
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: NTV
 http://xtv.ooo:8080/221334/221334/244462
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: ETV AndhraPradesh
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: ETV AndhraPradesh
 http://xtv.ooo:8080/221334/221334/244463
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: ETV HD
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: ETV HD
 http://xtv.ooo:8080/221334/221334/244464
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Sakshi TV
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Sakshi TV
 http://xtv.ooo:8080/221334/221334/244465
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: ABN Andhra Jyothi
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: ABN Andhra Jyothi
 http://xtv.ooo:8080/221334/221334/244466
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: 6TV
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: 6TV
 http://xtv.ooo:8080/221334/221334/244467
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: iNews
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: iNews
 http://xtv.ooo:8080/221334/221334/244468
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: TV9 Telugu
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: TV9 Telugu
 http://xtv.ooo:8080/221334/221334/244469
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: TV5 News
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: TV5 News
 http://xtv.ooo:8080/221334/221334/244470
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Hindu_Dharmam
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Hindu_Dharmam
 http://xtv.ooo:8080/221334/221334/244471
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU:  Aastha Telugu
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU:  Aastha Telugu
 http://xtv.ooo:8080/221334/221334/244472
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Nireekshana_TV
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Nireekshana_TV
 http://xtv.ooo:8080/221334/221334/244473
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Studio_One
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Studio_One
 http://xtv.ooo:8080/221334/221334/244474
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Discovery_Channel_Telugu
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Discovery_Channel_Telugu
 http://xtv.ooo:8080/221334/221334/244475
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Khushi TV
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Khushi TV
 http://xtv.ooo:8080/221334/221334/244476
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Ten 4
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Ten 4
 http://xtv.ooo:8080/221334/221334/244477
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Sonic Telugu
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Sonic Telugu
 http://xtv.ooo:8080/221334/221334/244478
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: DD Saptagiri
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: DD Saptagiri
 http://xtv.ooo:8080/221334/221334/244479
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: 10 TV
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: 10 TV
 http://xtv.ooo:8080/221334/221334/244480
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: V6 News
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: V6 News
 http://xtv.ooo:8080/221334/221334/244481
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Studio Yuva Alpha
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Studio Yuva Alpha
 http://xtv.ooo:8080/221334/221334/244482
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: I News
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: I News
 http://xtv.ooo:8080/221334/221334/244483
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Saileela TV
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Saileela TV
 http://xtv.ooo:8080/221334/221334/244484
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Divya Vani
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Divya Vani
 http://xtv.ooo:8080/221334/221334/244485
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: TV Asia HD (USA)
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: TV Asia HD (USA)
 http://xtv.ooo:8080/221334/221334/244486
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IND: TELUGU: Pogo
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IND: TELUGU: Pogo
 http://xtv.ooo:8080/221334/221334/244487
-#EXTINF:-1 group-title="IND | TELUGU TATASKY" ,IN: Zee Cinemalu
+#EXTINF:-1 group-title="( Xtv ) IND | TELUGU TATASKY" ,IN: Zee Cinemalu
 http://xtv.ooo:8080/221334/221334/243757
