@@ -533,17 +533,17 @@ https://ardinesh-pc-remote.puspas.com.np/live-tv/tatatv/etv-telugu/index.m3u8
 https://ardinesh-pc-remote.puspas.com.np/live-tv/tatatv/gemini-hd/index.m3u8
 #EXTINF:-1 group-title="( Tata_Tv ) TELUGU" tvg-id="geminitv.in" ,GEMINI TV USA
 https://ardinesh-pc-remote.puspas.com.np/live-tv/tatatv/gemini-tv-usa/index.m3u8
-#EXTINF:-1 group-title="( Tata_Tv ) TELUGU" tvg-id="starmaahd.in" ,STAR MAA 4K
+#EXTINF:-1 group-title="( Tata_Tv ) TELUGU" tvg-id="starmaahd.in" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png" ,STAR MAA 4K
 https://ardinesh-pc-remote.puspas.com.np/live-tv/tatatv/star-maa-4k/index.m3u8
-#EXTINF:-1 group-title="( Tata_Tv ) TELUGU" tvg-id="DEFAULT" ,STAR MAA TELUGU HD
+#EXTINF:-1 group-title="( Tata_Tv ) TELUGU" tvg-id="DEFAULT" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png" ,STAR MAA TELUGU HD
 https://ardinesh-pc-remote.puspas.com.np/live-tv/tatatv/star-maa-telugu-hd/index.m3u8
-#EXTINF:-1 group-title="( Tata_Tv ) TELUGU" tvg-id="DEFAULT" ,STAR MAA USA
+#EXTINF:-1 group-title="( Tata_Tv ) TELUGU" tvg-id="DEFAULT" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png" ,STAR MAA USA
 https://ardinesh-pc-remote.puspas.com.np/live-tv/tatatv/star-maa-usa/index.m3u8
 #EXTINF:-1 group-title="( Tata_Tv ) TELUGU" tvg-id="etvtelugu.in" ,ETV HD
 https://ardinesh-pc-remote.puspas.com.np/live-tv/tatatv/etv-hd/index.m3u8
 #EXTINF:-1 group-title="( Tata_Tv ) TELUGU" tvg-id="DEFAULT" ,ETV USA 4K
 https://ardinesh-pc-remote.puspas.com.np/live-tv/tatatv/etv-usa-4k/index.m3u8
-#EXTINF:-1 group-title="( Tata_Tv ) TELUGU" tvg-id="DEFAULT" ,STAR MAA TV
+#EXTINF:-1 group-title="( Tata_Tv ) TELUGU" tvg-id="DEFAULT" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png" ,STAR MAA TV
 https://ardinesh-pc-remote.puspas.com.np/live-tv/tatatv/star-maa-tv/index.m3u8
 #EXTINF:-1 group-title="( Tata_Tv ) TELUGU" tvg-id="zeetelugu.in" ,ZEE TELUGU 4K.
 https://ardinesh-pc-remote.puspas.com.np/live-tv/tatatv/zee-telugu-4k/index.m3u8
@@ -567,7 +567,7 @@ https://ardinesh-pc-remote.puspas.com.np/live-tv/tatatv/zee-cinemalu-us/index.m3
 https://ardinesh-pc-remote.puspas.com.np/live-tv/tatatv/gemini-movies-hd/index.m3u8
 #EXTINF:-1 group-title="( Tata_Tv ) TELUGU" tvg-id="geminimovies.in" ,GEMINI MOVIES USA
 https://ardinesh-pc-remote.puspas.com.np/live-tv/tatatv/gemini-movies-usa/index.m3u8
-#EXTINF:-1 group-title="( Tata_Tv ) TELUGU" tvg-id="starmaamovieshd.in" ,STAR MAA MOVIES HD
+#EXTINF:-1 group-title="( Tata_Tv ) TELUGU" tvg-id="starmaamovieshd.in" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18348-jcqpx9ns-v1/imageContent-18348-jcqpx9ns-m1.PNG" ,STAR MAA MOVIES HD
 https://ardinesh-pc-remote.puspas.com.np/live-tv/tatatv/star-maa-movies-hd/index.m3u8
 #EXTINF:-1 group-title="( Tata_Tv ) TELUGU" tvg-id="starmaahd.in" ,STAR MAA GOLD HD.
 https://ardinesh-pc-remote.puspas.com.np/live-tv/tatatv/star-maa-gold-hd/index.m3u8
@@ -591,7 +591,7 @@ https://ardinesh-pc-remote.puspas.com.np/live-tv/tatatv/bbc-earth-telugu-hd/inde
 https://ardinesh-pc-remote.puspas.com.np/live-tv/tatatv/gemini-life/index.m3u8
 #EXTINF:-1 group-title="( Tata_Tv ) TELUGU" tvg-id="DEFAULT" ,GEMINI LIFE USA 4K
 https://ardinesh-pc-remote.puspas.com.np/live-tv/tatatv/gemini-life-usa-4k/index.m3u8
-#EXTINF:-1 group-title="( Tata_Tv ) TELUGU" tvg-id="maamusic.in" ,STAR MAA MUSIC HD USA
+#EXTINF:-1 group-title="( Tata_Tv ) TELUGU" tvg-id="maamusic.in" tvg-logo="https://iili.io/Jc8WpHb.png" ,STAR MAA MUSIC HD USA
 https://ardinesh-pc-remote.puspas.com.np/live-tv/tatatv/star-maa-music-hd-usa/index.m3u8
 #EXTINF:-1 group-title="( Tata_Tv ) TELUGU" tvg-id="vanithatv.in" ,VANITHA TV
 https://ardinesh-pc-remote.puspas.com.np/live-tv/tatatv/vanitha-tv/index.m3u8
@@ -629,7 +629,7 @@ https://ardinesh-pc-remote.puspas.com.np/live-tv/tatatv/tvs-news-telugu/index.m3
 https://ardinesh-pc-remote.puspas.com.np/live-tv/tatatv/tv5-news-usa-hd/index.m3u8
 #EXTINF:-1 group-title="( Tata_Tv ) TELUGU" ,STUDIO YUVA
 https://ardinesh-pc-remote.puspas.com.np/live-tv/tatatv/studio-yuva/index.m3u8
-#EXTINF:-1 group-title="( Tata_Tv ) TELUGU" tvg-id="DEFAULT" ,STAR MAA MOVIES USA
+#EXTINF:-1 group-title="( Tata_Tv ) TELUGU" tvg-id="DEFAULT" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18348-jcqpx9ns-v1/imageContent-18348-jcqpx9ns-m1.PNG" ,STAR MAA MOVIES USA
 https://ardinesh-pc-remote.puspas.com.np/live-tv/tatatv/star-maa-movies-usa/index.m3u8
 #EXTINF:-1 group-title="( Tata_Tv ) TELUGU" tvg-id="v6telugu.in" ,V6 NEWS
 https://ardinesh-pc-remote.puspas.com.np/live-tv/tatatv/v6-news/index.m3u8
@@ -661,7 +661,7 @@ https://ardinesh-pc-remote.puspas.com.np/live-tv/tatatv/udaya-movies-telugu/inde
 https://ardinesh-pc-remote.puspas.com.np/live-tv/tatatv/etv-uk-4k/index.m3u8
 #EXTINF:-1 group-title="( Tata_Tv ) TELUGU" tvg-id="zeecinemalu.in" ,ZEE CINEMALU
 https://ardinesh-pc-remote.puspas.com.np/live-tv/tatatv/zee-cinemalu/index.m3u8
-#EXTINF:-1 group-title="( Tata_Tv ) TELUGU" tvg-id="DEFAULT" ,STAR MAA UK
+#EXTINF:-1 group-title="( Tata_Tv ) TELUGU" tvg-id="DEFAULT" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png" ,STAR MAA UK
 https://ardinesh-pc-remote.puspas.com.np/live-tv/tatatv/star-maa-uk/index.m3u8
 #EXTINF:-1 group-title="( Tata_Tv ) TELUGU" tvg-id="zeecinemalu.in" ,ZEE CINEMA TELUGU 4K
 https://ardinesh-pc-remote.puspas.com.np/live-tv/tatatv/zee-cinema-telugu-4k/index.m3u8
