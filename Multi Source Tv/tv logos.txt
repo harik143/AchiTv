@@ -1,0 +1,135 @@
+#EXTM3U
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/326.png" tvg-id="326" ,DD Kisan
+
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/783.png" tvg-id="783" ,Tata Play Seniors
+
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/928.png" tvg-id="928" ,Tata Play NEET Prep
+
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/929.png" tvg-id="929" ,Tata Play JEE Prep
+
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/71.png" tvg-id="71" ,Tata Play English in Hindi
+
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/605.png" tvg-id="605" ,National Geographic HD
+
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/111.png" tvg-id="111" ,Tata Play Smart Manager
+
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/167.png" tvg-id="167" ,Tata Play Vedic Maths
+
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/413.png" tvg-id="413" ,Nat Geo Wild HD
+
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/287.png" tvg-id="287" ,Animal Planet HD World
+
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/137.png" tvg-id="137" ,National Geographic
+
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/341.png" tvg-id="341" ,Discovery HD World
+
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/184.png" tvg-id="184" ,Nat Geo Wild
+
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/219.png" tvg-id="219" ,Discovery Channel
+
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/130.png" tvg-id="130" ,Animal Planet
+
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/616.png" tvg-id="616" ,History TV18 HD
+
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/113.png" tvg-id="113" ,Discovery Science
+
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/158.png" tvg-id="158" ,SONY BBC Earth
+
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/172.png" tvg-id="172" ,History TV18
+
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/126.png" tvg-id="126" ,EPIC
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_194/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=126
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/460.png" tvg-id="460" ,SONY BBC Earth HD
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_722/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=460
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/646.png" tvg-id="646" ,DD Gyan Darshan
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_881/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=646
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/645.png" tvg-id="645" ,Tata Play English in Telugu
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_880/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=645
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/436.png" tvg-id="436" ,Safari TV
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_698/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=436
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/1023.png" tvg-id="1023" ,Daiji World TV
+https://delta45tatasky.akamaized.net/out/i/1183.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=1023
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/635.png" tvg-id="635" ,Zee Telugu HD
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_873/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=635
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/250.png" tvg-id="250" ,Zee Telugu
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_415/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=250
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/355.png" tvg-id="355" ,Gemini TV HD
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_553/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=355
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/516.png" tvg-id="516" ,STAR Maa HD
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=516
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/956.png" tvg-id="956" ,STAR Maa HD
+https://delta45tatasky.akamaized.net/out/i/1375.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=956
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/145.png" tvg-id="145" ,ETV Telugu
+https://bpprod1live.akamaized.net/bpk-tv/irdeto_com_Channel_172/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=145
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/359.png" tvg-id="359" ,ETV HD
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_537/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=359
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/352.png" tvg-id="352" ,ETV Plus
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_539/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=352
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/361.png" tvg-id="361" ,Gemini Life
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_549/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=361
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/590.png" tvg-id="590" ,Telugu Naaptol
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_485/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=590
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/362.png" tvg-id="362" ,Gemini Movies HD
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_550/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=362
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/387.png" tvg-id="387" ,Star Maa Movies HD
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_611/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=387
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/585.png" tvg-id="585" ,Vissa TV
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_820/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=585
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/388.png" tvg-id="388" ,Star Maa Gold
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_608/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=388
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/636.png" tvg-id="636" ,Zee Cinemalu HD
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_871/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=636
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/252.png" tvg-id="252" ,Zee Cinemalu
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_416/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=252
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/128.png" tvg-id="128" ,ETV Cinema
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_227/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=128
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/268.png" tvg-id="268" ,ETV Life
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_538/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=268
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/957.png" tvg-id="957" ,Star Maa Movies HD
+https://delta44tatasky.akamaized.net/out/i/1568869.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=957
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/320.png" tvg-id="320" ,TV5 News
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_802/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=320
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/954.png" tvg-id="954" ,Star Maa Gold
+https://delta39tatasky.akamaized.net/out/i/5223418.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=954
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/11.png" tvg-id="11" ,TV9 Telugu
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_290/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=11
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/160.png" tvg-id="160" ,NTV Telugu
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_297/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=160
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/225.png" tvg-id="225" ,ABN Andhra Jyothy
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_295/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=225
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/146.png" tvg-id="146" ,ETV Andhra Pradesh
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_226/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=146
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/83.png" tvg-id="83" ,ETV Telangana
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_296/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=83
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/349.png" tvg-id="349" ,HM TV
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_566/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=349
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/596.png" tvg-id="596" ,Sakshi TV
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_701/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=596
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/274.png" tvg-id="274" ,V6 Telugu
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_810/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=274
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/430.png" tvg-id="430" ,Raj News Telugu
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_690/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=430
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/266.png" tvg-id="266" ,10 TV
+https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_433/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=266
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/774.png" tvg-id="774" ,4tv News
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_970/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=774
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/337.png" tvg-id="337" ,DD Saptagiri
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_523/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=337
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/290.png" tvg-id="290" ,Bhakti TV
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_474/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=290
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/285.png" tvg-id="285" ,Aradana TV
+https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_460/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=285
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/548.png" tvg-id="548" ,DD Yadagiri
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_526/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=548
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/429.png" tvg-id="429" ,Raj Musix Telugu
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_687/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=429
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/445.png" tvg-id="445" ,Shubhavaarta TV
+https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_716/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=445
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/351.png" tvg-id="351" ,Swara Sagar
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_533/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=351
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/630.png" tvg-id="630" ,Hindu Dharmam
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_864/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=630
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/708.png" tvg-id="708" ,Jaya TV HD
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_947/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=708
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/490.png" tvg-id="490" ,SVBC 2
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_771/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=490
