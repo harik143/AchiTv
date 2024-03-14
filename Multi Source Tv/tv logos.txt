@@ -533,3 +533,6 @@ http://Watchindia.net:8880//10787/40609/2101
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BvQzwSp.png" group-title="1 Telugu [ Watcindia ]",CALVARY TV
+
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi5DSQp6GAH_vzHC1nePR5zpafx2X9Ks1bCbKYMFlM1xYf0Xf_KcqVFHa8&s=10" group-title="1 Telugu [ Watcindia ]",ETV Abhiruchi
