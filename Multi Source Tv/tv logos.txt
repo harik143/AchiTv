@@ -236,3 +236,8 @@ http://Watchindia.net:8880//10787/40609/2170
 http://Watchindia.net:8880//10787/40609/2178
 #EXTINF:-1 group-title="Watch India English Movies" tvg-logo="https://watchindia.net/images/channels/english/Sony_Pix.png" tvg-id="sonypixhd.in" ,Sony Pix HD
 http://Watchindia.net:8880//10787/40609/2101
+
+
+
+
+#EXTINF: -1 tvg-logo="https://iili.io/Jc8WpHb.png" group-title="1 Telugu [ Watcindia ]", Star Maa Music
