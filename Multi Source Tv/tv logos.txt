@@ -43,9 +43,13 @@
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/172.png" tvg-id="172" ,History TV18
 
-
-
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/436.png" tvg-id="436" ,Safari TV
+
+#EXTINF:-1 group-title="None" tvg-logo="https://tatalogo.pages.dev/1168.png" tvg-id="1168" ,Tata Play Hollywood Local Telugu
+
+#EXTINF:-1 group-title="None" tvg-logo="https://tatalogo.pages.dev/1168.png" tvg-id="1168" ,Tata Sky Telugu Cinema
+
+#EXTINF:-1 group-title="None" tvg-logo="https://tatalogo.pages.dev/1168.png" tvg-id="1168" ,Telugu Cinema Club
 
 
 
