@@ -47,7 +47,7 @@
 
 #EXTINF:-1 group-title="None" tvg-logo="https://tatalogo.pages.dev/1168.png" tvg-id="1168" ,Tata Play Hollywood Local Telugu
 
-#EXTINF:-1 group-title="None" tvg-logo="https://tatalogo.pages.dev/1168.png" tvg-id="1168" ,Tata Sky Telugu Cinema Hd
+#EXTINF:-1 group-title="None" tvg-logo="https://tatalogo.pages.dev/1168.png" tvg-id="1168" ,TATA SKY TELUGU CINEMA HD
 
 #EXTINF:-1 group-title="None" tvg-logo="https://tatalogo.pages.dev/1168.png" tvg-id="1168" ,Telugu Cinema Club
 
