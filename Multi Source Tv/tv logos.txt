@@ -17,6 +17,8 @@
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/413.png" tvg-id="413" ,Nat Geo Wild
 
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/413.png" tvg-id="413" ,Nat Geo Wild 4K*
+
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/287.png" tvg-id="287" ,Animal Planet HD World
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/137.png" tvg-id="137" ,National Geographic
