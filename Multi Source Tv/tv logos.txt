@@ -241,3 +241,6 @@ http://Watchindia.net:8880//10787/40609/2101
 
 
 #EXTINF: -1 tvg-logo="https://iili.io/Jc8WpHb.png" group-title="1 Telugu [ Watcindia ]",Star Maa Music
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/BvQzwSp.png" group-title="1 Telugu [ Watcindia ]",CALVARY TV
