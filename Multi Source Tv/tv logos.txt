@@ -536,3 +536,8 @@ http://Watchindia.net:8880//10787/40609/2101
 
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi5DSQp6GAH_vzHC1nePR5zpafx2X9Ks1bCbKYMFlM1xYf0Xf_KcqVFHa8&s=10" group-title="1 Telugu [ Watcindia ]",ETV Abhiruchi
+
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5xNV5ngbxfYpKGfRth3cc-4DTkpPhsF2c2j3UOzthhzNTUFtl1zmEJK9A&s=10" group-title="1 Telugu [ Watcindia ]",Yupp Tv Veda
+
+
