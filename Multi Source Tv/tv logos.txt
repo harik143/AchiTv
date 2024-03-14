@@ -471,7 +471,7 @@ http://Watchindia.net:8880//10787/40609/938
 http://Watchindia.net:8880//10787/40609/937
 #EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/NTV_News.png" tvg-id="ntvnews.in" ,NTV News
 http://Watchindia.net:8880//10787/40609/2193
-#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Raj_Musix.png" tvg-id="rajmusixtelugu.in" ,Raj Musix Telugu
+#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Raj_Musix.png" tvg-id="rajmusixtelugu.in" ,Raj Music Telugu
 http://Watchindia.net:8880//10787/40609/957
 #EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Raj_News.png" tvg-id="rajnewstelugu.in" ,Raj News Telugu
 http://Watchindia.net:8880//10787/40609/956
