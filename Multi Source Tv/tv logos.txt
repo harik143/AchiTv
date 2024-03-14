@@ -15,13 +15,17 @@
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/167.png" tvg-id="167" ,Tata Play Vedic Maths
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/413.png" tvg-id="413" ,Nat Geo Wild HD
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/413.png" tvg-id="413" ,Nat Geo Wild
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/287.png" tvg-id="287" ,Animal Planet HD World
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/137.png" tvg-id="137" ,National Geographic
 
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/137.png" tvg-id="137" ,Nat Geo
+
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/341.png" tvg-id="341" ,Discovery HD World
+
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/341.png" tvg-id="341" ,Discovery World
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://tatalogo.pages.dev/184.png" tvg-id="184" ,Nat Geo Wild
 
