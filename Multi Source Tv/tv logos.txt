@@ -434,6 +434,99 @@ https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_692/output/manife
 
 
 
+#EXTM3U
+#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" tvg-id="starmaahd.in" ,Star Maa HD
+http://Watchindia.net:8880//10787/40609/933
+#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" tvg-id="starmaahd.in" ,Star Maa HD
+http://Watchindia.net:8880//10787/40609/2168
+#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Movies_HD.png" tvg-id="starmaamovieshd.in" ,Star Maa Movies HD
+http://Watchindia.net:8880//10787/40609/934
+#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Gold_HD.png" tvg-id="maagold.in" ,Star Maa Gold
+http://Watchindia.net:8880//10787/40609/935
+#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_TV_HD.png" tvg-id="geminitvhd.in" ,Gemini TV HD
+http://Watchindia.net:8880//10787/40609/928
+#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Comedy.png" tvg-id="geminicomedy.in" ,Gemini Comedy
+http://Watchindia.net:8880//10787/40609/971
+#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Movies_HD.png" tvg-id="geminimovieshd.in" ,Gemini Movies HD
+http://Watchindia.net:8880//10787/40609/930
+#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Music_HD.png" tvg-id="geminimusic.in" ,Gemini Music HD
+http://Watchindia.net:8880//10787/40609/929
+#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Life_HD.png" tvg-id="geminilife.in" ,Gemini Life
+http://Watchindia.net:8880//10787/40609/931
+#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/10_TV.png" tvg-id="10tv.in" ,10 TV
+http://Watchindia.net:8880//10787/40609/981
+#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/ABN_News.png" tvg-id="1sports.in" ,ABN News
+http://Watchindia.net:8880//10787/40609/980
+#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Bhakti_TV.png" tvg-id="bhaktitv.in" ,Bhakti TV
+http://Watchindia.net:8880//10787/40609/977
+#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/CVR_News.png" tvg-id="1sports.in" ,CVR News
+http://Watchindia.net:8880//10787/40609/975
+#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/DD_Saptagiri.png" tvg-id="ddsaptagiri.in" ,DD Saptagiri
+http://Watchindia.net:8880//10787/40609/974
+#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/ETV.png" tvg-id="etvhd.in" ,ETV HD
+http://Watchindia.net:8880//10787/40609/936
+#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/ETV_Life.png" tvg-id="etvlife.in" ,ETV Life
+http://Watchindia.net:8880//10787/40609/938
+#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/ETV_Plus.png" tvg-id="etvplus.in" ,ETV Plus
+http://Watchindia.net:8880//10787/40609/937
+#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/NTV_News.png" tvg-id="ntvnews.in" ,NTV News
+http://Watchindia.net:8880//10787/40609/2193
+#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Raj_Musix.png" tvg-id="rajmusixtelugu.in" ,Raj Musix Telugu
+http://Watchindia.net:8880//10787/40609/957
+#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Raj_News.png" tvg-id="rajnewstelugu.in" ,Raj News Telugu
+http://Watchindia.net:8880//10787/40609/956
+#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Sakshi_TV.png" tvg-id="sakshitv.in" ,Sakshi TV
+http://Watchindia.net:8880//10787/40609/955
+#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/kids/Sony_Yay.png" tvg-id="sony.yay.in" ,Sony Yay Telugu
+http://Watchindia.net:8880//10787/40609/2126
+#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/T_News.png" tvg-id="tnews.in" ,T News
+http://Watchindia.net:8880//10787/40609/949
+#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Thanthi_TV.png" tvg-id="thanthitv.in" ,Thanthi TV
+http://Watchindia.net:8880//10787/40609/947
+#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/TV9.png" tvg-id="tv9.in" ,TV9
+http://Watchindia.net:8880//10787/40609/945
+#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/V6_News.png" tvg-id="v6telugu.in" ,V6 News
+http://Watchindia.net:8880//10787/40609/943
+#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Vissa_TV.png" tvg-id="vissatv.in" ,Vissa TV
+http://Watchindia.net:8880//10787/40609/942
+#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Zee_Cinemalu.png" tvg-id="zeecinemaluhd.in" ,Zee Cinemalu HD
+http://Watchindia.net:8880//10787/40609/941
+#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Zee.png" tvg-id="zee.telugu.in" ,Zee Telugu
+http://Watchindia.net:8880//10787/40609/940
+#EXTINF:-1 group-title="(W I) English Movies" tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png" tvg-id="andflixhd.in" ,& Flix HD
+http://Watchindia.net:8880//10787/40609/2088
+#EXTINF:-1 group-title="(W I) English Movies" tvg-logo="https://watchindia.net/images/channels/english/And_Prive_HD.png" tvg-id="andprivehd.in" ,& Prive HD
+http://Watchindia.net:8880//10787/40609/2103
+#EXTINF:-1 group-title="(W I) English Movies" tvg-logo="https://watchindia.net/images/channels/english/Movies_Now_HD.png" tvg-id="moviesnowhd.in" ,Movies Now HD
+http://Watchindia.net:8880//10787/40609/2102
+#EXTINF:-1 group-title="(W I) English Movies" tvg-logo="https://watchindia.net/images/channels/english/Romedy_Now.png" tvg-id="romedynow.in" ,Romedy Now
+http://Watchindia.net:8880//10787/40609/2188
+#EXTINF:-1 group-title="(W I) English Movies" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Action.png" tvg-id="skyaction.uk" ,Sky Cinema Action
+http://Watchindia.net:8880//10787/40609/2176
+#EXTINF:-1 group-title="(W I) English Movies" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Comedy.png" tvg-id="skycinemacomedy.uk" ,Sky Cinema Comedy
+http://Watchindia.net:8880//10787/40609/2177
+#EXTINF:-1 group-title="(W I) English Movies" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Drama.png" tvg-id="skydrama.uk" ,Sky Cinema Drama
+http://Watchindia.net:8880//10787/40609/2179
+#EXTINF:-1 group-title="(W I) English Movies" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Family.png" tvg-id="skyfamily.uk" ,Sky Cinema Family
+http://Watchindia.net:8880//10787/40609/2173
+#EXTINF:-1 group-title="(W I) English Movies" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Greats.png" tvg-id="skygreats.uk" ,Sky Cinema Greats
+http://Watchindia.net:8880//10787/40609/2172
+#EXTINF:-1 group-title="(W I) English Movies" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Hits.png" tvg-id="skyhits.uk" ,Sky Cinema Hits
+http://Watchindia.net:8880//10787/40609/2171
+#EXTINF:-1 group-title="(W I) English Movies" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Premiere.png" tvg-id="skypremiere.uk" ,Sky Cinema Premiere
+http://Watchindia.net:8880//10787/40609/2169
+#EXTINF:-1 group-title="(W I) English Movies" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Sci-Fi_Horror.png" tvg-id="skyscifihorror.uk" ,Sky Cinema Sci-Fi/Horror
+http://Watchindia.net:8880//10787/40609/2180
+#EXTINF:-1 group-title="(W I) English Movies" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Select.png" tvg-id="skyselect.uk" ,Sky Cinema Select
+http://Watchindia.net:8880//10787/40609/2170
+#EXTINF:-1 group-title="(W I) English Movies" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Thriller.png" tvg-id="skythriller.uk" ,Sky Cinema Thriller
+http://Watchindia.net:8880//10787/40609/2178
+#EXTINF:-1 group-title="(W I) English Movies" tvg-logo="https://watchindia.net/images/channels/english/Sony_Pix.png" tvg-id="sonypixhd.in" ,Sony Pix HD
+http://Watchindia.net:8880//10787/40609/2101
+
+
+
+
 
 
 #EXTINF: -1 tvg-logo="https://iili.io/Jc8WpHb.png" group-title="1 Telugu [ Watcindia ]",Star Maa Music
