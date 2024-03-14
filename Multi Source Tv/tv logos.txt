@@ -238,6 +238,71 @@ http://Watchindia.net:8880//10787/40609/2178
 http://Watchindia.net:8880//10787/40609/2101
 
 
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/TauWtuJ.png" tvg-id="10TV.in" ,10 TV 
+https://ythls.armelin.one/channel/UCfymZbh17_3T_UhgjkQ9fRQ.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/dZA4gel.png" tvg-id="99TV.in" ,99TV 
+https://ythls.armelin.one/channel/UCl5YgCiwSRVOiC2Nd1P9v1A.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/gcoiZJ3.png" tvg-id="ABNAndhraJyoti.in" ,ABN Andhra Jyoti 
+https://ythls.armelin.one/channel/UC_2irx_BQR7RsBKmUV9fePQ.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://t.infibeam.com/img/lookandfeel/5101232/753d6e8f698e4_logo.png.999xx.png" tvg-id="AdityaMusic.in" ,Aditya Music
+https://ythls.armelin.one/channel/UCNApqoVYJbYSrni4YsbXzyQ.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Bhakthi_TV_logo.jpg" tvg-id="BhakthiTV.in" ,Bhakthi TV 
+https://ythls.armelin.one/channel/UCSzOZ97LOpU-_AVlGfmD4rQ.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/BvQzwSp.png" tvg-id="CalvaryTV.in" ,Calvary TV
+https://player.mslivestream.net/mslive/71e7f7cc7dc7c51206b7b3bbb51e3052.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/nxnGXJz.png" tvg-id="DDYadagiri.in" ,DD Yadagiri 
+https://ythls.armelin.one/channel/UC6V4nVa0CQkoLZUlg9drmZA.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/GJ52eFs.png" tvg-id="HMTV.in" ,HMTV 
+https://ythls.armelin.one/channel/UCNZOrs1QBt8cJnv9ud96qRA.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/nGJv6QR.png" tvg-id="NireekshanaTV.in" ,Nireekshana TV 
+https://ythls.armelin.one/channel/UCE2odzsjyDOClc7lCIdZ6OQ.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/WqTIoWS.png" tvg-id="NTVTelugu.in" ,NTV Telugu 
+https://ythls.armelin.one/channel/UCumtYpCY26F6Jr3satUgMvA.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sakshi_tv.jpg/512px-Sakshi_tv.jpg" tvg-id="SakshiTV.in" ,Sakshi TV 
+https://ythls.armelin.one/channel/UCQ_FATLW83q-4xJ2fsi8qAw.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/XVUGLxa.png" tvg-id="SonyBBCEarth.in" ,Sony BBC Earth HD (1080p)
+http://103.81.104.118/hls/stream5.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/hfk5jKE.png" tvg-id="SubhavaarthaTV.in" ,Subhavaartha TV
+https://2mk9qae4rwyb-hls-live.wmncdn.net/shubhavartha/live.stream/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/ufH48jV.png" tvg-id="TV9Telugu.in" ,TV9 Telugu
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/KuLZt2a.png" tvg-id="VanithaTV.in" ,Vanitha TV 
+https://ythls.armelin.one/channel/UCTcH-GOkexQHWKBWSfOjhPQ.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/3eAZMxA.png" tvg-id="ZeeHindustan.in" ,Zee Hindustan
+https://d336l5u76wvq7j.cloudfront.net/out/v1/5990b42d2b7b40bc8e581e90afe6ef94/index_4.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/UVLWX8B.png" tvg-id="CVRNews.in" ,CVR News Telugu 
+https://ythls.armelin.one/channel/UCixD-KrpjXtMupkzkdFFlFg.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/pFNCRnf.png" tvg-id="ETVAndhraPradesh.in" ,ETV Andhra Pradesh 
+https://ythls.armelin.one/channel/UCJi8M0hRKjz8SLPvJKEVTOg.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/DkgvWTK.png" tvg-id="ETVTelangana.in" ,ETV Telangana 
+https://ythls.armelin.one/channel/UC6ickpgDIsltU_-8CbZaksQ.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/IV1O11i.png" tvg-id="INews.in" ,iNEWS 
+https://ythls.armelin.one/channel/UC4jYxQXFqB5q6INV6WEQC2A.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/buT76vR.png" tvg-id="MahaaNews.in" ,Mahaa News 
+https://ythls.armelin.one/channel/UCDKjhgRoPF1CQk7HluMz23A.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://prime9news.com/wp-content/themes/prime9_v1/images/logo.png" tvg-id="Prime9News.in" ,Prime9 News 
+https://ythls.armelin.one/channel/UCLTZ5y21NnklrxpU5AfWd8w.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/vGl0Zrj.png" tvg-id="RajNewsTelugu.in" ,Raj News Telugu 
+https://ythls.armelin.one/channel/UCyMei315xIaoJTp5YOYjTxA.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/aOrvsYj.png" tvg-id="TV5News.in" ,TV5 News 
+https://ythls.armelin.one/channel/UCAR3h_9fLV82N2FH4cE4RKw.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/ctyGkhe.png" tvg-id="V6News.in" ,V6 News 
+https://ythls.armelin.one/channel/UCDCMjD1XIAsCZsYHNMGVcog.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/r7VrjKV/Zee-Telugu-News-2022-1.png" tvg-id="ZeeTeluguNews.in" ,Zee Telugu News 
+https://ythls.armelin.one/channel/UCfWo0Z5PKYd86JfQ5ZE5cWg.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.ibb.co/xhbZvzt/cropped-final-logo-300x127.png" tvg-id="GospelTVIndia.in" ,Gospel TV India
+http://live.adostream.com:1935/gospeltv/gospeltv/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://www.pmconlinetv.com/wp-content/uploads/2023/03/PMC-Telugu-Logo-85x85.png" tvg-id="PMCTelugu.in" ,PMC Hindi TV 
+https://ythls.armelin.one/channel/UCAxPB6BRBujBQwjO0Whg1Bg.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/LSMvXAl.png" tvg-id="SVBC.in" ,SVBC Sri Venkateswara Bhakti Channel
+https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.ibb.co/CBgJ4QV/metro-logo.jpg" tvg-id="MetroTV.in" ,Metro TV
+https://2nbyjxw5l53k-hls-live.qezycdn.com/metrotv/live.stream/playlist.m3u8
+
+
+
+
 
 
 #EXTINF: -1 tvg-logo="https://iili.io/Jc8WpHb.png" group-title="1 Telugu [ Watcindia ]",Star Maa Music
