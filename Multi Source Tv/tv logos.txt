@@ -556,6 +556,6 @@ http://Watchindia.net:8880//10787/40609/2101
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbrEkQV2EusPVeaPToYwSXNmC-rG1HzPByXr7W2jGHKhHOOZKQxeLDu50&s=10" group-title="1 Telugu [ Watcindia ]", Vanitha TV
 
 
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/516.png" tvg-id="516" ,MAA TV
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/516.png" tvg-id="516" ,Maa Tv
 
 
