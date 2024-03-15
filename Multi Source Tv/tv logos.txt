@@ -73,8 +73,7 @@ https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1827/output/manif
 https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1917/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=1117
 #EXTINF:-1 group-title="None" tvg-logo="https://tatalogo.pages.dev/1037.png" tvg-id="1037" ,Dhamaka Movies B4U
 https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1856/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=1037
-#EXTINF:-1 group-title="None" tvg-logo="https://tatalogo.pages.dev/1033.png" tvg-id="1033" ,Sports 18 - 1 HD
-https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1852/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=1033
+
 #EXTINF:-1 group-title="None" tvg-logo="https://tatalogo.pages.dev/1056.png" tvg-id="1056" ,Tata Play Har Ghar Startup
 https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1874/output/manifest.mpd|license_type=clearkey&license_key=https://denver1769.in/TP/KeyLelo.php?id=1056
 #EXTINF:-1 group-title="None" tvg-logo="https://tatalogo.pages.dev/1010.png" tvg-id="1010" ,Bharat 24
@@ -454,6 +453,9 @@ http://Watchindia.net:8880//10787/40609/929
 #EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Life_HD.png" tvg-id="geminilife.in" ,Gemini Life
 http://Watchindia.net:8880//10787/40609/931
 #EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/10_TV.png" tvg-id="10tv.in" ,10 TV
+
+#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/10_TV.png" tvg-id="10tv.in" ,10TV Telugu
+
 http://Watchindia.net:8880//10787/40609/981
 #EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/ABN_News.png" tvg-id="1sports.in" ,ABN News
 http://Watchindia.net:8880//10787/40609/980
@@ -480,6 +482,9 @@ http://Watchindia.net:8880//10787/40609/955
 #EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/kids/Sony_Yay.png" tvg-id="sony.yay.in" ,Sony Yay Telugu
 http://Watchindia.net:8880//10787/40609/2126
 #EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/T_News.png" tvg-id="tnews.in" ,T News
+
+#EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/T_News.png" tvg-id="tnews.in" ,T News Telugu
+
 http://Watchindia.net:8880//10787/40609/949
 #EXTINF:-1 group-title="(W I) Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Thanthi_TV.png" tvg-id="thanthitv.in" ,Thanthi TV
 http://Watchindia.net:8880//10787/40609/947
