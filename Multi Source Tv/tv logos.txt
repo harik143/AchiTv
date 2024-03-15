@@ -541,3 +541,16 @@ http://Watchindia.net:8880//10787/40609/2101
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5xNV5ngbxfYpKGfRth3cc-4DTkpPhsF2c2j3UOzthhzNTUFtl1zmEJK9A&s=10" group-title="1 Telugu [ Watcindia ]",YUPP TV VEDA
 
 
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sony_Sports_Network_Logo.png/768px-Sony_Sports_Network_Logo.png" group-title="1 Telugu [ Watcindia ]",Sony Ten
+
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKvhuB44Dnhm3TRwGgU5TP8x3XVOtcv-0y3Ou_4WECLlIrNOPsdfRpWJo&s=10" group-title="1 Telugu [ Watcindia ]",Star Sports
+
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbrEkQV2EusPVeaPToYwSXNmC-rG1HzPByXr7W2jGHKhHOOZKQxeLDu50&s=10" group-title="1 Telugu [ Watcindia ]", Vanitha TV
+
+
+
+
+
