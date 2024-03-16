@@ -781,7 +781,7 @@ http://b1g.ooo:80/98765432/98765432/20698
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://tatalogo.pages.dev/516.png" tvg-id="516" ,Maa Tv
 
-#EXTINF:-1 group-title="( B1G ) 24/7 CineMania" ,CineMania
+#EXTINF:-1 group-title="( B1G ) 24/7 CineMania" tvg-logo="http://b1g.fun/logos2/CineMania4K_gold.jpg" ,CineMania
 
 
 
