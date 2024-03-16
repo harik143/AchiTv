@@ -229,8 +229,11 @@ https://ardinesh-pc-remote.puspas.com.np/live-tv/jiotv-portal/live/jiotv-portal-
 https://ardinesh-pc-remote.puspas.com.np/live-tv/jiotv-portal/live/jiotv-portal-universal/sky-cinema-megahits-hd/index.ts
 #EXTINF:-1 group-title="( JioTv ) PREMIUM MOVIES" tvg-id="ardinesh-jiotv-portal-11963" ,HI DOST
 https://ardinesh-pc-remote.puspas.com.np/live-tv/jiotv-portal/live/jiotv-portal-universal/hi-dost/index.ts
-#EXTINF:-1 group-title="( JioTv ) TELUGU" tvg-id="ardinesh-jiotv-portal-42505" , CineMania Telugu 4K UHD hevc
+
+
+#EXTINF:-1 group-title="( JioTv ) TELUGU" tvg-logo="http://b1g.fun/logos2/CineMania4K_gold.jpg" tvg-id="ardinesh-jiotv-portal-42505" , CineMania Telugu 4K UHD hevc
 https://ardinesh-pc-remote.puspas.com.np/live-tv/jiotv-portal/live/jiotv-portal-universal/cinemania-telugu-4k-uhd-hevc/index.ts
+
 #EXTINF:-1 group-title="( JioTv ) TELUGU" tvg-id="ardinesh-jiotv-portal-42498" , CineMania Telugu 2 FHD
 https://ardinesh-pc-remote.puspas.com.np/live-tv/jiotv-portal/live/jiotv-portal-universal/cinemania-telugu-2-fhd/index.ts
 #EXTINF:-1 group-title="( JioTv ) TELUGU" tvg-id="ardinesh-jiotv-portal-42519" , CineMania Telugu 1 FHD
