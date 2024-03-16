@@ -783,5 +783,7 @@ http://b1g.ooo:80/98765432/98765432/20698
 
 #EXTINF:-1 group-title="( B1G ) 24/7 CineMania" tvg-logo="http://b1g.fun/logos2/CineMania4K_gold.jpg" ,CineMania
 
+#EXTINF:-1 group-title="( B1G ) 24/7 CineMania" tvg-logo="https://raw.githubusercontent.com/harik143/LiveTv/main/Logos/Telugu%20Movies.png" ,Telugu Movies
+
 
 
