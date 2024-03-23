@@ -1,0 +1,395 @@
+{
+	"js":[
+		{
+			"id":"*",
+			"title":"All",
+			"alias":"all",
+			"censored":0
+		},
+		{
+			"id":"1",
+			"title":"ENGLISH CA",
+			"number":"1",
+			"modified":"2021-07-09 14:00:16",
+			"censored":0,
+			"alias":"english ca"
+		},
+		{
+			"id":"2",
+			"title":"ENGLISH USA",
+			"number":"2",
+			"modified":"2019-09-19 13:08:00",
+			"censored":0,
+			"alias":"english usa"
+		},
+		{
+			"id":"3",
+			"title":"ENGLISH UK",
+			"number":"3",
+			"modified":"2019-09-19 13:08:12",
+			"censored":0,
+			"alias":"english uk"
+		},
+		{
+			"id":"4",
+			"title":"PREMIUM MOVIES",
+			"number":"4",
+			"modified":"2019-10-22 19:36:04",
+			"censored":0,
+			"alias":"premium movies"
+		},
+		{
+			"id":"6",
+			"title":"NEWS",
+			"number":"5",
+			"modified":"2020-08-25 02:37:12",
+			"censored":0,
+			"alias":"news"
+		},
+		{
+			"id":"5",
+			"title":"KIDS",
+			"number":"6",
+			"modified":"2019-10-22 19:36:02",
+			"censored":0,
+			"alias":"kids"
+		},
+		{
+			"id":"20",
+			"title":"FRENCH",
+			"number":"7",
+			"modified":"2019-10-22 19:36:00",
+			"censored":0,
+			"alias":"french"
+		},
+		{
+			"id":"7",
+			"title":"SPORTS",
+			"number":"8",
+			"modified":"2019-10-22 19:35:48",
+			"censored":0,
+			"alias":"sports"
+		},
+		{
+			"id":"8",
+			"title":"SPORTS PPV EVENTS",
+			"number":"19",
+			"modified":"2019-10-22 19:35:45",
+			"censored":0,
+			"alias":"sports ppv events"
+		},
+		{
+			"id":"57",
+			"title":"SPORTS | DAZN & ESPN PPV",
+			"number":"20",
+			"modified":"2020-10-25 22:31:11",
+			"censored":0,
+			"alias":"sports | dazn & espn ppv"
+		},
+		{
+			"id":"19",
+			"title":"CRICKET",
+			"number":"21",
+			"modified":"2020-10-25 22:31:11",
+			"censored":0,
+			"alias":"cricket"
+		},
+		{
+			"id":"21",
+			"title":"HINDI",
+			"number":"22",
+			"modified":"2020-10-25 22:31:00",
+			"censored":0,
+			"alias":"hindi"
+		},
+		{
+			"id":"67",
+			"title":"HINDI | 24\/7",
+			"number":"23",
+			"modified":"2022-12-18 04:13:17",
+			"censored":0,
+			"alias":"hindi | 24\/7"
+		},
+		{
+			"id":"22",
+			"title":"PUNJABI",
+			"number":"24",
+			"modified":"2022-04-05 20:10:29",
+			"censored":0,
+			"alias":"punjabi"
+		},
+		{
+			"id":"59",
+			"title":"PUNJABI | 24\/7",
+			"number":"25",
+			"modified":"2022-12-18 04:13:27",
+			"censored":0,
+			"alias":"punjabi | 24\/7"
+		},
+		{
+			"id":"24",
+			"title":"URDU",
+			"number":"26",
+			"modified":"2022-04-09 01:10:09",
+			"censored":0,
+			"alias":"urdu"
+		},
+		{
+			"id":"23",
+			"title":"GUJARATI",
+			"number":"27",
+			"modified":"2022-04-09 01:10:09",
+			"censored":0,
+			"alias":"gujarati"
+		},
+		{
+			"id":"25",
+			"title":"TAMIL",
+			"number":"28",
+			"modified":"2022-04-09 01:10:07",
+			"censored":0,
+			"alias":"tamil"
+		},
+		{
+			"id":"46",
+			"title":"SINHALA",
+			"number":"29",
+			"modified":"2022-04-09 01:10:05",
+			"censored":0,
+			"alias":"sinhala"
+		},
+		{
+			"id":"47",
+			"title":"TELUGU",
+			"number":"30",
+			"modified":"2022-04-09 01:09:55",
+			"censored":0,
+			"alias":"telugu"
+		},
+		{
+			"id":"26",
+			"title":"MALAYALAM",
+			"number":"31",
+			"modified":"2022-04-09 01:09:53",
+			"censored":0,
+			"alias":"malayalam"
+		},
+		{
+			"id":"27",
+			"title":"KANNADA",
+			"number":"32",
+			"modified":"2022-04-09 01:09:51",
+			"censored":0,
+			"alias":"kannada"
+		},
+		{
+			"id":"28",
+			"title":"BENGALI & BANGLA",
+			"number":"33",
+			"modified":"2022-04-09 01:09:49",
+			"censored":0,
+			"alias":"bengali & bangla"
+		},
+		{
+			"id":"32",
+			"title":"NEPALI",
+			"number":"34",
+			"modified":"2022-04-09 01:09:46",
+			"censored":0,
+			"alias":"nepali"
+		},
+		{
+			"id":"31",
+			"title":"ODIA",
+			"number":"35",
+			"modified":"2022-04-09 01:09:44",
+			"censored":0,
+			"alias":"odia"
+		},
+		{
+			"id":"30",
+			"title":"ASSAM",
+			"number":"36",
+			"modified":"2022-04-09 01:09:42",
+			"censored":0,
+			"alias":"assam"
+		},
+		{
+			"id":"29",
+			"title":"MARATHI",
+			"number":"37",
+			"modified":"2022-04-09 01:09:39",
+			"censored":0,
+			"alias":"marathi"
+		},
+		{
+			"id":"35",
+			"title":"AUSTRALIAN",
+			"number":"38",
+			"modified":"2022-04-09 01:09:37",
+			"censored":0,
+			"alias":"australian"
+		},
+		{
+			"id":"37",
+			"title":"AFGHAN & PERSIAN",
+			"number":"39",
+			"modified":"2022-04-09 01:09:35",
+			"censored":0,
+			"alias":"afghan & persian"
+		},
+		{
+			"id":"39",
+			"title":"ARABIC",
+			"number":"40",
+			"modified":"2022-04-09 01:09:33",
+			"censored":0,
+			"alias":"arabic"
+		},
+		{
+			"id":"45",
+			"title":"FOR ADULTS",
+			"number":"41",
+			"modified":"2022-04-09 01:09:31",
+			"censored":1,
+			"alias":"for adults"
+		},
+		{
+			"id":"34",
+			"title":"FILIPINO",
+			"number":"42",
+			"modified":"2022-04-09 01:09:27",
+			"censored":0,
+			"alias":"filipino"
+		},
+		{
+			"id":"44",
+			"title":"ITALIAN",
+			"number":"43",
+			"modified":"2022-04-09 01:09:25",
+			"censored":0,
+			"alias":"italian"
+		},
+		{
+			"id":"53",
+			"title":"TURKISH",
+			"number":"44",
+			"modified":"2022-04-09 01:09:23",
+			"censored":0,
+			"alias":"turkish"
+		},
+		{
+			"id":"48",
+			"title":"GREEK",
+			"number":"45",
+			"modified":"2022-04-09 01:09:19",
+			"censored":0,
+			"alias":"greek"
+		},
+		{
+			"id":"40",
+			"title":"POLISH",
+			"number":"47",
+			"modified":"2022-04-09 01:09:12",
+			"censored":0,
+			"alias":"polish"
+		},
+		{
+			"id":"49",
+			"title":"AFRICAN",
+			"number":"48",
+			"modified":"2022-04-09 01:08:57",
+			"censored":0,
+			"alias":"african"
+		},
+		{
+			"id":"33",
+			"title":"CARIBBEAN",
+			"number":"50",
+			"modified":"2022-04-09 01:08:30",
+			"censored":0,
+			"alias":"caribbean"
+		},
+		{
+			"id":"38",
+			"title":"EXYU",
+			"number":"51",
+			"modified":"2022-04-09 01:08:26",
+			"censored":0,
+			"alias":"exyu"
+		},
+		{
+			"id":"36",
+			"title":"SPANISH",
+			"number":"52",
+			"modified":"2022-04-09 01:08:20",
+			"censored":0,
+			"alias":"spanish"
+		},
+		{
+			"id":"50",
+			"title":"MEXICAN",
+			"number":"53",
+			"modified":"2022-04-09 01:07:47",
+			"censored":0,
+			"alias":"mexican"
+		},
+		{
+			"id":"51",
+			"title":"US LATINO",
+			"number":"54",
+			"modified":"2022-04-09 01:07:42",
+			"censored":0,
+			"alias":"us latino"
+		},
+		{
+			"id":"52",
+			"title":"ARGENTINA\/BRAZIL",
+			"number":"55",
+			"modified":"2022-04-09 01:07:29",
+			"censored":0,
+			"alias":"argentina\/brazil"
+		},
+		{
+			"id":"41",
+			"title":"PORTUGESE",
+			"number":"56",
+			"modified":"2022-04-09 01:07:26",
+			"censored":0,
+			"alias":"portugese"
+		},
+		{
+			"id":"55",
+			"title":"CHINESE",
+			"number":"57",
+			"modified":"2022-04-09 01:07:18",
+			"censored":0,
+			"alias":"chinese"
+		},
+		{
+			"id":"54",
+			"title":"ENGLISH MOVIES 24\/7",
+			"number":"58",
+			"modified":"2022-12-18 03:56:11",
+			"censored":0,
+			"alias":"english movies 24\/7"
+		},
+		{
+			"id":"70",
+			"title":"ENGLISH TV SHOWS | 24\/7",
+			"number":"59",
+			"modified":"2022-12-18 23:18:35",
+			"censored":0,
+			"alias":"english tv shows | 24\/7"
+		},
+		{
+			"id":"81",
+			"title":"KIDS | 24\/7",
+			"number":"60",
+			"modified":"2022-12-18 23:18:46",
+			"censored":0,
+			"alias":"kids | 24\/7"
+		}
+	],
+	"text":"generated in: 0.407s; query counter: 62; cache hits: 0; cache miss: 0; php errors: 0; sql errors: 0;"
+}
